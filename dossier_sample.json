@@ -1,0 +1,38 @@
+[ 
+    {
+    "number": 91,
+    "name": "ARCULUS",
+    "canonical_traits": {
+      "aethyr": "TEX",
+      "element": "Earth",
+      "personality_traits": [
+        "enduring",
+        "transmuting",
+        "mysterious"
+      ],
+      "domains": [
+        "transmutation",
+        "invisibility",
+        "crown mysteries"
+      ],
+      "tarot": "The World",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "Crown-shaped aurora over unseen figure",
+      "translation": "He who crowns the unseen"
+    },
+    "interpretive_traits": {
+      "essence": "Veils the final coronation of spirit; in his presence the invisible becomes sovereign.",
+      "themes": "Transcendence, humility of greatness, revelation of the hidden.",
+      "wisdom": "The greatest crown is never seen upon the head.",
+      "tokens": "Offer twilight lotus, mirror-finished coin, serpent crown symbol; avoid empty accolades.",
+      "challenge": "Fuse 3 Aura NFTs; contract checks RGB sum equals 0xFFFFFF; success mints Crown Nulla.",
+      "boon": "Crown grants invisibility for 10 blocks but drains 5 % HP per block while unseen.",
+      "verse": "Only the unseen light crowns the truest king.",
+      "angelic_role": "Lord of the hidden coronation, attended by 1 111 unseen heralds."
+    },
+
+    "visual_description": ""
+  }
+]
+

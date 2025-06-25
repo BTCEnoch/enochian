@@ -1,0 +1,91 @@
+On-chain quest unique to OCCODON requiring alignment with water cycles and demonstration of elemental mastery.
+On-chain quest unique to PASCOMB requiring alignment with water cycles and demonstration of elemental mastery.
+On-chain quest unique to VALGARS requiring alignment with water cycles and demonstration of elemental mastery.
+On-chain quest unique to DOAGNIS requiring alignment with water cycles and demonstration of elemental mastery.
+On-chain quest unique to PACASNA requiring alignment with water cycles and demonstration of elemental mastery.
+On-chain quest unique to DIALOIA requiring alignment with water cycles and demonstration of elemental mastery.
+On-chain quest unique to SAMAPHA requiring alignment with water cycles and demonstration of elemental mastery.
+On-chain quest unique to VIROOLI requiring alignment with water cycles and demonstration of elemental mastery.
+On-chain quest unique to ANDISPI requiring alignment with water cycles and demonstration of elemental mastery.
+On-chain quest unique to ZIXLAYI requiring alignment with water cycles and demonstration of elemental mastery.
+On-chain quest unique to LABNIXP requiring alignment with water cycles and demonstration of elemental mastery.
+On-chain quest unique to CALVIZA requiring alignment with air cycles and demonstration of elemental mastery.
+On-chain quest unique to AVTOTAR requiring alignment with air cycles and demonstration of elemental mastery.
+On-chain quest unique to ICHIZA requiring alignment with air cycles and demonstration of elemental mastery.
+On-chain quest unique to TIARPAX requiring alignment with water cycles and demonstration of elemental mastery.
+On-chain quest unique to SAXTOMP requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to VAUAAMP requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to ZIRZIRD requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to OPMACAS requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to GENADOL requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to ASPIAON requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to ZAMFRES requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to TODNAON requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to PRISTAC requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to ODDIORG requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to CRALPIR requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to DOANZIN requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to LEXARPH requiring alignment with spirit cycles and demonstration of elemental mastery.
+On-chain quest unique to COMANAN requiring alignment with spirit cycles and demonstration of elemental mastery.
+On-chain quest unique to TABITOM requiring alignment with spirit cycles and demonstration of elemental mastery.
+On-chain quest unique to MOLPAND requiring alignment with water cycles and demonstration of elemental mastery.
+On-chain quest unique to VSNARDA requiring alignment with water cycles and demonstration of elemental mastery.
+On-chain quest unique to PONODOL requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to TAPAMAL requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to GEDOONS requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to NOCAMAL requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to ISEMTAR requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to MASTIPT requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to CAMAXOX requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to EXGSDIA requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to SAPDION requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to ALPUDUS requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to TAHAMDO requiring alignment with air cycles and demonstration of elemental mastery.
+On-chain quest unique to NOTIABI requiring alignment with air cycles and demonstration of elemental mastery.
+On-chain quest unique to TASTOZO requiring alignment with air cycles and demonstration of elemental mastery.
+On-chain quest unique to CALZICH requiring alignment with fire cycles and demonstration of elemental mastery.
+On-chain quest unique to ALDAPI requiring alignment with fire cycles.
+On-chain quest unique to ANELOB requiring alignment with fire cycles.
+On-chain quest unique to ARSPHOR requiring alignment with fire cycles.
+On-chain quest unique to AYDROPT requiring alignment with air cycles.
+On-chain quest unique to TOCARZI requiring alignment with air cycles.
+Fuse two 'Grief-Sigils' on-chain at local dawn; smart-contract verifies sha256(merged_tears) hash of acceptance.
+On-chain quest unique to SANIZAR requiring alignment with air cycles.
+On-chain quest unique to CHIALPS requiring alignment with air cycles.
+On-chain quest unique to ZIRACAH requiring alignment with air cycles.
+On-chain quest unique to MEMNIE requiring alignment with fire cycles.
+On-chain quest unique to VAUNESH requiring alignment with fire cycles.
+On-chain quest unique to NATGLAF requiring alignment with fire cycles.
+On-chain quest unique to OLXNOSP requiring alignment with fire cycles.
+On-chain quest unique to MIANTRA requiring alignment with fire cycles.
+On-chain quest unique to GAVSTEX requiring alignment with earth cycles.
+On-chain quest unique to LABRINO requiring alignment with earth cycles.
+On-chain quest unique to VORGAMI requiring alignment with earth cycles.
+On-chain quest unique to TASCHOX requiring alignment with earth cycles.
+On-chain quest unique to DOLMANI requiring alignment with earth cycles.
+On-chain quest unique to ZIRFARZ requiring alignment with earth cycles.
+On-chain quest unique to PAZIMOL requiring alignment with earth cycles.
+On-chain quest unique to ONIZIMP requiring alignment with earth cycles.
+On-chain quest unique to ZAXANIN requiring alignment with earth cycles.
+On-chain quest unique to ORANCIR requiring alignment with earth cycles.
+On-chain quest unique to CHASLPO requiring alignment with earth cycles.
+On-chain quest unique to SOAGEEL requiring alignment with earth cycles.
+On-chain quest unique to ERZLAKU requiring alignment with earth cycles.
+On-chain quest unique to OBUAORS requiring alignment with earth cycles.
+On-chain quest unique to RANGLAM requiring alignment with earth cycles.
+On-chain quest unique to ANGLOAI requiring alignment with spirit cycles.
+On-chain quest unique to NIGRANA requiring alignment with earth cycles.
+On-chain quest unique to LAZHIIM requiring alignment with earth cycles.
+On-chain quest unique to SAZIAMI requiring alignment with earth cycles.
+On-chain quest unique to MATHVLA requiring alignment with earth cycles.
+On-chain quest unique to CRPANIB requiring alignment with earth cycles.
+On-chain quest unique to PABNIXP requiring alignment with earth cycles.
+On-chain quest unique to POCISNI requiring alignment with spirit cycles.
+On-chain quest unique to OXLOPAR requiring alignment with air cycles.
+On-chain quest unique to VASTRIM requiring alignment with air cycles.
+On-chain quest unique to ODRAXTI requiring alignment with fire cycles.
+On-chain quest unique to GMTZIAM requiring alignment with fire cycles.
+On-chain quest unique to TAAOGBA requiring alignment with fire cycles.
+On-chain quest unique to GEMNIMB requiring alignment with spirit cycles.
+On-chain quest unique to ADVORPT requiring alignment with spirit cycles.
+On-chain quest unique to ARCULUS requiring alignment with spirit cycles.

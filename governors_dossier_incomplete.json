@@ -1,0 +1,2196 @@
+[
+  {
+    "name": "OCCODON",
+    "number": 1,
+    "canonical_traits": {
+      "element": "Water",
+      "aethyr": "LIL",
+      "translation": "He whose name is renewal",
+      "personality_traits": [
+        "integrative",
+        "mercurial",
+        "empathic",
+        "poised"
+      ],
+      "domains_of_knowledge": [
+        "polarity alchemy",
+        "dream incubation"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "OCCODON is the *First Current*—the pulse of primordial tide that dissolves the debris of aeons and baptises form into new becoming. Egyptians knew him as the hidden swell beneath the Nile’s yearly flood.",
+      "themes": "*Virtues*: resilience, merciful renewal, fertility of mind.\n*Vices*: stagnation, despair, necrophilic clinging to spent cycles.",
+      "verse": "“From the flood‑gate of his chalice all beginnings are poured.”",
+      "boon": "*Wave‑Sigil* grants +1 daily energy **but** halves token rewards during eclipses—OCCODON teaches growth through ebb as well as flow."
+    }
+  },
+  {
+    "name": "PASCOMB",
+    "number": 2,
+    "canonical_traits": {
+      "element": "Water",
+      "aethyr": "LIL",
+      "translation": "He who precedes understanding",
+      "personality_traits": [
+        "catalytic",
+        "restless",
+        "strategic"
+      ],
+      "domains_of_knowledge": [
+        "conflict geometry",
+        "sacred cartography"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "PASCOMB is the diamond‑spark on the cusp of dawn—intuition before thought, the proto‑logos.",
+      "themes": "*Virtues*: curiosity, intellectual humility, patient incubation.\n*Vices*: presumption, dogma, rash theorising.",
+      "verse": "“The spark that blinds is also the spark that guides.”",
+      "boon": "Starseed Sigil boosts puzzle RNG luck yet doubles chaos‑event curse chance—knowledge courts peril."
+    }
+  },
+  {
+    "name": "VALGARS",
+    "number": 3,
+    "canonical_traits": {
+      "element": "Water",
+      "aethyr": "LIL",
+      "translation": "He who works with that which is",
+      "personality_traits": [
+        "enterprising",
+        "stalwart",
+        "pragmatic"
+      ],
+      "domains_of_knowledge": [
+        "guild craft",
+        "herbal metallurgy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Master‑artisan of reality; he teaches transmutation through *present* resources, turning base circumstance into holy craft.",
+      "themes": "*Virtues*: diligence, integrity, pragmatic vision.\n*Vices*: escapism, waste, idle fantasia.",
+      "verse": "“What is, is the furnace of what may yet be.”",
+      "boon": "Key halves crafting costs but prevents fast‑travel—craftsman must walk his workshop floor."
+    }
+  },
+  {
+    "name": "DOAGNIS",
+    "number": 4,
+    "canonical_traits": {
+      "element": "Water",
+      "aethyr": "ARN",
+      "translation": "She who comes without a name",
+      "personality_traits": [
+        "discerning",
+        "alluring",
+        "even‑handed"
+      ],
+      "domains_of_knowledge": [
+        "shadow psychometry",
+        "lunar judicature"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "She is the anonymous benefaction—the answer that slips in unlabelled.",
+      "themes": "*Virtues*: humility, receptivity, silent courage.\n*Vices*: doctrinal rigidity, prejudice, name‑magic abuse.",
+      "verse": "“That which escapes the tongue weaves the deepest spell.”",
+      "boon": "Grimoire grants +1 secret‑slot inventory but hides player name from global leaderboards—obscurity as both shield and shroud."
+    }
+  },
+  {
+    "name": "PACASNA",
+    "number": 5,
+    "canonical_traits": {
+      "element": "Water",
+      "aethyr": "ARN",
+      "translation": "She who is unchanged by time",
+      "personality_traits": [
+        "cathartic",
+        "secretive",
+        "resilient"
+      ],
+      "domains_of_knowledge": [
+        "death‑rites",
+        "serpent tantra"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "She is the still‑point of eternity, the unmoved center about which aeons wheel.",
+      "themes": "*Virtues*: steadfast loyalties, equanimity, foresight.\n*Vices*: fickleness, novelty worship, mortality dread.",
+      "verse": "“In the hush between heartbeats, the cosmos remembers itself.”",
+      "boon": "Evergreen negates artifact decay timers yet doubles offering costs—eternity is expensive."
+    }
+  },
+  {
+    "name": "DIALOIA",
+    "number": 6,
+    "canonical_traits": {
+      "element": "Water",
+      "aethyr": "ARN",
+      "translation": "The god where truth is",
+      "personality_traits": [
+        "truth‑seeking",
+        "sincere",
+        "philosophical"
+      ],
+      "domains_of_knowledge": [
+        "hydromancy",
+        "number mysticism"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Embodied Logos—wherever truth stands revealed, there is Dialoia enthroned.",
+      "themes": "*Virtues*: integrity, lucid discernment, faith in verity.\n*Vices*: deceit, relativistic apathy, false prophecy.",
+      "verse": "“Cut deep enough, and the vein of creation runs crystal.”",
+      "boon": "Seal grants immunity to Chaos curses but forces public display of all future choices—truth’s price is transparency."
+    }
+  },
+  {
+    "name": "SAMAPHA",
+    "number": 7,
+    "canonical_traits": {
+      "element": "Water",
+      "aethyr": "ZOM",
+      "translation": "He who is with continuity",
+      "personality_traits": [
+        "meticulous",
+        "nurturing",
+        "analytical"
+      ],
+      "domains_of_knowledge": [
+        "plant alchemy",
+        "ritual hygiene"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Guardian of the golden thread—ensuring identity endures through all transformations.",
+      "themes": "*Virtues*: perseverance, loyal memory, narrative coherence.\n*Vices*: amnesia of purpose, abandonment, fragmentation.",
+      "verse": "“Stretch the thread through lifetimes; it will not snap, only weave.”",
+      "boon": "Thread allows one checkpoint skip per day **but** permanently logs player death count—continuity records even failure."
+    }
+  },
+  {
+    "name": "VIROOLI",
+    "number": 8,
+    "canonical_traits": {
+      "element": "Water",
+      "aethyr": "ZOM",
+      "translation": "He who made the first nest",
+      "personality_traits": [
+        "eruptive",
+        "iconoclastic",
+        "awe‑inspiring"
+      ],
+      "domains_of_knowledge": [
+        "storm magic",
+        "temple architecture"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Architect of the *primordial sanctuary*—the inner chamber each soul must raise before commanding outer realms.",
+      "themes": "Virtues: spiritual hospitality, inner order, protective devotion.\nVices: profanation, rootlessness, cluttered spirit.",
+      "verse": "“In the smallest shell sleeps the echo of every cathedral.”",
+      "boon": "Glyph grants cheaper shrine‑building yet doubles offering costs during eclipses."
+    }
+  },
+  {
+    "name": "ANDISPI",
+    "number": 9,
+    "canonical_traits": {
+      "element": "Water",
+      "aethyr": "ZOM",
+      "translation": "He who binds into obedience",
+      "personality_traits": [
+        "binding",
+        "harmonic",
+        "loyal"
+      ],
+      "domains_of_knowledge": [
+        "myth‑weaving",
+        "acoustic healing"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Personification of **covenant**—the resonant vow knitting separate wills into living harmony.",
+      "themes": "Virtues: loyal consent, rhythmic discipline.\nVices: coercion, oath‑breaking, tyrannic force.",
+      "verse": "“Without concord, the flood returns to chaos.”",
+      "boon": "Seal halves pact fees but forbids unilateral item trades for 24 blocks."
+    }
+  },
+  {
+    "name": "ZIXLAYI",
+    "number": 10,
+    "canonical_traits": {
+      "element": "Water",
+      "aethyr": "ZOM",
+      "translation": "She whose visits bring victory",
+      "personality_traits": [
+        "triumphant",
+        "motivational",
+        "far‑sighted"
+      ],
+      "domains_of_knowledge": [
+        "evolutionary lore",
+        "angelic philology"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Catalyst of **triumphant momentum**—the precise updraft that lets evolution leap.",
+      "themes": "Virtues: strategic patience, catalytic optimism.\nVices: premature acclaim, victory hubris.",
+      "verse": "“The hour of the leap is written in silk long before the wing unfolds.”",
+      "boon": "Banner boosts first‑strike RNG but disables stealth rituals while held."
+    }
+  },
+  {
+    "name": "LABNIXP",
+    "number": 11,
+    "canonical_traits": {
+      "element": "Water",
+      "aethyr": "ZOM",
+      "translation": "He who was made a leader",
+      "personality_traits": [
+        "authoritative",
+        "ethical",
+        "rhetorically sharp"
+      ],
+      "domains_of_knowledge": [
+        "civic oratory",
+        "theurgical ethics"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Embodies **servant‑leadership**—authority tempered by bearing the weight of communal meaning.",
+      "themes": "Virtues: rhetorical integrity, ethical courage.\nVices: demagoguery, moral evasion.",
+      "verse": "“The crown is but the weight of every word spoken beneath it.”",
+      "boon": "Seal elevates governance power yet amplifies chaos curses by 20 %."
+    }
+  },
+  {
+    "name": "CALVIZA",
+    "number": 12,
+    "canonical_traits": {
+      "element": "Air",
+      "aethyr": "LOE",
+      "translation": "Son of the three‑fold throne",
+      "personality_traits": [
+        "lucid",
+        "inquisitive",
+        "tri‑perspectival"
+      ],
+      "domains_of_knowledge": [
+        "optics",
+        "ophidian herb‑work"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Bearer of **triple‑sight**—past, present, future refracted in a single ray.",
+      "themes": "Virtues: holistic perception, fearless inquiry.\nVices: tunnel‑vision, analytic arrogance.",
+      "verse": "“In one gleam lives the memory of three suns.”",
+      "boon": "Eye grants secret‑text vision but blinds map markers for 50 blocks."
+    }
+  },
+  {
+    "name": "AVTOTAR",
+    "number": 13,
+    "canonical_traits": {
+      "element": "Air",
+      "aethyr": "LOE",
+      "translation": "He who protects that which is",
+      "personality_traits": [
+        "vigilant",
+        "precise",
+        "conservator"
+      ],
+      "domains_of_knowledge": [
+        "metaphysical safeguards",
+        "apotropaics"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Guardian of **ontological boundaries**—keeper of reality’s syntax.",
+      "themes": "Virtues: definitional clarity, vigilant guardianship.\nVices: semantic rigidity, over‑protection.",
+      "verse": "“Name the edge of being, or the abyss will.”",
+      "boon": "Wardstone blocks a chaos event but deletes 1 random low‑tier artifact on use."
+    }
+  },
+  {
+    "name": "ICHIZA",
+    "number": 14,
+    "canonical_traits": {
+      "element": "Air",
+      "aethyr": "LOE",
+      "translation": "He who proceeds with wisdom",
+      "personality_traits": [
+        "contemplative",
+        "practical",
+        "sonorous"
+      ],
+      "domains_of_knowledge": [
+        "psycho‑acoustics",
+        "liminal dreaming"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Pulse of **progressive discernment**—wisdom unfolding like a measured hymn.",
+      "themes": "Virtues: methodical learning, psychoacoustic harmony.\nVices: info‑glut paralysis, suppressed intuition.",
+      "verse": "“In the hush of the mind, ladders of light unfold.”",
+      "boon": "Seal aids dream realms but doubles token cost for material‑world crafting."
+    }
+  },
+  {
+    "name": "TIARPAX",
+    "number": 15,
+    "canonical_traits": {
+      "element": "Water",
+      "aethyr": "LIT",
+      "translation": "He whose name means truth",
+      "personality_traits": [
+        "reflective",
+        "geometrical",
+        "sincere"
+      ],
+      "domains_of_knowledge": [
+        "sacred geometry",
+        "cosmography"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Mirror of **cosmic verity**—where macrocosm and microcosm recognise themselves.",
+      "themes": "Virtues: introspective honesty, geometric elegance.\nVices: self‑deception, chaotic pattern‑making.",
+      "verse": "“Gaze upon the tide; there the constellations confess their author.”",
+      "boon": "Mirror unmasks falsehoods but reflects player’s own failures into public ledger."
+    }
+  },
+  {
+    "name": "SAXTOMP",
+    "number": 16,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "MAZ",
+      "translation": "She whose name means understanding",
+      "personality_traits": [
+        "devotional",
+        "patient",
+        "sapient"
+      ],
+      "domains_of_knowledge": [
+        "astro‑herbalism",
+        "metaphysics"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "SAXTOMP is the *Flame of Comprehension*—a hearth‑wisdom that burns away illusion until only the bone‑truth of the cosmos remains.",
+      "themes": "Virtues: disciplined enquiry, contemplative ardour, cosmic humility.\nVices: dogmatic zeal, scorched‑earth rhetoric.",
+      "verse": "“Mind is tinder; stars are flint.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "VAUAAMP",
+    "number": 17,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "MAZ",
+      "translation": "He who initiates action",
+      "personality_traits": [
+        "initiative‑driven",
+        "balanced",
+        "constructive"
+      ],
+      "domains_of_knowledge": [
+        "geomantic design",
+        "solar distillation"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "VAUAAMP is the *Spark‑Architect*—first mover who sketches sacred angles in living fire.",
+      "themes": "Virtues: calibrated courage, alchemical balance.\nVices: rash impulse, half‑formed blueprints.",
+      "verse": "“The first stroke decides the cathedral.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "ZIRZIRD",
+    "number": 18,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "MAZ",
+      "translation": "He who was and will be",
+      "personality_traits": [
+        "cyclical",
+        "visionary",
+        "persevering"
+      ],
+      "domains_of_knowledge": [
+        "cosmic cycles",
+        "astronomical coding"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ZIRZIRD embodies the *Revolving Ledger*—a cosmic accountant tallying epochs in star‑wheels.",
+      "themes": "Virtues: long‑range vision, patient iteration.\nVices: perfection paralysis, nostalgia loops.",
+      "verse": "“A future once lived returns wearing fresh dawn.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "OPMACAS",
+    "number": 19,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "DEO",
+      "translation": "He who is from the beginning",
+      "personality_traits": [
+        "protogenic",
+        "daring",
+        "eloquent"
+      ],
+      "domains_of_knowledge": [
+        "first‑principle magic",
+        "eidetic dreaming"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "First‑fire of genesis—OPMACAS breathes form into formless dream.",
+      "themes": "Virtues: visionary daring, proto‑creativity.\nVices: hubris of “originality,” dismissal of lineage.",
+      "verse": "“Origin sleeps in every ember; rouse it wisely.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "GENADOL",
+    "number": 20,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "DEO",
+      "translation": "He who only attracts",
+      "personality_traits": [
+        "magnetic",
+        "charismatic",
+        "tactical"
+      ],
+      "domains_of_knowledge": [
+        "ritual attraction",
+        "aero‑divination"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "GENADOL is magnetic command—the charisma that bends fate’s iron filings.",
+      "themes": "Virtues: tactical grace, noble persuasion.\nVices: manipulation, vanity of followers.",
+      "verse": "“Desire is the wind that obeys the confident helm.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "ASPIAON",
+    "number": 21,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "DEO",
+      "translation": "She who precedes inner truth",
+      "personality_traits": [
+        "immutable",
+        "stoic",
+        "strategic‑seer"
+      ],
+      "domains_of_knowledge": [
+        "ceremonial law",
+        "dragon‑fire geomancy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ASPIAON is the herald of rightful order—testing motives before the tribunal of fire.",
+      "themes": "Virtues: incorruptible judgment, rhythmic discipline.\nVices: punitive excess, inflexible edict.",
+      "verse": "“The flame weighs both gold and straw.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "ZAMFRES",
+    "number": 22,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "ZID",
+      "translation": "He who appears when praised",
+      "personality_traits": [
+        "celebratory",
+        "aspiring",
+        "inspirational"
+      ],
+      "domains_of_knowledge": [
+        "dream artistry",
+        "creative alchemy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Patron of inspired acclaim—ZAMFRES materialises where genuine gratitude is spoken.",
+      "themes": "Virtues: appreciative wonder, co‑creation.\nVices: fawning flattery, empty applause.",
+      "verse": "“Where the heart sings true, the angel steps through.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "TODNAON",
+    "number": 23,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "ZID",
+      "translation": "He who is and will be",
+      "personality_traits": [
+        "prophetic",
+        "surveying",
+        "liminal"
+      ],
+      "domains_of_knowledge": [
+        "lenscraft",
+        "earth‑water synthesis"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "TODNAON governs the *Reflected Future*—seeing destiny in shifting surfaces.",
+      "themes": "Virtues: adaptable foresight, terrain attunement.\nVices: mirage‑chasing, fatalism.",
+      "verse": "“The water remembers steps not yet taken.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "PRISTAC",
+    "number": 24,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "ZID",
+      "translation": "He who has the likeness of a holy one",
+      "personality_traits": [
+        "steadfast",
+        "devotional",
+        "resonant"
+      ],
+      "domains_of_knowledge": [
+        "hieratic linguistics",
+        "toning therapy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "PRISTAC mirrors celestial archetype—inviting mortals to echo higher harmony.",
+      "themes": "Virtues: integrity of tone, sacred imitation.\nVices: hollow performance, icon‑idolatry.",
+      "verse": "“The image you reflect becomes your judge.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "ODDIORG",
+    "number": 25,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "ZIP",
+      "translation": "He of fire and justice",
+      "personality_traits": [
+        "judicial",
+        "impassioned",
+        "crusading"
+      ],
+      "domains_of_knowledge": [
+        "esoteric maths",
+        "martial psyche"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ODDIORG adjudicates the psyche—tempering will in crucibles of number.",
+      "themes": "Virtues: courageous introspection, balanced logic.\nVices: self‑righteousness, punitive arithmancy.",
+      "verse": "“Justice ignites where the mind meets the mirror.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "CRALPIR",
+    "number": 26,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "ZIP",
+      "translation": "He of bright joy",
+      "personality_traits": [
+        "fervent",
+        "purifying",
+        "incendiary"
+      ],
+      "domains_of_knowledge": [
+        "metallurgic transmutation",
+        "pyromancy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "CRALPIR radiates triumphant solace—sunrise after battlefield night.",
+      "themes": "Virtues: jubilant resilience, tactical mercy.\nVices: reckless optimism, blinding cheer.",
+      "verse": "“The brightest hymn leaves shadow for the weary to rest.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "DOANZIN",
+    "number": 27,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "ZIP",
+      "translation": "He who names the waters",
+      "personality_traits": [
+        "catalytic",
+        "fervent",
+        "ardent"
+      ],
+      "domains_of_knowledge": [
+        "solar rites",
+        "pyromancy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Master of reflective nomenclature—DOANZIN grants authority over the hidden shapes of tides.",
+      "themes": "Virtues: precise designation, aquatic clarity.\nVices: rigid taxonomy, tidal wrath.",
+      "verse": "“The river answers only to its true name.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "LEXARPH",
+    "number": 28,
+    "canonical_traits": {
+      "element": "Spirit",
+      "aethyr": "ZAX",
+      "translation": "He who is first of the air",
+      "personality_traits": [
+        "integrative",
+        "luminous",
+        "visionary"
+      ],
+      "domains_of_knowledge": [
+        "soul weaving",
+        "sigil calculus"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "LEXARPH rides the liminal breeze between worlds, scripting fate upon invisible vellum.",
+      "themes": "Virtues: poised adaptability, silent mastery.\nVices: aloof counsel, over‑abstraction.",
+      "verse": "“The unseen path bears the surest step.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "COMANAN",
+    "number": 29,
+    "canonical_traits": {
+      "element": "Spirit",
+      "aethyr": "ZAX",
+      "translation": "He who knows how to manifest",
+      "personality_traits": [
+        "priestly",
+        "ritualistic",
+        "genealogical"
+      ],
+      "domains_of_knowledge": [
+        "spirit genealogy",
+        "covenant smithing"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "COMANAN teaches seed‑alchemy—drawing spirit into leaf and legend.",
+      "themes": "Virtues: nurturing patience, mythic imagination.\nVices: stagnation, story‑addiction.",
+      "verse": "“A story planted bears unimagined fruit.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "TABITOM",
+    "number": 30,
+    "canonical_traits": {
+      "element": "Spirit",
+      "aethyr": "ZAX",
+      "translation": "He who is like fire",
+      "personality_traits": [
+        "spirited",
+        "messenger‑like",
+        "clarifying"
+      ],
+      "domains_of_knowledge": [
+        "pneuma study",
+        "ether navigation"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "TABITOM is the *Solar Paradox*—spirit‑fire that neither burns nor dims, but transmutes.",
+      "themes": "Virtues: cyclical renewal, luminous courage.\nVices: consuming fervour, blinding certainty.",
+      "verse": "“Rise thrice‑lit, and the world pursues your shadow.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "MOLPAND",
+    "number": 31,
+    "canonical_traits": {
+      "element": "Water",
+      "aethyr": "ICH",
+      "translation": "He who receives men",
+      "personality_traits": [
+        "tidal",
+        "fluid",
+        "adaptive"
+      ],
+      "domains_of_knowledge": [
+        "hydromancy",
+        "dream navigation"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "MOLPAND is the *Port of Souls*—tranquil harbour where journeymen spirits first taste incarnation.",
+      "themes": "Welcoming, transmutation, gentle guidance; shadowed by noblesse‑oblige condescension.",
+      "verse": "“Raise the cup, know the sea within.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "VSNARDA",
+    "number": 32,
+    "canonical_traits": {
+      "element": "Water",
+      "aethyr": "ICH",
+      "translation": "He who casts down into the depths",
+      "personality_traits": [
+        "reflective",
+        "adaptive",
+        "tidal"
+      ],
+      "domains_of_knowledge": [
+        "hydromancy",
+        "aqua healing"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Keeper of abyss‑initiations—VSNARDA drags arrogance beneath black tides until humility breathes anew.",
+      "themes": "Descent, cyclical fate, whispered lore; peril of endless sinking.",
+      "verse": "“Dive past words; recover truth scaled and glistening.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "PONODOL",
+    "number": 33,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "ICH",
+      "translation": "He who destroys and creates",
+      "personality_traits": [
+        "ardent",
+        "catalytic",
+        "fervent"
+      ],
+      "domains_of_knowledge": [
+        "solar rites",
+        "inner furnace yoga"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "PONODOL is the *Forge‑Cataclysm*—breaker of obsolete forms and midwife of new laws.",
+      "themes": "Surgical destruction, tactical rebirth; hazard of collateral pyres.",
+      "verse": "“Rubble remembers the shape of tomorrow.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "TAPAMAL",
+    "number": 34,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "LOE",
+      "translation": "She as at the beginning",
+      "personality_traits": [
+        "catalytic",
+        "transformative",
+        "ardent"
+      ],
+      "domains_of_knowledge": [
+        "pyromancy",
+        "metallurgic transmutation"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "First‑note of cosmic hymn—TAPAMAL re‑strikes the fundamental tone that births worlds.",
+      "themes": "Reset, harmony, stellar melody; danger of dissonant echoes.",
+      "verse": "“Before words were, there was pitch.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "GEDOONS",
+    "number": 35,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "LOE",
+      "translation": "He who eliminates your name",
+      "personality_traits": [
+        "catalytic",
+        "incendiary",
+        "transformative"
+      ],
+      "domains_of_knowledge": [
+        "inner furnace yoga",
+        "solar rites"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "GEDOONS wields erasure—striking identities from celestial rolls to grant tactical invisibility.",
+      "themes": "Silence, anonymity, star‑fate severance; risk of self‑obliteration.",
+      "verse": "“In absence, the hunter passes unseen.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "NOCAMAL",
+    "number": 36,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "LOE",
+      "translation": "He who continuously comforts",
+      "personality_traits": [
+        "purifying",
+        "ardent",
+        "incendiary"
+      ],
+      "domains_of_knowledge": [
+        "metallurgic transmutation",
+        "inner furnace yoga"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Guardian‑lullaby—NOCAMAL stills stormed hearts, weaving ember‑dreams of solace.",
+      "themes": "Restoration, restorative equity; threat of complacent sleep.",
+      "verse": "“Embers cradle the weary lion.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "ISEMTAR",
+    "number": 37,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "VTA",
+      "translation": "He who begins the changes",
+      "personality_traits": [
+        "fervent",
+        "catalytic",
+        "ardent"
+      ],
+      "domains_of_knowledge": [
+        "metallurgic transmutation",
+        "pyromancy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ISEMTAR sparks metamorphosis—codifying chaos into rite and flight.",
+      "themes": "Initiation, law‑alchemy, vigilant adaptation; hazard of unfinished transits.",
+      "verse": "“Change obeys the patient map.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "MASTIPT",
+    "number": 38,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "VTA",
+      "translation": "He protector of man",
+      "personality_traits": [
+        "valorous",
+        "vigilant",
+        "paternal"
+      ],
+      "domains_of_knowledge": [
+        "geomantic bastions",
+        "optics of warning"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Solar bulwark—MASTIPT stands where holy ground meets roaring front.",
+      "themes": "Guardianship, radiant vigilance; risk of martyr’s blind zeal.",
+      "verse": "“Flame mirrors flame, and none pass.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "CAMAXOX",
+    "number": 39,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "VTA",
+      "translation": "He who names only great names",
+      "personality_traits": [
+        "heraldic",
+        "visionary",
+        "ceremonious"
+      ],
+      "domains_of_knowledge": [
+        "star naming",
+        "dream inscribing"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Registrar of legendary appellations—CAMAXOX crowns deeds with ringing titles.",
+      "themes": "Reputation, destiny inscription; danger of vainglory inflation.",
+      "verse": "“The louder the trumpet, the clearer its target.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "EXGSDIA",
+    "number": 40,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "VTA",
+      "translation": "He who demands obedience",
+      "personality_traits": [
+        "uncompromising",
+        "logical",
+        "disciplinarian"
+      ],
+      "domains_of_knowledge": [
+        "binding code",
+        "angelic calculus"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Law‑incarnate—EXGSDIA binds unruly currents to stern vectors.",
+      "themes": "Authority, sharp clarity; tyranny of rigid code.",
+      "verse": "“Duty carves the shortest path.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "SAPDION",
+    "number": 41,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "VTA",
+      "translation": "She of many repetitions",
+      "personality_traits": [
+        "ardent",
+        "fervent",
+        "transformative"
+      ],
+      "domains_of_knowledge": [
+        "pyromancy",
+        "inner furnace yoga"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "SAPDION governs recurrence—echo cycles forging perfection through iteration.",
+      "themes": "Perseverance, fractal mastery; peril of endless loops.",
+      "verse": "“Perfection is patient redundancy.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "ALPUDUS",
+    "number": 42,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "VTA",
+      "translation": "He to whom truth is relative",
+      "personality_traits": [
+        "relativist",
+        "exploratory",
+        "sage‑listener"
+      ],
+      "domains_of_knowledge": [
+        "frequency healing",
+        "root‑alchemy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ALPUDUS weighs context—truth refracted by vantage and season.",
+      "themes": "Relativity, mercurial insight; chaos of shifting morals.",
+      "verse": "“Two mirrors contest; light survives.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "TAHAMDO",
+    "number": 43,
+    "canonical_traits": {
+      "element": "Air",
+      "aethyr": "OXO",
+      "translation": "He who lives by his name",
+      "personality_traits": [
+        "inventive",
+        "musical",
+        "ecological"
+      ],
+      "domains_of_knowledge": [
+        "harmonic syntax",
+        "biosphere energy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "TAHAMDO embodies self‑coherence—utterance, act, and essence in lock‑step rhythm.",
+      "themes": "Authenticity, tonal ecology; peril of inflexible identity.",
+      "verse": "“Speak thyself, or others will.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "NOTIABI",
+    "number": 44,
+    "canonical_traits": {
+      "element": "Air",
+      "aethyr": "OXO",
+      "translation": "Servant who speaks truth",
+      "personality_traits": [
+        "analytical",
+        "thoughtful",
+        "inventive"
+      ],
+      "domains_of_knowledge": [
+        "breath alchemy",
+        "aeromancy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "NOTIABI is herald‑blade—truth delivered swift as thunderclap.",
+      "themes": "Courageous candour, piercing revelation; hazard of ruthless bluntness.",
+      "verse": "“Voice like steel: it rings, it wounds.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "TASTOZO",
+    "number": 45,
+    "canonical_traits": {
+      "element": "Air",
+      "aethyr": "OXO",
+      "translation": "She who initiates dancing",
+      "personality_traits": [
+        "nimble",
+        "inventive",
+        "lofty"
+      ],
+      "domains_of_knowledge": [
+        "aeromancy",
+        "acoustic geometry"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "Mistress of cosmic choreography—TASTOZO sets planets waltzing in sacred ratios.",
+      "themes": "Motion, joyous recursion, linguistic rhythm; danger of frenzied whirl.",
+      "verse": "“The universe twirls on silent feet.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "CALZICH",
+    "number": 46,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "LEA",
+      "translation": "She who replaces what was with something similar",
+      "personality_traits": [
+        "incendiary",
+        "ardent",
+        "catalytic"
+      ],
+      "domains_of_knowledge": [
+        "pyromancy",
+        "solar rites"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "CALZICH is the *Echo‑Forge*—turning endings into kindred beginnings with algebras of light.",
+      "themes": "Transposition, benign mimicry, phoenix economics; danger of recursive stagnation.",
+      "verse": "“The fire returns what it removes, though never quite the same.”",
+      "boon": ""
+    }
+  },
+  {
+    "name": "ALDAPI",
+    "number": 47,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "transformative",
+        "incendiary",
+        "catalytic"
+      ],
+      "domains_of_knowledge": [
+        "metallurgic transmutation",
+        "solar rites"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ALDAPI channels the archetypal potency of fire toward mastery of metallurgic transmutation, solar rites.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "ALDAPI whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "ANELOB",
+    "number": 48,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "purifying",
+        "incendiary",
+        "ardent"
+      ],
+      "domains_of_knowledge": [
+        "pyromancy",
+        "inner furnace yoga"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ANELOB channels the archetypal potency of fire toward mastery of pyromancy, inner furnace yoga.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "ANELOB whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "ARSPHOR",
+    "number": 49,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "transformative",
+        "fervent",
+        "incendiary"
+      ],
+      "domains_of_knowledge": [
+        "pyromancy",
+        "metallurgic transmutation"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ARSPHOR channels the archetypal potency of fire toward mastery of pyromancy, metallurgic transmutation.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "ARSPHOR whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "AYDROPT",
+    "number": 50,
+    "canonical_traits": {
+      "element": "Air",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "inventive",
+        "lofty",
+        "nimble"
+      ],
+      "domains_of_knowledge": [
+        "breath alchemy",
+        "aeromancy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "AYDROPT channels the archetypal potency of air toward mastery of breath alchemy, aeromancy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "AYDROPT whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "TOCARZI",
+    "number": 51,
+    "canonical_traits": {
+      "element": "Unknown",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "egalitarian",
+        "precise",
+        "temperate"
+      ],
+      "domains_of_knowledge": [
+        "divinatory balance",
+        "optical magic"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "TOCARZI channels the archetypal potency of air toward mastery of divinatory balance, optical magic.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "TOCARZI whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "number": 52,
+    "name": "NABAOMI",
+    "canonical_traits": {
+      "aethyr": "ZEN",
+      "element": "Air",
+      "personality_traits": [
+        "empathetic",
+        "introspective",
+        "resilient"
+      ],
+      "domains": [
+        "sorrow alchemy",
+        "wind-borne lamentation"
+      ],
+      "tarot": "The Tower",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "visual_emblem": "Winged censer trailing azure tears",
+      "translation": "He who knows pain"
+    },
+    "interpretive_traits": {
+      "essence": "NABAOMI is the Wailing Current—the gentle cyclone that scours trauma from the hidden chambers of the heart, then anneals grief into luminous resolve.",
+      "themes": "Virtues: compassionate witness, cathartic daring, honest vulnerability. Vices: morbid fixation, self-flagellation, pity that binds instead of frees.",
+      "wisdom": "Pain is the whetstone that clarifies purpose—yield, and the blade sings.",
+      "tokens": "Favour: glass vials of collected tears, wind-chimes forged from spent arrow-heads, pale hyacinths. Spurn: sealed urns of unspoken sorrow, mirrors draped in denial.",
+      "challenge": "Fuse two Grief-Sigils on-chain at local dawn; smart-contract verifies acceptance hash.",
+      "boon": "Bearer of the Censer of NABAOMI gains +20% resistance to Morbid debuffs for 7 blocks but suffers -10% charisma while the censer remains lit.",
+      "verse": "In the hush between sobs the true breath returns.",
+      "angelic_role": "Custodian of the 7777 Solaces; his glass-throated choir tempers the winds that ferry lament to the Throne."
+    },
+    "visual_description": "A beaten-silver censer whose hinged wings leak sapphire vapour; the smoke coils into sigils of healed scars. The angel himself is dusk-eyed, tall, his pinions shimmering like rain-washed silk—presence light as breath, yet pressing softly until buried grief exhales."
+  },
+  {
+    "name": "SANIZAR",
+    "number": 53,
+    "canonical_traits": {
+      "element": "Air",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "whispering",
+        "nimble",
+        "thoughtful"
+      ],
+      "domains_of_knowledge": [
+        "breath alchemy",
+        "aeromancy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "SANIZAR channels the archetypal potency of air toward mastery of breath alchemy, aeromancy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "SANIZAR whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "CHIALPS",
+    "number": 54,
+    "canonical_traits": {
+      "element": "Air",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "thoughtful",
+        "inventive",
+        "lofty"
+      ],
+      "domains_of_knowledge": [
+        "sky cartography",
+        "breath alchemy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "CHIALPS channels the archetypal potency of air toward mastery of sky cartography, breath alchemy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "CHIALPS whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "ZIRACAH",
+    "number": 55,
+    "canonical_traits": {
+      "element": "Air",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "analytical",
+        "whispering",
+        "lofty"
+      ],
+      "domains_of_knowledge": [
+        "acoustic geometry",
+        "sky cartography"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ZIRACAH channels the archetypal potency of air toward mastery of acoustic geometry, sky cartography.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "ZIRACAH whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "MEMNIE",
+    "number": 56,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "ardent",
+        "transformative",
+        "catalytic"
+      ],
+      "domains_of_knowledge": [
+        "solar rites",
+        "inner furnace yoga"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "MEMNIE channels the archetypal potency of fire toward mastery of solar rites, inner furnace yoga.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "MEMNIE whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "VAUNESH",
+    "number": 57,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "ardent",
+        "transformative",
+        "incendiary"
+      ],
+      "domains_of_knowledge": [
+        "inner furnace yoga",
+        "pyromancy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "VAUNESH channels the archetypal potency of fire toward mastery of inner furnace yoga, pyromancy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "VAUNESH whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "NATGLAF",
+    "number": 58,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "incendiary",
+        "ardent",
+        "catalytic"
+      ],
+      "domains_of_knowledge": [
+        "metallurgic transmutation",
+        "pyromancy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "NATGLAF channels the archetypal potency of fire toward mastery of metallurgic transmutation, pyromancy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "NATGLAF whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "OLXNOSP",
+    "number": 59,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "purifying",
+        "ardent",
+        "catalytic"
+      ],
+      "domains_of_knowledge": [
+        "solar rites",
+        "inner furnace yoga"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "OLXNOSP channels the archetypal potency of fire toward mastery of solar rites, inner furnace yoga.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "OLXNOSP whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "MIANTRA",
+    "number": 60,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "fervent",
+        "catalytic",
+        "transformative"
+      ],
+      "domains_of_knowledge": [
+        "inner furnace yoga",
+        "metallurgic transmutation"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "MIANTRA channels the archetypal potency of fire toward mastery of inner furnace yoga, metallurgic transmutation.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "MIANTRA whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "GAVSTEX",
+    "number": 61,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "grounded",
+        "mineral-wise",
+        "enduring"
+      ],
+      "domains_of_knowledge": [
+        "stem alchemy",
+        "crystal lore"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "GAVSTEX channels the archetypal potency of earth toward mastery of stem alchemy, crystal lore.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "GAVSTEX whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "LABRINO",
+    "number": 62,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "fortifying",
+        "enduring",
+        "grounded"
+      ],
+      "domains_of_knowledge": [
+        "crystal lore",
+        "stem alchemy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "LABRINO channels the archetypal potency of earth toward mastery of crystal lore, stem alchemy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "LABRINO whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "VORGAMI",
+    "number": 63,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "fortifying",
+        "steady",
+        "enduring"
+      ],
+      "domains_of_knowledge": [
+        "geomancy",
+        "crystal lore"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "VORGAMI channels the archetypal potency of earth toward mastery of geomancy, crystal lore.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "VORGAMI whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "TASCHOX",
+    "number": 64,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "fortifying",
+        "mineral-wise",
+        "pragmatic"
+      ],
+      "domains_of_knowledge": [
+        "geomancy",
+        "crystal lore"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "TASCHOX channels the archetypal potency of earth toward mastery of geomancy, crystal lore.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "TASCHOX whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "DOLMANI",
+    "number": 65,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "steady",
+        "enduring",
+        "fortifying"
+      ],
+      "domains_of_knowledge": [
+        "geomancy",
+        "stem alchemy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "DOLMANI channels the archetypal potency of earth toward mastery of geomancy, stem alchemy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "DOLMANI whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "ZIRFARZ",
+    "number": 66,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "fortifying",
+        "mineral-wise",
+        "pragmatic"
+      ],
+      "domains_of_knowledge": [
+        "crystal lore",
+        "mineralurgy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ZIRFARZ channels the archetypal potency of earth toward mastery of crystal lore, mineralurgy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "ZIRFARZ whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "PAZIMOL",
+    "number": 67,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "fortifying",
+        "pragmatic",
+        "enduring"
+      ],
+      "domains_of_knowledge": [
+        "stem alchemy",
+        "mineralurgy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "PAZIMOL channels the archetypal potency of earth toward mastery of stem alchemy, mineralurgy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "PAZIMOL whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "ONIZIMP",
+    "number": 68,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "enduring",
+        "fortifying",
+        "mineral-wise"
+      ],
+      "domains_of_knowledge": [
+        "stem alchemy",
+        "geomancy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ONIZIMP channels the archetypal potency of earth toward mastery of stem alchemy, geomancy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "ONIZIMP whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "ZAXANIN",
+    "number": 69,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "grounded",
+        "pragmatic",
+        "steady"
+      ],
+      "domains_of_knowledge": [
+        "mineralurgy",
+        "stem alchemy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ZAXANIN channels the archetypal potency of earth toward mastery of mineralurgy, stem alchemy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "ZAXANIN whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "ORANCIR",
+    "number": 70,
+    "canonical_traits": {
+      "element": "Unknown",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "unifying",
+        "macro/micro aware",
+        "moderate"
+      ],
+      "domains_of_knowledge": [
+        "mirroring numerology",
+        "cere‑law"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ORANCIR channels the archetypal potency of earth toward mastery of mirroring numerology, cere‑law.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "ORANCIR whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "CHASLPO",
+    "number": 71,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "exuberant",
+        "melodious",
+        "warm"
+      ],
+      "domains_of_knowledge": [
+        "solar music",
+        "morale psychology"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "CHASLPO channels the archetypal potency of earth toward mastery of solar music, morale psychology.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "CHASLPO whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "SOAGEEL",
+    "number": 72,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "grounded",
+        "pragmatic",
+        "fortifying"
+      ],
+      "domains_of_knowledge": [
+        "mineralurgy",
+        "geomancy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "SOAGEEL channels the archetypal potency of earth toward mastery of mineralurgy, geomancy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "SOAGEEL whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "ERZLAKU",
+    "number": 73,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "steady",
+        "fortifying",
+        "pragmatic"
+      ],
+      "domains_of_knowledge": [
+        "mineralurgy",
+        "stem alchemy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ERZLAKU channels the archetypal potency of earth toward mastery of mineralurgy, stem alchemy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "ERZLAKU whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "OBUAORS",
+    "number": 74,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "enduring",
+        "steady",
+        "grounded"
+      ],
+      "domains_of_knowledge": [
+        "stem alchemy",
+        "geomancy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "OBUAORS channels the archetypal potency of earth toward mastery of stem alchemy, geomancy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "OBUAORS whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "RANGLAM",
+    "number": 75,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "enduring",
+        "fortifying",
+        "steady"
+      ],
+      "domains_of_knowledge": [
+        "crystal lore",
+        "geomancy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "RANGLAM channels the archetypal potency of earth toward mastery of crystal lore, geomancy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "RANGLAM whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "ANGLOAI",
+    "number": 76,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "refugial",
+        "sustaining",
+        "mild"
+      ],
+      "domains_of_knowledge": [
+        "hearth geomancy",
+        "food alchemy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ANGLOAI channels the archetypal potency of spirit toward mastery of hearth geomancy, food alchemy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "ANGLOAI whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with spirit, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "NIGRANA",
+    "number": 77,
+    "canonical_traits": {
+      "element": "Unknown",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "abyssal",
+        "testing",
+        "paradoxical"
+      ],
+      "domains_of_knowledge": [
+        "void meditation",
+        "boundary magick"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "NIGRANA channels the archetypal potency of earth toward mastery of void meditation, boundary magick.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "NIGRANA whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "LAZHIIM",
+    "number": 78,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "enduring",
+        "fortifying",
+        "grounded"
+      ],
+      "domains_of_knowledge": [
+        "mineralurgy",
+        "geomancy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "LAZHIIM channels the archetypal potency of earth toward mastery of mineralurgy, geomancy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "LAZHIIM whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "SAZIAMI",
+    "number": 79,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "fortifying",
+        "pragmatic",
+        "steady"
+      ],
+      "domains_of_knowledge": [
+        "crystal lore",
+        "mineralurgy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "SAZIAMI channels the archetypal potency of earth toward mastery of crystal lore, mineralurgy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "SAZIAMI whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "MATHVLA",
+    "number": 80,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "grounded",
+        "fortifying",
+        "steady"
+      ],
+      "domains_of_knowledge": [
+        "geomancy",
+        "mineralurgy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "MATHVLA channels the archetypal potency of earth toward mastery of geomancy, mineralurgy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "MATHVLA whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "CRPANIB",
+    "number": 81,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "steady",
+        "mineral-wise",
+        "grounded"
+      ],
+      "domains_of_knowledge": [
+        "crystal lore",
+        "mineralurgy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "CRPANIB channels the archetypal potency of earth toward mastery of crystal lore, mineralurgy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "CRPANIB whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "PABNIXP",
+    "number": 82,
+    "canonical_traits": {
+      "element": "Earth",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "fortifying",
+        "enduring",
+        "grounded"
+      ],
+      "domains_of_knowledge": [
+        "stem alchemy",
+        "geomancy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "PABNIXP channels the archetypal potency of earth toward mastery of stem alchemy, geomancy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "PABNIXP whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "POCISNI",
+    "number": 83,
+    "canonical_traits": {
+      "element": "Spirit",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "enigmatic",
+        "mysterious",
+        "eclectic"
+      ],
+      "domains_of_knowledge": [
+        "hermetic synthesis",
+        "liminal studies"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "POCISNI channels the archetypal potency of spirit toward mastery of hermetic synthesis, liminal studies.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "POCISNI whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with spirit, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "OXLOPAR",
+    "number": 84,
+    "canonical_traits": {
+      "element": "Unknown",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "harvest‑ready",
+        "maternal",
+        "grounding"
+      ],
+      "domains_of_knowledge": [
+        "grain mysteries",
+        "fertility charts"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "OXLOPAR channels the archetypal potency of air toward mastery of grain mysteries, fertility charts.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "OXLOPAR whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "VASTRIM",
+    "number": 85,
+    "canonical_traits": {
+      "element": "Air",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "whispering",
+        "nimble",
+        "thoughtful"
+      ],
+      "domains_of_knowledge": [
+        "aeromancy",
+        "breath alchemy"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "VASTRIM channels the archetypal potency of air toward mastery of aeromancy, breath alchemy.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "VASTRIM whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "ODRAXTI",
+    "number": 86,
+    "canonical_traits": {
+      "element": "Unknown",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "martial",
+        "horizon‑opening",
+        "pioneering"
+      ],
+      "domains_of_knowledge": [
+        "east‑gate astrology",
+        "sword logic"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ODRAXTI channels the archetypal potency of fire toward mastery of east‑gate astrology, sword logic.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "ODRAXTI whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "GMTZIAM",
+    "number": 87,
+    "canonical_traits": {
+      "element": "Unknown",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "self‑knowing",
+        "hermitic",
+        "serene"
+      ],
+      "domains_of_knowledge": [
+        "poem‑alchemy",
+        "psyche cartography"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "GMTZIAM channels the archetypal potency of fire toward mastery of poem‑alchemy, psyche cartography.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "GMTZIAM whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "TAAOGBA",
+    "number": 88,
+    "canonical_traits": {
+      "element": "Fire",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "catalytic",
+        "purifying",
+        "fervent"
+      ],
+      "domains_of_knowledge": [
+        "solar rites",
+        "metallurgic transmutation"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "TAAOGBA channels the archetypal potency of fire toward mastery of solar rites, metallurgic transmutation.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "TAAOGBA whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "GEMNIMB",
+    "number": 89,
+    "canonical_traits": {
+      "element": "Spirit",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "integrative",
+        "transcendent",
+        "harmonic"
+      ],
+      "domains_of_knowledge": [
+        "soul weaving",
+        "sigil calculus"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "GEMNIMB channels the archetypal potency of spirit toward mastery of soul weaving, sigil calculus.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "GEMNIMB whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with spirit, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "ADVORPT",
+    "number": 90,
+    "canonical_traits": {
+      "element": "Spirit",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "integrative",
+        "luminous",
+        "visionary"
+      ],
+      "domains_of_knowledge": [
+        "soul weaving",
+        "aethyr coding"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ADVORPT channels the archetypal potency of spirit toward mastery of soul weaving, aethyr coding.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "ADVORPT whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with spirit, balanced by a commensurate sacrifice."
+    }
+  },
+  {
+    "name": "ARCULUS",
+    "number": 91,
+    "canonical_traits": {
+      "element": "Spirit",
+      "aethyr": "Unknown",
+      "translation": "Unnamed Governor",
+      "personality_traits": [
+        "eclectic",
+        "mysterious",
+        "balanced"
+      ],
+      "domains_of_knowledge": [
+        "liminal studies",
+        "hermetic synthesis"
+      ]
+    },
+    "interpretive_traits": {
+      "essence": "ARCULUS channels the archetypal potency of spirit toward mastery of liminal studies, hermetic synthesis.",
+      "themes": "Transformation, mastery, balance.",
+      "verse": "ARCULUS whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "boon": "Grants boon aligned with spirit, balanced by a commensurate sacrifice."
+    }
+  }
+]

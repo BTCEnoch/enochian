@@ -1,0 +1,103 @@
+# Question Relevance Analysis
+Generated: 2025-06-24 18:16:05
+
+## Overview
+- **Total Questions:** 102
+- **Thematic Blocks:** 1
+- **Governors Analyzed:** 91
+
+## Question Relevance by Governor
+- **OCCODON**: 102/102 questions (100.0%) across 1 thematic blocks
+- **PASCOMB**: 102/102 questions (100.0%) across 1 thematic blocks
+- **VALGARS**: 102/102 questions (100.0%) across 1 thematic blocks
+- **DOAGNIS**: 102/102 questions (100.0%) across 1 thematic blocks
+- **PACASNA**: 102/102 questions (100.0%) across 1 thematic blocks
+- **DIALOIA**: 102/102 questions (100.0%) across 1 thematic blocks
+- **SAMAPHA**: 102/102 questions (100.0%) across 1 thematic blocks
+- **VIROOLI**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ANDISPI**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ZIXLAYI**: 102/102 questions (100.0%) across 1 thematic blocks
+- **LABNIXP**: 102/102 questions (100.0%) across 1 thematic blocks
+- **CALVIZA**: 102/102 questions (100.0%) across 1 thematic blocks
+- **AVTOTAR**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ICHIZA**: 102/102 questions (100.0%) across 1 thematic blocks
+- **TIARPAX**: 102/102 questions (100.0%) across 1 thematic blocks
+- **SAXTOMP**: 102/102 questions (100.0%) across 1 thematic blocks
+- **VAUAAMP**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ZIRZIRD**: 102/102 questions (100.0%) across 1 thematic blocks
+- **OPMACAS**: 102/102 questions (100.0%) across 1 thematic blocks
+- **GENADOL**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ASPIAON**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ZAMFRES**: 102/102 questions (100.0%) across 1 thematic blocks
+- **TODNAON**: 102/102 questions (100.0%) across 1 thematic blocks
+- **PRISTAC**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ODDIORG**: 102/102 questions (100.0%) across 1 thematic blocks
+- **CRALPIR**: 102/102 questions (100.0%) across 1 thematic blocks
+- **DOANZIN**: 102/102 questions (100.0%) across 1 thematic blocks
+- **LEXARPH**: 102/102 questions (100.0%) across 1 thematic blocks
+- **COMANAN**: 102/102 questions (100.0%) across 1 thematic blocks
+- **TABITOM**: 102/102 questions (100.0%) across 1 thematic blocks
+- **MOLPAND**: 102/102 questions (100.0%) across 1 thematic blocks
+- **VSNARDA**: 102/102 questions (100.0%) across 1 thematic blocks
+- **PONODOL**: 102/102 questions (100.0%) across 1 thematic blocks
+- **TAPAMAL**: 102/102 questions (100.0%) across 1 thematic blocks
+- **GEDOONS**: 102/102 questions (100.0%) across 1 thematic blocks
+- **NOCAMAL**: 102/102 questions (100.0%) across 1 thematic blocks
+- **CAMAXOX**: 102/102 questions (100.0%) across 1 thematic blocks
+- **EXGSDIA**: 102/102 questions (100.0%) across 1 thematic blocks
+- **SAPDION**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ALPUDUS**: 102/102 questions (100.0%) across 1 thematic blocks
+- **TAHAMDO**: 102/102 questions (100.0%) across 1 thematic blocks
+- **NOTIABI**: 102/102 questions (100.0%) across 1 thematic blocks
+- **TASTOZO**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ALDAPI**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ANELOB**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ARSPHOR**: 102/102 questions (100.0%) across 1 thematic blocks
+- **AYDROPT**: 102/102 questions (100.0%) across 1 thematic blocks
+- **TOCARZI**: 102/102 questions (100.0%) across 1 thematic blocks
+- **NABAOMI**: 102/102 questions (100.0%) across 1 thematic blocks
+- **SANIZAR**: 102/102 questions (100.0%) across 1 thematic blocks
+- **CHIALPS**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ZIRACAH**: 102/102 questions (100.0%) across 1 thematic blocks
+- **MEMNIE**: 102/102 questions (100.0%) across 1 thematic blocks
+- **VAUNESH**: 102/102 questions (100.0%) across 1 thematic blocks
+- **NATGLAF**: 102/102 questions (100.0%) across 1 thematic blocks
+- **OLXNOSP**: 102/102 questions (100.0%) across 1 thematic blocks
+- **MIANTRA**: 102/102 questions (100.0%) across 1 thematic blocks
+- **GAVSTEX**: 102/102 questions (100.0%) across 1 thematic blocks
+- **LABRINO**: 102/102 questions (100.0%) across 1 thematic blocks
+- **VORGAMI**: 102/102 questions (100.0%) across 1 thematic blocks
+- **TASCHOX**: 102/102 questions (100.0%) across 1 thematic blocks
+- **DOLMANI**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ZIRFARZ**: 102/102 questions (100.0%) across 1 thematic blocks
+- **PAZIMOL**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ONIZIMP**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ZAXANIN**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ORANCIR**: 102/102 questions (100.0%) across 1 thematic blocks
+- **CHASLPO**: 102/102 questions (100.0%) across 1 thematic blocks
+- **SOAGEEL**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ERZLAKU**: 102/102 questions (100.0%) across 1 thematic blocks
+- **OBUAORS**: 102/102 questions (100.0%) across 1 thematic blocks
+- **RANGLAM**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ANGLOAI**: 102/102 questions (100.0%) across 1 thematic blocks
+- **NIGRANA**: 102/102 questions (100.0%) across 1 thematic blocks
+- **LAZHIIM**: 102/102 questions (100.0%) across 1 thematic blocks
+- **SAZIAMI**: 102/102 questions (100.0%) across 1 thematic blocks
+- **MATHVLA**: 102/102 questions (100.0%) across 1 thematic blocks
+- **CRPANIB**: 102/102 questions (100.0%) across 1 thematic blocks
+- **PABNIXP**: 102/102 questions (100.0%) across 1 thematic blocks
+- **POCISNI**: 102/102 questions (100.0%) across 1 thematic blocks
+- **OXLOPAR**: 102/102 questions (100.0%) across 1 thematic blocks
+- **VASTRIM**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ODRAXTI**: 102/102 questions (100.0%) across 1 thematic blocks
+- **GMTZIAM**: 102/102 questions (100.0%) across 1 thematic blocks
+- **TAAOGBA**: 102/102 questions (100.0%) across 1 thematic blocks
+- **GEMNIMB**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ADVORPT**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ARCULUS**: 102/102 questions (100.0%) across 1 thematic blocks
+- **ISEMTAR**: 0/102 questions (0.0%) across 0 thematic blocks
+- **MASTIPT**: 0/102 questions (0.0%) across 0 thematic blocks
+- **CALZICH**: 0/102 questions (0.0%) across 0 thematic blocks
+
+## Thematic Block Coverage
+- **2 · Master Question Catalogue**: Relevant to 88/91 governors (96.7%)

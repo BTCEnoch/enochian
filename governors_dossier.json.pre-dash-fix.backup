@@ -1,0 +1,3930 @@
+[
+  {
+    "number": 1,
+    "name": "OCCODON",
+    "canonical_traits": {
+      "aethyr": "LIL",
+      "element": "Water",
+      "personality_traits": [
+        "integrative",
+        "mercurial",
+        "empathic",
+        "poised"
+      ],
+      "domains": [
+        "polarity alchemy",
+        "dream incubation"
+      ],
+      "tarot": "The Empress",
+      "sephirah": "Netzach",
+      "zodiac_angel": "Haniel",
+      "visual_emblem": "Overflowing chalice",
+      "translation": "He whose name is renewal"
+    },
+    "interpretive_traits": {
+      "essence": "OCCODON is the *First Current*—the pulse of primordial tide that dissolves the debris of aeons and baptises form into new becoming. Egyptians knew him as the hidden swell beneath the Nile’s yearly flood.",
+      "themes": "*Virtues*: resilience, merciful renewal, fertility of mind *Vices*: stagnation, despair, necrophilic clinging to spent cycles.",
+      "tokens": "*Offer gladly*: spring‑water chalice, germinating barley, phoenix‑etched nautilus *Avoid*: rust flakes, wilted wreaths, candle stubs drowned in wax.",
+      "boon": "*Wave‑Sigil* grants +1 daily energy **but** halves token rewards during eclipses—OCCODON teaches growth through ebb as well as flow.",
+      "verse": "“From the flood‑gate of his chalice all beginnings are poured.”",
+      "angelic_role": "Guardian of water mysteries; commands legions of elemental spirits in service of the cosmic order.",
+      "challenge": "On-chain quest unique to OCCODON requiring alignment with water cycles and demonstration of elemental mastery.",
+      "wisdom": "In the words of OCCODON, 'True power lies in balanced mastery of water's sacred mysteries.'"
+    },
+    "visual_description": "Overflowing chalice; aura of luminous mist; deep‑cerulean & moon‑silver palette — Water male angel; mechanical; integrative, mercurial"
+  },
+  {
+    "number": 2,
+    "name": "PASCOMB",
+    "canonical_traits": {
+      "aethyr": "LIL",
+      "element": "Water",
+      "personality_traits": [
+        "catalytic",
+        "restless",
+        "strategic"
+      ],
+      "domains": [
+        "conflict geometry",
+        "sacred cartography"
+      ],
+      "tarot": "Wheel of Fortune",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "Covered lamp, sextant at dawn",
+      "translation": "He who precedes understanding"
+    },
+    "interpretive_traits": {
+      "essence": "PASCOMB is the diamond‑spark on the cusp of dawn—intuition before thought, the proto‑logos.",
+      "themes": "*Virtues*: curiosity, intellectual humility, patient incubation *Vices*: presumption, dogma, rash theorising.",
+      "tokens": "*Welcome*: unopened scroll, veiled lantern, first‑sliver moonstone *Shun*: cracked mirrors, proclamatory banners, tablets chiseled shut.",
+      "boon": "Starseed Sigil boosts puzzle RNG luck yet doubles chaos‑event curse chance—knowledge courts peril.",
+      "verse": "“The spark that blinds is also the spark that guides.”",
+      "angelic_role": "Guardian of water mysteries; commands legions of elemental spirits in service of the cosmic order.",
+      "challenge": "On-chain quest unique to PASCOMB requiring alignment with water cycles and demonstration of elemental mastery.",
+      "wisdom": "In the words of PASCOMB, 'True power lies in balanced mastery of water's sacred mysteries.'"
+    },
+    "visual_description": "Covered lamp, sextant at dawn; same cerulean‑silver surf — Water female angel; resolute; catalytic, restless"
+  },
+  {
+    "number": 3,
+    "name": "VALGARS",
+    "canonical_traits": {
+      "aethyr": "LIL",
+      "element": "Water",
+      "personality_traits": [
+        "enterprising",
+        "stalwart",
+        "pragmatic"
+      ],
+      "domains": [
+        "guild craft",
+        "herbal metallurgy"
+      ],
+      "tarot": "High Priestess",
+      "sephirah": "Yesod",
+      "zodiac_angel": "Gabriel",
+      "visual_emblem": "Hammered copper talisman, clay bowl shimmer",
+      "translation": "He who works with that which is"
+    },
+    "interpretive_traits": {
+      "essence": "Master‑artisan of reality; he teaches transmutation through *present* resources, turning base circumstance into holy craft.",
+      "themes": "*Virtues*: diligence, integrity, pragmatic vision *Vices*: escapism, waste, idle fantasia.",
+      "tokens": "*Bring*: mortar‑pestle dusted with myrrh, loom shuttle, fresh clay *Discard*: gilded but brittle trinkets, empty packaging.",
+      "boon": "Key halves crafting costs but prevents fast‑travel—craftsman must walk his workshop floor.",
+      "verse": "“What is, is the furnace of what may yet be.”",
+      "angelic_role": "Guardian of water mysteries; commands legions of elemental spirits in service of the cosmic order.",
+      "challenge": "On-chain quest unique to VALGARS requiring alignment with water cycles and demonstration of elemental mastery.",
+      "wisdom": "In the words of VALGARS, 'True power lies in balanced mastery of water's sacred mysteries.'"
+    },
+    "visual_description": "Hammered copper talisman, clay bowl shimmer — Water male angel; dark; enterprising, stalwart"
+  },
+  {
+    "number": 4,
+    "name": "DOAGNIS",
+    "canonical_traits": {
+      "aethyr": "ARN",
+      "element": "Water",
+      "personality_traits": [
+        "discerning",
+        "alluring",
+        "even‑handed"
+      ],
+      "domains": [
+        "shadow psychometry",
+        "lunar judicature"
+      ],
+      "tarot": "High Priestess",
+      "sephirah": "Yesod",
+      "zodiac_angel": "Gabriel",
+      "visual_emblem": "Gossamer veil drifting over twilight water",
+      "translation": "She who comes without a name"
+    },
+    "interpretive_traits": {
+      "essence": "She is the anonymous benefaction—the answer that slips in unlabelled.",
+      "themes": "*Virtues*: humility, receptivity, silent courage *Vices*: doctrinal rigidity, prejudice, name‑magic abuse.",
+      "tokens": "*Favour*: blank sigil disk, white chrysalis, dew‐filled glass *Spurn*: heraldic blare, carved nameplates, proclamatory trumpets.",
+      "boon": "Grimoire grants +1 secret‑slot inventory but hides player name from global leaderboards—obscurity as both shield and shroud.",
+      "verse": "“That which escapes the tongue weaves the deepest spell.”",
+      "angelic_role": "Guardian of water mysteries; commands legions of elemental spirits in service of the cosmic order.",
+      "challenge": "On-chain quest unique to DOAGNIS requiring alignment with water cycles and demonstration of elemental mastery.",
+      "wisdom": "In the words of DOAGNIS, 'True power lies in balanced mastery of water's sacred mysteries.'"
+    },
+    "visual_description": "Gossamer veil drifting over twilight water — Water female angel; beautiful, full; discerning, alluring"
+  },
+  {
+    "number": 5,
+    "name": "PACASNA",
+    "canonical_traits": {
+      "aethyr": "ARN",
+      "element": "Water",
+      "personality_traits": [
+        "cathartic",
+        "secretive",
+        "resilient"
+      ],
+      "domains": [
+        "death‑rites",
+        "serpent tantra"
+      ],
+      "tarot": "The World",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "visual_emblem": "Hourglass suspended in still‑water sphere",
+      "translation": "She who is unchanged by time"
+    },
+    "interpretive_traits": {
+      "essence": "She is the still‑point of eternity, the unmoved center about which aeons wheel.",
+      "themes": "*Virtues*: steadfast loyalties, equanimity, foresight *Vices*: fickleness, novelty worship, mortality dread.",
+      "tokens": "*Cherish*: ancient quartz, ouroboros ring, evergreen sprig *Reject*: disposable gadgets, ticking alarms, novelty confetti.",
+      "boon": "Evergreen negates artifact decay timers yet doubles offering costs—eternity is expensive.",
+      "verse": "“In the hush between heartbeats, the cosmos remembers itself.”",
+      "angelic_role": "Guardian of water mysteries; commands legions of elemental spirits in service of the cosmic order.",
+      "challenge": "On-chain quest unique to PACASNA requiring alignment with water cycles and demonstration of elemental mastery.",
+      "wisdom": "In the words of PACASNA, 'True power lies in balanced mastery of water's sacred mysteries.'"
+    },
+    "visual_description": "Hourglass suspended in still‑water sphere — Water female angel; resolute; cathartic, secretive"
+  },
+  {
+    "number": 6,
+    "name": "DIALOIA",
+    "canonical_traits": {
+      "aethyr": "ARN",
+      "element": "Water",
+      "personality_traits": [
+        "truth‑seeking",
+        "sincere",
+        "philosophical"
+      ],
+      "domains": [
+        "hydromancy",
+        "number mysticism"
+      ],
+      "tarot": "Wheel of Fortune",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "Balanced blade over clear‑water mirror",
+      "translation": "The god where truth is"
+    },
+    "interpretive_traits": {
+      "essence": "Embodied Logos—wherever truth stands revealed, there is Dialoia enthroned.",
+      "themes": "*Virtues*: integrity, lucid discernment, faith in verity *Vices*: deceit, relativistic apathy, false prophecy.",
+      "tokens": "*Invite*: clear quartz prism, salt‑bread covenant, silver scales *Ban*: trick mirrors, counterfeit seals, two‑faced masks.",
+      "boon": "Seal grants immunity to Chaos curses but forces public display of all future choices—truth’s price is transparency.",
+      "verse": "“Cut deep enough, and the vein of creation runs crystal.”",
+      "angelic_role": "Guardian of water mysteries; commands legions of elemental spirits in service of the cosmic order.",
+      "challenge": "On-chain quest unique to DIALOIA requiring alignment with water cycles and demonstration of elemental mastery.",
+      "wisdom": "In the words of DIALOIA, 'True power lies in balanced mastery of water's sacred mysteries.'"
+    },
+    "visual_description": "Balanced blade over clear‑water mirror — Water female angel; beautiful, full; truth seeking, sincere"
+  },
+  {
+    "number": 7,
+    "name": "SAMAPHA",
+    "canonical_traits": {
+      "aethyr": "ZOM",
+      "element": "Water",
+      "personality_traits": [
+        "meticulous",
+        "nurturing",
+        "analytical"
+      ],
+      "domains": [
+        "plant alchemy",
+        "ritual hygiene"
+      ],
+      "tarot": "The Hermit",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "visual_emblem": "Silver looped cord encircling ancient diary",
+      "translation": "He who is with continuity"
+    },
+    "interpretive_traits": {
+      "essence": "Guardian of the golden thread—ensuring identity endures through all transformations.",
+      "themes": "*Virtues*: perseverance, loyal memory, narrative coherence *Vices*: amnesia of purpose, abandonment, fragmentation.",
+      "tokens": "*Treasured*: ancestral journal, Möbius ring, live snake skin shed intact *Spurned*: chaotic dice, disposable notes, abrupt cut ribbons.",
+      "boon": "Thread allows one checkpoint skip per day **but** permanently logs player death count—continuity records even failure.",
+      "verse": "“Stretch the thread through lifetimes; it will not snap, only weave.”",
+      "angelic_role": "Guardian of water mysteries; commands legions of elemental spirits in service of the cosmic order.",
+      "challenge": "On-chain quest unique to SAMAPHA requiring alignment with water cycles and demonstration of elemental mastery.",
+      "wisdom": "In the words of SAMAPHA, 'True power lies in balanced mastery of water's sacred mysteries.'"
+    },
+    "visual_description": "Silver looped cord encircling ancient diary — Water male angel; fierce, active; meticulous, nurturing"
+  },
+  {
+    "number": 8,
+    "name": "VIROOLI",
+    "canonical_traits": {
+      "aethyr": "ZOM",
+      "element": "Water",
+      "personality_traits": [
+        "eruptive",
+        "iconoclastic",
+        "awe‑inspiring"
+      ],
+      "domains": [
+        "storm magic",
+        "temple architecture"
+      ],
+      "tarot": "The High Priestess",
+      "sephirah": "Yesod",
+      "zodiac_angel": "Gabriel",
+      "visual_emblem": "Silver key & conch within moon‑silver mist",
+      "translation": "He who made the first nest"
+    },
+    "interpretive_traits": {
+      "essence": "Architect of the *primordial sanctuary*—the inner chamber each soul must raise before commanding outer realms.",
+      "themes": "Virtues: spiritual hospitality, inner order, protective devotion Vices: profanation, rootlessness, cluttered spirit.",
+      "wisdom": "Speaks in cathedral metaphors: “Lay the first stone in silence, the last in song.”",
+      "tokens": "*Favour*: floor‑plans etched in salt, unbroken shells, silver keys *Spurn*: toppled icons, soot‑stained altars, rushed blueprints.",
+      "boon": "Glyph grants cheaper shrine‑building yet doubles offering costs during eclipses.",
+      "verse": "“In the smallest shell sleeps the echo of every cathedral.”",
+      "angelic_role": "Guardian of Hyrcania’s sacred precincts; commands 5 152 angels who keep vigil at unseen thresholds.",
+      "challenge": "On-chain quest unique to VIROOLI requiring alignment with water cycles and demonstration of elemental mastery."
+    },
+    "visual_description": "Silver key & conch within moon‑silver mist — Water male angel; dark; eruptive, iconoclastic"
+  },
+  {
+    "number": 9,
+    "name": "ANDISPI",
+    "canonical_traits": {
+      "aethyr": "ZOM",
+      "element": "Water",
+      "personality_traits": [
+        "binding",
+        "harmonic",
+        "loyal"
+      ],
+      "domains": [
+        "myth‑weaving",
+        "acoustic healing"
+      ],
+      "tarot": "Death",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "visual_emblem": "Braided cord vibrating at 432 Hz",
+      "translation": "He who binds into obedience"
+    },
+    "interpretive_traits": {
+      "essence": "Personification of **covenant**—the resonant vow knitting separate wills into living harmony.",
+      "themes": "Virtues: loyal consent, rhythmic discipline Vices: coercion, oath‑breaking, tyrannic force.",
+      "wisdom": "Choral plural voice: “We bind as one, or splinter as many.”",
+      "tokens": "*Favour*: braided cords, tuning forks, well‑water vials *Spurn*: shackles, broken contracts, cracked gongs.",
+      "boon": "Seal halves pact fees but forbids unilateral item trades for 24 blocks.",
+      "verse": "“Without concord, the flood returns to chaos.”",
+      "angelic_role": "Steward of Mesopotamian marsh‑oaths, leading 4 888 spirits that weave league and promise.",
+      "challenge": "On-chain quest unique to ANDISPI requiring alignment with water cycles and demonstration of elemental mastery."
+    },
+    "visual_description": "Braided cord vibrating at 432 Hz — Water male angel; spiritual, winged; binding, harmonic"
+  },
+  {
+    "number": 10,
+    "name": "ZIXLAYI",
+    "canonical_traits": {
+      "aethyr": "ZOM",
+      "element": "Water",
+      "personality_traits": [
+        "triumphant",
+        "motivational",
+        "far‑sighted"
+      ],
+      "domains": [
+        "evolutionary lore",
+        "angelic philology"
+      ],
+      "tarot": "The Sun",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "visual_emblem": "Laurel pennon borne by falcon silhouette",
+      "translation": "She whose visits bring victory"
+    },
+    "interpretive_traits": {
+      "essence": "Catalyst of **triumphant momentum**—the precise updraft that lets evolution leap.",
+      "themes": "Virtues: strategic patience, catalytic optimism Vices: premature acclaim, victory hubris.",
+      "wisdom": "Coach‑brisk parables: “The falcon stoops only when ascent is complete.”",
+      "tokens": "*Favour*: laurel, feather quills, chrysalis shells *Spurn*: shattered trophies, rusted blades.",
+      "boon": "Banner boosts first‑strike RNG but disables stealth rituals while held.",
+      "verse": "“The hour of the leap is written in silk long before the wing unfolds.”",
+      "angelic_role": "Marshal of Persian victory‑winds; 6 606 angels herald her clarion stride.",
+      "challenge": "On-chain quest unique to ZIXLAYI requiring alignment with water cycles and demonstration of elemental mastery."
+    },
+    "visual_description": "Laurel pennon borne by falcon silhouette — Water male angel; expressive, thin; triumphant, motivational"
+  },
+  {
+    "number": 11,
+    "name": "LABNIXP",
+    "canonical_traits": {
+      "aethyr": "ZOM",
+      "element": "Water",
+      "personality_traits": [
+        "authoritative",
+        "ethical",
+        "rhetorically sharp"
+      ],
+      "domains": [
+        "civic oratory",
+        "theurgical ethics"
+      ],
+      "tarot": "Wheel of Fortune",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "Frankincense signet over wax tablet",
+      "translation": "He who was made a leader"
+    },
+    "interpretive_traits": {
+      "essence": "Embodies **servant‑leadership**—authority tempered by bearing the weight of communal meaning.",
+      "themes": "Virtues: rhetorical integrity, ethical courage Vices: demagoguery, moral evasion.",
+      "wisdom": "Legal dicta and etymological dissections: “Define thy term, or drown in its echo.”",
+      "tokens": "*Favour*: signet rings, wax tablets, grains of incense *Spurn*: empty scroll cases, gilded microphones.",
+      "boon": "Seal elevates governance power yet amplifies chaos curses by 20 %.",
+      "verse": "“The crown is but the weight of every word spoken beneath it.”",
+      "angelic_role": "Leads Armenia’s discourse citadels with 9 000 ministering logocrats.",
+      "challenge": "On-chain quest unique to LABNIXP requiring alignment with water cycles and demonstration of elemental mastery."
+    },
+    "visual_description": "Frankincense signet over wax tablet — Water female angel; well proportioned; authoritative, ethical"
+  },
+  {
+    "number": 12,
+    "name": "CALVIZA",
+    "canonical_traits": {
+      "aethyr": "LOE",
+      "element": "Air",
+      "personality_traits": [
+        "lucid",
+        "inquisitive",
+        "tri‑perspectival"
+      ],
+      "domains": [
+        "optics",
+        "ophidian herb‑work"
+      ],
+      "tarot": "The Star",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "visual_emblem": "Triple‑facet prism held by snake coil",
+      "translation": "Son of the three‑fold throne"
+    },
+    "interpretive_traits": {
+      "essence": "Bearer of **triple‑sight**—past, present, future refracted in a single ray.",
+      "themes": "Virtues: holistic perception, fearless inquiry Vices: tunnel‑vision, analytic arrogance.",
+      "wisdom": "Prismatic rhetoric: “Bend the ray and truth refracts.”",
+      "tokens": "*Favour*: crystal lenses, serpent‑shed skin, tri‑foliate herbs *Spurn*: opaque veils, scratched glass.",
+      "boon": "Eye grants secret‑text vision but blinds map markers for 50 blocks.",
+      "verse": "“In one gleam lives the memory of three suns.”",
+      "angelic_role": "Cappadocian sky‑watcher guiding 4 321 exploratory spirits through the horizons of becoming.",
+      "challenge": "On-chain quest unique to CALVIZA requiring alignment with air cycles and demonstration of elemental mastery."
+    },
+    "visual_description": "Triple‑facet prism held by snake coil — Air male angel; big, strong; lucid, inquisitive"
+  },
+  {
+    "number": 13,
+    "name": "AVTOTAR",
+    "canonical_traits": {
+      "aethyr": "LOE",
+      "element": "Air",
+      "personality_traits": [
+        "vigilant",
+        "precise",
+        "conservator"
+      ],
+      "domains": [
+        "metaphysical safeguards",
+        "apotropaics"
+      ],
+      "tarot": "Wheel of Fortune",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "Obsidian mirror ringed by chalk ward",
+      "translation": "He who protects that which is"
+    },
+    "interpretive_traits": {
+      "essence": "Guardian of **ontological boundaries**—keeper of reality’s syntax.",
+      "themes": "Virtues: definitional clarity, vigilant guardianship Vices: semantic rigidity, over‑protection.",
+      "wisdom": "Logical syllogisms: “Premise unguarded births paradox unchecked.”",
+      "tokens": "*Favour*: chalk wards, runic seals, obsidian mirrors *Spurn*: broken circles, corrupted sigils.",
+      "boon": "Wardstone blocks a chaos event but deletes 1 random low‑tier artifact on use.",
+      "verse": "“Name the edge of being, or the abyss will.”",
+      "angelic_role": "Curator of LOE’s living lexicons; 3 003 angels patrol the weave of names.",
+      "challenge": "On-chain quest unique to AVTOTAR requiring alignment with air cycles and demonstration of elemental mastery."
+    },
+    "visual_description": "Obsidian mirror ringed by chalk ward — Air male angel; spiritual, winged; vigilant, precise"
+  },
+  {
+    "number": 14,
+    "name": "ICHIZA",
+    "canonical_traits": {
+      "aethyr": "LOE",
+      "element": "Air",
+      "personality_traits": [
+        "contemplative",
+        "practical",
+        "sonorous"
+      ],
+      "domains": [
+        "psycho‑acoustics",
+        "liminal dreaming"
+      ],
+      "tarot": "Wheel of Fortune",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "Cobalt feather over resonant bowl",
+      "translation": "He who proceeds with wisdom"
+    },
+    "interpretive_traits": {
+      "essence": "Pulse of **progressive discernment**—wisdom unfolding like a measured hymn.",
+      "themes": "Virtues: methodical learning, psychoacoustic harmony Vices: info‑glut paralysis, suppressed intuition.",
+      "wisdom": "Binaural chants at 2 Hz: “Listen to the space between.”",
+      "tokens": "*Favour*: singing bowls, lucid dream journals, cobalt plumes *Spurn*: white‑noise machines, torn dreamcatchers.",
+      "boon": "Seal aids dream realms but doubles token cost for material‑world crafting.",
+      "verse": "“In the hush of the mind, ladders of light unfold.”",
+      "angelic_role": "Headmaster of LOE’s astral academy, guiding 4 444 dream‑tutors.",
+      "challenge": "On-chain quest unique to ICHIZA requiring alignment with air cycles and demonstration of elemental mastery."
+    },
+    "visual_description": "Cobalt feather over resonant bowl — Air female angel; white, delicate; contemplative, practical"
+  },
+  {
+    "number": 15,
+    "name": "TIARPAX",
+    "canonical_traits": {
+      "aethyr": "LIT",
+      "element": "Water",
+      "personality_traits": [
+        "reflective",
+        "geometrical",
+        "sincere"
+      ],
+      "domains": [
+        "sacred geometry",
+        "cosmography"
+      ],
+      "tarot": "The Hermit",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "visual_emblem": "Silver dodecahedron floating on still water",
+      "translation": "He whose name means truth"
+    },
+    "interpretive_traits": {
+      "essence": "Mirror of **cosmic verity**—where macrocosm and microcosm recognise themselves.",
+      "themes": "Virtues: introspective honesty, geometric elegance Vices: self‑deception, chaotic pattern‑making.",
+      "wisdom": "Spiral logic: begins cosmic, ends personal—“Stars draw your face upon the tide.”",
+      "tokens": "*Favour*: lapis stylus, still‑water basin, dodecahedra *Spurn*: cracked mirrors, asymmetric idols.",
+      "boon": "Mirror unmasks falsehoods but reflects player’s own failures into public ledger.",
+      "verse": "“Gaze upon the tide; there the constellations confess their author.”",
+      "angelic_role": "Warden of Pontic coastlines; 5 555 angels measure tides against star‑angles.",
+      "challenge": "On-chain quest unique to TIARPAX requiring alignment with water cycles and demonstration of elemental mastery."
+    },
+    "visual_description": "Silver dodecahedron floating on still water — Water male angel; dark, grey; reflective, geometrical"
+  },
+  {
+    "number": 16,
+    "name": "SAXTOMP",
+    "canonical_traits": {
+      "aethyr": "MAZ",
+      "element": "Fire",
+      "personality_traits": [
+        "devotional",
+        "patient",
+        "sapient"
+      ],
+      "domains": [
+        "astro‑herbalism",
+        "metaphysics"
+      ],
+      "tarot": "The Hierophant",
+      "sephirah": "Netzach",
+      "zodiac_angel": "Haniel",
+      "visual_emblem": "Ember‑lit torch twined by sage and star‑chart ribbon",
+      "translation": "She whose name means understanding"
+    },
+    "interpretive_traits": {
+      "essence": "SAXTOMP is the *Flame of Comprehension*—a hearth‑wisdom that burns away illusion until only the bone‑truth of the cosmos remains.",
+      "themes": "Virtues: disciplined enquiry, contemplative ardour, cosmic humility Vices: dogmatic zeal, scorched‑earth rhetoric.",
+      "wisdom": "She counsels: “Kneel by the furnace; the ore of certainty melts first.”",
+      "tokens": "*Welcome*: wormwood sprigs, meteoric iron filings, unglazed astrolabe *Shun*: soot‑clogged crucibles, plagiarised theses.",
+      "verse": "“Mind is tinder; stars are flint.”",
+      "angelic_role": "Arch‑tutor of Chaldean observatories, commanding 4 444 ministering astronomoi.",
+      "challenge": "On-chain quest unique to SAXTOMP requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Ember‑lit torch twined by sage and star‑chart ribbon — Fire male angel; fierce, active; devotional, patient"
+  },
+  {
+    "number": 17,
+    "name": "VAUAAMP",
+    "canonical_traits": {
+      "aethyr": "MAZ",
+      "element": "Fire",
+      "personality_traits": [
+        "initiative‑driven",
+        "balanced",
+        "constructive"
+      ],
+      "domains": [
+        "geomantic design",
+        "solar distillation"
+      ],
+      "tarot": "Temperance",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "Rotating tetrahedron borne aloft on a flame‑tongue",
+      "translation": "He who initiates action"
+    },
+    "interpretive_traits": {
+      "essence": "VAUAAMP is the *Spark‑Architect*—first mover who sketches sacred angles in living fire.",
+      "themes": "Virtues: calibrated courage, alchemical balance Vices: rash impulse, half‑formed blueprints.",
+      "wisdom": "“Action without symmetry topples of its own weight.”",
+      "tokens": "*Offer*: raw cinnabar, tetractys diagram, pristine spring‑water phial *Reject*: warped rulers, impure salt.",
+      "verse": "“The first stroke decides the cathedral.”",
+      "angelic_role": "Keeper of Atlantean survey lines; marshals 5 180 geometers.",
+      "challenge": "On-chain quest unique to VAUAAMP requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Rotating tetrahedron borne aloft on a flame‑tongue — Fire male angel; dark; initiative driven, balanced"
+  },
+  {
+    "number": 18,
+    "name": "ZIRZIRD",
+    "canonical_traits": {
+      "aethyr": "MAZ",
+      "element": "Fire",
+      "personality_traits": [
+        "cyclical",
+        "visionary",
+        "persevering"
+      ],
+      "domains": [
+        "cosmic cycles",
+        "astronomical coding"
+      ],
+      "tarot": "The Star",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "visual_emblem": "Ouroboros‑comet encircling a sextant aflame",
+      "translation": "He who was and will be"
+    },
+    "interpretive_traits": {
+      "essence": "ZIRZIRD embodies the *Revolving Ledger*—a cosmic accountant tallying epochs in star‑wheels.",
+      "themes": "Virtues: long‑range vision, patient iteration Vices: perfection paralysis, nostalgia loops.",
+      "wisdom": "“Return is not regret; it is rehearsal.”",
+      "tokens": "*Welcome*: astrolabe gears, ammonite fossils, lapis circle *Spurn*: broken calendars, retrograde excuses.",
+      "verse": "“A future once lived returns wearing fresh dawn.”",
+      "angelic_role": "Registrar of Babylonian sky‑cycles, accompanied by 6 606 chronologers.",
+      "challenge": "On-chain quest unique to ZIRZIRD requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Ouroboros‑comet encircling a sextant aflame — Fire male angel; expressive, thin; cyclical, visionary"
+  },
+  {
+    "number": 19,
+    "name": "OPMACAS",
+    "canonical_traits": {
+      "aethyr": "DEO",
+      "element": "Fire",
+      "personality_traits": [
+        "protogenic",
+        "daring",
+        "eloquent"
+      ],
+      "domains": [
+        "first‑principle magic",
+        "eidetic dreaming"
+      ],
+      "tarot": "The Star",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "visual_emblem": "Spiral torch whose smoke sketches primordial glyphs",
+      "translation": "He who is from the beginning"
+    },
+    "interpretive_traits": {
+      "essence": "First‑fire of genesis—OPMACAS breathes form into formless dream.",
+      "themes": "Virtues: visionary daring, proto‑creativity Vices: hubris of “originality,” dismissal of lineage.",
+      "wisdom": "“Every inception echoes an older whisper.”",
+      "tokens": "*Offer*: blank papyrus, obsidian compass, poppy‑seed vial *Avoid*: plagiarised sigils, dream‑catchers torn.",
+      "verse": "“Origin sleeps in every ember; rouse it wisely.”",
+      "angelic_role": "Head of Muntenian dream‑kilns; oversees 7 070 oneiric masons.",
+      "challenge": "On-chain quest unique to OPMACAS requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Spiral torch whose smoke sketches primordial glyphs — Fire male angel; mechanical; protogenic, daring"
+  },
+  {
+    "number": 20,
+    "name": "GENADOL",
+    "canonical_traits": {
+      "aethyr": "DEO",
+      "element": "Fire",
+      "personality_traits": [
+        "magnetic",
+        "charismatic",
+        "tactical"
+      ],
+      "domains": [
+        "ritual attraction",
+        "aero‑divination"
+      ],
+      "tarot": "Strength",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "visual_emblem": "Lion‑standard tugged by invisible vortex",
+      "translation": "He who only attracts"
+    },
+    "interpretive_traits": {
+      "essence": "GENADOL is magnetic command—the charisma that bends fate’s iron filings.",
+      "themes": "Virtues: tactical grace, noble persuasion Vices: manipulation, vanity of followers.",
+      "wisdom": "“Lead not by tether but by tide.”",
+      "tokens": "*Favour*: lodestone shard, kingfisher feather, brass trumpet mute *Spurn*: shackles, counterfeit banners.",
+      "verse": "“Desire is the wind that obeys the confident helm.”",
+      "angelic_role": "Marshal of Cappadocian sky‑battalions, leading 5 555 seraph tacticians.",
+      "challenge": "On-chain quest unique to GENADOL requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Lion‑standard tugged by invisible vortex — Fire female angel; changeful beauty; magnetic, charismatic"
+  },
+  {
+    "number": 21,
+    "name": "ASPIAON",
+    "canonical_traits": {
+      "aethyr": "DEO",
+      "element": "Fire",
+      "personality_traits": [
+        "immutable",
+        "stoic",
+        "strategic‑seer"
+      ],
+      "domains": [
+        "ceremonial law",
+        "dragon‑fire geomancy"
+      ],
+      "tarot": "Wheel of Fortune",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "Scales forged of living flame, balanced on a compass rose",
+      "translation": "She who precedes inner truth"
+    },
+    "interpretive_traits": {
+      "essence": "ASPIAON is the herald of rightful order—testing motives before the tribunal of fire.",
+      "themes": "Virtues: incorruptible judgment, rhythmic discipline Vices: punitive excess, inflexible edict.",
+      "wisdom": "“Justice strikes the spark that truth reflects.”",
+      "tokens": "*Favour*: unbroken chalk circle, dragon‑scale ash, silver plumb‑line *Reject*: forged seals, smoky mirrors.",
+      "verse": "“The flame weighs both gold and straw.”",
+      "angelic_role": "Chief adjudicator of Hittite flame‑courts with 6 009 seraph bailiffs.",
+      "challenge": "On-chain quest unique to ASPIAON requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Scales forged of living flame, balanced on a compass rose — Fire male angel; spiritual, winged; immutable, stoic"
+  },
+  {
+    "number": 22,
+    "name": "ZAMFRES",
+    "canonical_traits": {
+      "aethyr": "ZID",
+      "element": "Fire",
+      "personality_traits": [
+        "celebratory",
+        "aspiring",
+        "inspirational"
+      ],
+      "domains": [
+        "dream artistry",
+        "creative alchemy"
+      ],
+      "tarot": "The High Priestess",
+      "sephirah": "Yesod",
+      "zodiac_angel": "Gabriel",
+      "visual_emblem": "Phoenix plume rising from inkpot aflame",
+      "translation": "He who appears when praised"
+    },
+    "interpretive_traits": {
+      "essence": "Patron of inspired acclaim—ZAMFRES materialises where genuine gratitude is spoken.",
+      "themes": "Virtues: appreciative wonder, co‑creation Vices: fawning flattery, empty applause.",
+      "wisdom": "“Praise is the alloy that tempers ambition.”",
+      "tokens": "*Cherish*: freshly‑penned hymn, cinnabar pigment, lucid‑dream sigil *Avoid*: rehearsed encomiums, plagiarised art.",
+      "verse": "“Where the heart sings true, the angel steps through.”",
+      "angelic_role": "Maestro of Phoenician dream‑choirs, guiding 4 321 muse‑spirits.",
+      "challenge": "On-chain quest unique to ZAMFRES requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Phoenix plume rising from inkpot aflame — Fire male angel; expressive, thin; celebratory, aspiring"
+  },
+  {
+    "number": 23,
+    "name": "TODNAON",
+    "canonical_traits": {
+      "aethyr": "ZID",
+      "element": "Fire",
+      "personality_traits": [
+        "prophetic",
+        "surveying",
+        "liminal"
+      ],
+      "domains": [
+        "lenscraft",
+        "earth‑water synthesis"
+      ],
+      "tarot": "The High Priestess",
+      "sephirah": "Yesod",
+      "zodiac_angel": "Gabriel",
+      "visual_emblem": "Triple‑mirror periscope wreathed in steam",
+      "translation": "He who is and will be"
+    },
+    "interpretive_traits": {
+      "essence": "TODNAON governs the *Reflected Future*—seeing destiny in shifting surfaces.",
+      "themes": "Virtues: adaptable foresight, terrain attunement Vices: mirage‑chasing, fatalism.",
+      "wisdom": "“Every ripple sketches tomorrow’s coastline.”",
+      "tokens": "*Favour*: polished obsidian disk, river‑silt vial, lodestone dust *Spurn*: cracked mirrors, stagnant ponds.",
+      "verse": "“The water remembers steps not yet taken.”",
+      "angelic_role": "Cartographer of Mesopotamian flood‑plains, escorting 5 555 current‑readers.",
+      "challenge": "On-chain quest unique to TODNAON requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Triple‑mirror periscope wreathed in steam — Fire male angel; dark, grey; prophetic, surveying"
+  },
+  {
+    "number": 24,
+    "name": "PRISTAC",
+    "canonical_traits": {
+      "aethyr": "ZID",
+      "element": "Fire",
+      "personality_traits": [
+        "steadfast",
+        "devotional",
+        "resonant"
+      ],
+      "domains": [
+        "hieratic linguistics",
+        "toning therapy"
+      ],
+      "tarot": "The Magician",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "visual_emblem": "Halo‑sigil casting resonant standing‑wave in stone",
+      "translation": "He who has the likeness of a holy one"
+    },
+    "interpretive_traits": {
+      "essence": "PRISTAC mirrors celestial archetype—inviting mortals to echo higher harmony.",
+      "themes": "Virtues: integrity of tone, sacred imitation Vices: hollow performance, icon‑idolatry.",
+      "wisdom": "“Resonance is lineage made audible.”",
+      "tokens": "*Welcome*: tuning‑fork of cedar, angelic script parchment, magnetite sand *Reject*: autotune device, chipped idols.",
+      "verse": "“The image you reflect becomes your judge.”",
+      "angelic_role": "Voice‑templar of Armenian basalt chapels with 8 888 harmonic servitors.",
+      "challenge": "On-chain quest unique to PRISTAC requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Halo‑sigil casting resonant standing‑wave in stone — Fire female angel; resolute; steadfast, devotional"
+  },
+  {
+    "number": 25,
+    "name": "ODDIORG",
+    "canonical_traits": {
+      "aethyr": "ZIP",
+      "element": "Fire",
+      "personality_traits": [
+        "judicial",
+        "impassioned",
+        "crusading"
+      ],
+      "domains": [
+        "esoteric maths",
+        "martial psyche"
+      ],
+      "tarot": "Strength",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "visual_emblem": "Flaming scales orbiting Möbius equation",
+      "translation": "He of fire and justice"
+    },
+    "interpretive_traits": {
+      "essence": "ODDIORG adjudicates the psyche—tempering will in crucibles of number.",
+      "themes": "Virtues: courageous introspection, balanced logic Vices: self‑righteousness, punitive arithmancy.",
+      "wisdom": "“Equation and ethic share one equals sign.”",
+      "tokens": "*Offer*: chalk mandala, quartz pendulum, prime‑number scroll *Spurn*: biased dice, corrupted ledgers.",
+      "verse": "“Justice ignites where the mind meets the mirror.”",
+      "angelic_role": "Fire‑magistrate of Median astral courts with 6 666 verdict‑spirits.",
+      "challenge": "On-chain quest unique to ODDIORG requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Flaming scales orbiting Möbius equation — Fire male angel; mechanical; judicial, impassioned"
+  },
+  {
+    "number": 26,
+    "name": "CRALPIR",
+    "canonical_traits": {
+      "aethyr": "ZIP",
+      "element": "Fire",
+      "personality_traits": [
+        "fervent",
+        "purifying",
+        "incendiary"
+      ],
+      "domains": [
+        "metallurgic transmutation",
+        "pyromancy"
+      ],
+      "tarot": "Strength",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "visual_emblem": "Sun‑chalice overflowing with auric melody",
+      "translation": "He of bright joy"
+    },
+    "interpretive_traits": {
+      "essence": "CRALPIR radiates triumphant solace—sunrise after battlefield night.",
+      "themes": "Virtues: jubilant resilience, tactical mercy Vices: reckless optimism, blinding cheer.",
+      "wisdom": "“Joy is a sword that sheaths despair.”",
+      "tokens": "*Favour*: sunrise‑honey, gold‑leaf laurel, war‑drum skin *Spurn*: dirges, rusted panoply.",
+      "verse": "“The brightest hymn leaves shadow for the weary to rest.”",
+      "angelic_role": "Banner‑bearer of Ionian sun‑hosts, 7 070 cherub tacticians.",
+      "challenge": "On-chain quest unique to CRALPIR requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Sun‑chalice overflowing with auric melody — Fire male angel; big, strong; fervent, purifying"
+  },
+  {
+    "number": 27,
+    "name": "DOANZIN",
+    "canonical_traits": {
+      "aethyr": "ZIP",
+      "element": "Fire",
+      "personality_traits": [
+        "catalytic",
+        "fervent",
+        "ardent"
+      ],
+      "domains": [
+        "solar rites",
+        "pyromancy"
+      ],
+      "tarot": "The Magician",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "visual_emblem": "Prism‑staff driving steam vortex into glyph pool",
+      "translation": "He who names the waters"
+    },
+    "interpretive_traits": {
+      "essence": "Master of reflective nomenclature—DOANZIN grants authority over the hidden shapes of tides.",
+      "themes": "Virtues: precise designation, aquatic clarity Vices: rigid taxonomy, tidal wrath.",
+      "wisdom": "“Name the current and its secret well opens.”",
+      "tokens": "*Offer*: glass prism, water‑ripple sand art, logarithmic spiral shell *Spurn*: mislabeled charts, oil‑slicks.",
+      "verse": "“The river answers only to its true name.”",
+      "angelic_role": "Hydronymist of Indus deltas with 4 444 ripple‑scribes.",
+      "challenge": "On-chain quest unique to DOANZIN requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Prism‑staff driving steam vortex into glyph pool — Fire female angel; beautiful, full; catalytic, fervent"
+  },
+  {
+    "number": 28,
+    "name": "LEXARPH",
+    "canonical_traits": {
+      "aethyr": "ZAX",
+      "element": "Spirit",
+      "personality_traits": [
+        "integrative",
+        "luminous",
+        "visionary"
+      ],
+      "domains": [
+        "soul weaving",
+        "sigil calculus"
+      ],
+      "tarot": "The Magician",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "visual_emblem": "Sigil‑kite soaring in prismatic dawn",
+      "translation": "He who is first of the air"
+    },
+    "interpretive_traits": {
+      "essence": "LEXARPH rides the liminal breeze between worlds, scripting fate upon invisible vellum.",
+      "themes": "Virtues: poised adaptability, silent mastery Vices: aloof counsel, over‑abstraction.",
+      "wisdom": "“Air is the scroll; intent the quill.”",
+      "tokens": "*Welcome*: vellum feather, beryl stylus, still‑wind bottle *Spurn*: tethered kites, cracked emeralds.",
+      "verse": "“The unseen path bears the surest step.”",
+      "angelic_role": "Scout‑marshal of Persian gulf winds, with 3 300 aer‑scribes.",
+      "challenge": "On-chain quest unique to LEXARPH requiring alignment with spirit cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with spirit, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Sigil‑kite soaring in prismatic dawn — Spirit female angel; well proportioned; integrative, luminous"
+  },
+  {
+    "number": 29,
+    "name": "COMANAN",
+    "canonical_traits": {
+      "aethyr": "ZAX",
+      "element": "Spirit",
+      "personality_traits": [
+        "priestly",
+        "ritualistic",
+        "genealogical"
+      ],
+      "domains": [
+        "spirit genealogy",
+        "covenant smithing"
+      ],
+      "tarot": "The Empress",
+      "sephirah": "Netzach",
+      "zodiac_angel": "Haniel",
+      "visual_emblem": "Verdant sigil blooming through translucent scroll",
+      "translation": "He who knows how to manifest"
+    },
+    "interpretive_traits": {
+      "essence": "COMANAN teaches seed‑alchemy—drawing spirit into leaf and legend.",
+      "themes": "Virtues: nurturing patience, mythic imagination Vices: stagnation, story‑addiction.",
+      "wisdom": "“Manifestation is myth given soil.”",
+      "tokens": "*Cherish*: mandrake root, folk‑tale rune, moon‑dew vial *Spurn*: synthetic dye, broken lore tablets.",
+      "verse": "“A story planted bears unimagined fruit.”",
+      "angelic_role": "Lore‑gardener of Celtic groves, tending 2 750 myth‑sprites.",
+      "challenge": "On-chain quest unique to COMANAN requiring alignment with spirit cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with spirit, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Verdant sigil blooming through translucent scroll — Spirit male angel; big, strong; priestly, ritualistic"
+  },
+  {
+    "number": 30,
+    "name": "TABITOM",
+    "canonical_traits": {
+      "aethyr": "ZAX",
+      "element": "Spirit",
+      "personality_traits": [
+        "spirited",
+        "messenger‑like",
+        "clarifying"
+      ],
+      "domains": [
+        "pneuma study",
+        "ether navigation"
+      ],
+      "tarot": "The Sun",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "visual_emblem": "Solar wheel crowned with dragon‑flame halo",
+      "translation": "He who is like fire"
+    },
+    "interpretive_traits": {
+      "essence": "TABITOM is the *Solar Paradox*—spirit‑fire that neither burns nor dims, but transmutes.",
+      "themes": "Virtues: cyclical renewal, luminous courage Vices: consuming fervour, blinding certainty.",
+      "wisdom": "“Light’s end is its beginning.”",
+      "tokens": "*Offer*: sunflower ash, golden ratio spiral, phoenix feather *Reject*: eclipse shards, dimmed lanterns.",
+      "verse": "“Rise thrice‑lit, and the world pursues your shadow.”",
+      "angelic_role": "Censor of Zoroastrian sun‑vaults with 1 919 solarophants.",
+      "challenge": "On-chain quest unique to TABITOM requiring alignment with spirit cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with spirit, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Solar wheel crowned with dragon‑flame halo — Spirit male angel; dark, grey; spirited, messenger like"
+  },
+  {
+    "number": 31,
+    "name": "MOLPAND",
+    "canonical_traits": {
+      "aethyr": "ICH",
+      "element": "Water",
+      "personality_traits": [
+        "tidal",
+        "fluid",
+        "adaptive"
+      ],
+      "domains": [
+        "hydromancy",
+        "dream navigation"
+      ],
+      "tarot": "The High Priestess",
+      "sephirah": "Yesod",
+      "zodiac_angel": "Gabriel",
+      "visual_emblem": "Overflowing chalice crowned by lunar tide",
+      "translation": "He who receives men"
+    },
+    "interpretive_traits": {
+      "essence": "MOLPAND is the *Port of Souls*—tranquil harbour where journeymen spirits first taste incarnation.",
+      "themes": "Welcoming, transmutation, gentle guidance; shadowed by noblesse‑oblige condescension.",
+      "wisdom": "“Hospitality is the first alchemy—each guest becomes new gold.”",
+      "tokens": "Offer pearl‑ink script, spring‑water phial, selenite shard; refuse salt‑scorched scrolls.",
+      "verse": "“Raise the cup, know the sea within.”",
+      "angelic_role": "Harbour‑warden over 4 444 liminal ferrymen.",
+      "challenge": "On-chain quest unique to MOLPAND requiring alignment with water cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with water, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Overflowing chalice crowned by lunar tide — Water female angel; reflective, dreamy; tidal, fluid"
+  },
+  {
+    "number": 32,
+    "name": "VSNARDA",
+    "canonical_traits": {
+      "aethyr": "ICH",
+      "element": "Water",
+      "personality_traits": [
+        "reflective",
+        "adaptive",
+        "tidal"
+      ],
+      "domains": [
+        "hydromancy",
+        "aqua healing"
+      ],
+      "tarot": "Wheel of Fortune",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "Chalice spiralling into abyssal whirl",
+      "translation": "He who casts down into the depths"
+    },
+    "interpretive_traits": {
+      "essence": "Keeper of abyss‑initiations—VSNARDA drags arrogance beneath black tides until humility breathes anew.",
+      "themes": "Descent, cyclical fate, whispered lore; peril of endless sinking.",
+      "wisdom": "“The deepest well hides the clearest mirror.”",
+      "tokens": "Welcome serpent‑scale relic, obsidian droplet, etymon rune; spurn hollow boasts.",
+      "verse": "“Dive past words; recover truth scaled and glistening.”",
+      "angelic_role": "Curator of midnight‑scripture, flanked by 3 210 abyss‑scribes.",
+      "challenge": "On-chain quest unique to VSNARDA requiring alignment with water cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with water, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Chalice spiralling into abyssal whirl — Water male angel; dark; reflective, adaptive"
+  },
+  {
+    "number": 33,
+    "name": "PONODOL",
+    "canonical_traits": {
+      "aethyr": "ICH",
+      "element": "Fire",
+      "personality_traits": [
+        "ardent",
+        "catalytic",
+        "fervent"
+      ],
+      "domains": [
+        "solar rites",
+        "inner furnace yoga"
+      ],
+      "tarot": "The Tower",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "visual_emblem": "Flaming bifurcated sigil, half‑ruin half‑lotus",
+      "translation": "He who destroys and creates"
+    },
+    "interpretive_traits": {
+      "essence": "PONODOL is the *Forge‑Cataclysm*—breaker of obsolete forms and midwife of new laws.",
+      "themes": "Surgical destruction, tactical rebirth; hazard of collateral pyres.",
+      "wisdom": "“To raze with purpose is to lay mortar for futures.”",
+      "tokens": "Bring war‑scarred stone, freshly‑inked blueprint, single phoenix ash; never bring relics you fear to lose.",
+      "verse": "“Rubble remembers the shape of tomorrow.”",
+      "angelic_role": "Demolition‑architect commanding 6 066 magma‑masons.",
+      "challenge": "On-chain quest unique to PONODOL requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Flaming bifurcated sigil, half‑ruin half‑lotus — Fire female angel; resolute; ardent, catalytic"
+  },
+  {
+    "number": 34,
+    "name": "TAPAMAL",
+    "canonical_traits": {
+      "aethyr": "LOE",
+      "element": "Fire",
+      "personality_traits": [
+        "catalytic",
+        "transformative",
+        "ardent"
+      ],
+      "domains": [
+        "pyromancy",
+        "metallurgic transmutation"
+      ],
+      "tarot": "The Star",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "visual_emblem": "Starlit tuning‑fork over primal swirl",
+      "translation": "She as at the beginning"
+    },
+    "interpretive_traits": {
+      "essence": "First‑note of cosmic hymn—TAPAMAL re‑strikes the fundamental tone that births worlds.",
+      "themes": "Reset, harmony, stellar melody; danger of dissonant echoes.",
+      "wisdom": "“A single true pitch can retune galaxies.”",
+      "tokens": "Proffer quartz diapason, nebula dust, golden ratio scroll; reject cracked metronomes.",
+      "verse": "“Before words were, there was pitch.”",
+      "angelic_role": "Choirmistress of 4 321 proto‑sirens.",
+      "challenge": "On-chain quest unique to TAPAMAL requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Starlit tuning‑fork over primal swirl — Fire male angel; dark, grey; catalytic, transformative"
+  },
+  {
+    "number": 35,
+    "name": "GEDOONS",
+    "canonical_traits": {
+      "aethyr": "LOE",
+      "element": "Fire",
+      "personality_traits": [
+        "catalytic",
+        "incendiary",
+        "transformative"
+      ],
+      "domains": [
+        "inner furnace yoga",
+        "solar rites"
+      ],
+      "tarot": "The Tower",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "visual_emblem": "Blotted sigil on blazing tower fragment",
+      "translation": "He who eliminates your name"
+    },
+    "interpretive_traits": {
+      "essence": "GEDOONS wields erasure—striking identities from celestial rolls to grant tactical invisibility.",
+      "themes": "Silence, anonymity, star‑fate severance; risk of self‑obliteration.",
+      "wisdom": "“Name lost, path untracked.”",
+      "tokens": "Offer unused signet ring, void‑ink, natal star‑chart; avoid public heraldry.",
+      "verse": "“In absence, the hunter passes unseen.”",
+      "angelic_role": "Chief censor of 5 555 occult sentinels.",
+      "challenge": "On-chain quest unique to GEDOONS requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Blotted sigil on blazing tower fragment — Fire female angel; changeful beauty; catalytic, incendiary"
+  },
+  {
+    "number": 36,
+    "name": "NOCAMAL",
+    "canonical_traits": {
+      "aethyr": "LOE",
+      "element": "Fire",
+      "personality_traits": [
+        "purifying",
+        "ardent",
+        "incendiary"
+      ],
+      "domains": [
+        "metallurgic transmutation",
+        "inner furnace yoga"
+      ],
+      "tarot": "Justice",
+      "sephirah": "Netzach",
+      "zodiac_angel": "Haniel",
+      "visual_emblem": "Ember‑lit cradle emitting lullaby waves",
+      "translation": "He who continuously comforts"
+    },
+    "interpretive_traits": {
+      "essence": "Guardian‑lullaby—NOCAMAL stills stormed hearts, weaving ember‑dreams of solace.",
+      "themes": "Restoration, restorative equity; threat of complacent sleep.",
+      "wisdom": "“Comfort renews, yet over‑comfort dulls.”",
+      "tokens": "Bring dream‑myrrh, tuning shell, quiet bell; avoid alarm gongs.",
+      "verse": "“Embers cradle the weary lion.”",
+      "angelic_role": "Dream‑steward of 7 070 hearth‑watchers.",
+      "challenge": "On-chain quest unique to NOCAMAL requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Ember‑lit cradle emitting lullaby waves — Fire male angel; dark, square faced; purifying, ardent"
+  },
+  {
+    "number": 37,
+    "name": "ISEMTAR",
+    "canonical_traits": {
+      "aethyr": "VTA",
+      "element": "Fire",
+      "personality_traits": [
+        "fervent",
+        "catalytic",
+        "ardent"
+      ],
+      "domains": [
+        "metallurgic transmutation",
+        "pyromancy"
+      ],
+      "tarot": "Temperance",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "Alchemical crucible splitting into wings",
+      "translation": "He who begins the changes"
+    },
+    "interpretive_traits": {
+      "essence": "ISEMTAR sparks metamorphosis—codifying chaos into rite and flight.",
+      "themes": "Initiation, law‑alchemy, vigilant adaptation; hazard of unfinished transits.",
+      "wisdom": "“Ritual is the keel that steers flux.”",
+      "tokens": "Offer chrysalis shell, silver scale, charter scroll; spurn untethered flames.",
+      "verse": "“Change obeys the patient map.”",
+      "angelic_role": "Archivist of 6 606 rite‑engineers.",
+      "challenge": "On-chain quest unique to ISEMTAR requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Alchemical crucible splitting into wings — Fire female angel; white, delicate; fervent, catalytic"
+  },
+  {
+    "number": 38,
+    "name": "MASTIPT",
+    "canonical_traits": {
+      "aethyr": "VTA",
+      "element": "Fire",
+      "personality_traits": [
+        "valorous",
+        "vigilant",
+        "paternal"
+      ],
+      "domains": [
+        "geomantic bastions",
+        "optics of warning"
+      ],
+      "tarot": "Strength",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "visual_emblem": "Flaming shield embedded with eye‑gem",
+      "translation": "He protector of man"
+    },
+    "interpretive_traits": {
+      "essence": "Solar bulwark—MASTIPT stands where holy ground meets roaring front.",
+      "themes": "Guardianship, radiant vigilance; risk of martyr’s blind zeal.",
+      "wisdom": "“Sight and shield must turn together.”",
+      "tokens": "Welcome basalt ward‑stone, sun‑amber lens, sworn oath scroll; refuse blood‑iron.",
+      "verse": "“Flame mirrors flame, and none pass.”",
+      "angelic_role": "Commander of 8 888 sentinel‑knights.",
+      "challenge": "On-chain quest unique to MASTIPT requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Flaming shield embedded with eye‑gem — Fire female angel; reflective, dreamy; valorous, vigilant"
+  },
+  {
+    "number": 39,
+    "name": "CAMAXOX",
+    "canonical_traits": {
+      "aethyr": "VTA",
+      "element": "Fire",
+      "personality_traits": [
+        "heraldic",
+        "visionary",
+        "ceremonious"
+      ],
+      "domains": [
+        "star naming",
+        "dream inscribing"
+      ],
+      "tarot": "Temperance",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "Sky‑scroll unfurling stellar sigla",
+      "translation": "He who names only great names"
+    },
+    "interpretive_traits": {
+      "essence": "Registrar of legendary appellations—CAMAXOX crowns deeds with ringing titles.",
+      "themes": "Reputation, destiny inscription; danger of vainglory inflation.",
+      "wisdom": "“Name shapes echo; choose vowels wisely.”",
+      "tokens": "Present blank constellation map, dream‑ink, lion’s quill; reject false laurels.",
+      "verse": "“The louder the trumpet, the clearer its target.”",
+      "angelic_role": "Chronicler with 5 432 title‑scribes.",
+      "challenge": "On-chain quest unique to CAMAXOX requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Sky‑scroll unfurling stellar sigla — Fire male angel; big, strong; heraldic, visionary"
+  },
+  {
+    "number": 40,
+    "name": "EXGSDIA",
+    "canonical_traits": {
+      "aethyr": "VTA",
+      "element": "Fire",
+      "personality_traits": [
+        "uncompromising",
+        "logical",
+        "disciplinarian"
+      ],
+      "domains": [
+        "binding code",
+        "angelic calculus"
+      ],
+      "tarot": "The Tower",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "visual_emblem": "Iron sceptre wrapped in lightning rune",
+      "translation": "He who demands obedience"
+    },
+    "interpretive_traits": {
+      "essence": "Law‑incarnate—EXGSDIA binds unruly currents to stern vectors.",
+      "themes": "Authority, sharp clarity; tyranny of rigid code.",
+      "wisdom": "“Command is the geometry of will.”",
+      "tokens": "Proffer oath‑tablet, star‑knot cord, cubic crystal; refuse shifting excuses.",
+      "verse": "“Duty carves the shortest path.”",
+      "angelic_role": "Marshal of 4 444 iron‑adepts.",
+      "challenge": "On-chain quest unique to EXGSDIA requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Iron sceptre wrapped in lightning rune — Fire female angel; fiery, fierce; uncompromising, logical"
+  },
+  {
+    "number": 41,
+    "name": "SAPDION",
+    "canonical_traits": {
+      "aethyr": "VTA",
+      "element": "Fire",
+      "personality_traits": [
+        "ardent",
+        "fervent",
+        "transformative"
+      ],
+      "domains": [
+        "pyromancy",
+        "inner furnace yoga"
+      ],
+      "tarot": "The World",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "visual_emblem": "Ouroboros gear turning endless loop",
+      "translation": "She of many repetitions"
+    },
+    "interpretive_traits": {
+      "essence": "SAPDION governs recurrence—echo cycles forging perfection through iteration.",
+      "themes": "Perseverance, fractal mastery; peril of endless loops.",
+      "wisdom": "“Circle again, but never the same.”",
+      "tokens": "Bring twin rings, prime spiral shell, time‑sand; avoid shortcuts.",
+      "verse": "“Perfection is patient redundancy.”",
+      "angelic_role": "Mistress of 9 909 clockwork seraphim.",
+      "challenge": "On-chain quest unique to SAPDION requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Ouroboros gear turning endless loop — Fire male angel; fierce, active; ardent, fervent"
+  },
+  {
+    "number": 42,
+    "name": "ALPUDUS",
+    "canonical_traits": {
+      "aethyr": "VTA",
+      "element": "Fire",
+      "personality_traits": [
+        "relativist",
+        "exploratory",
+        "sage‑listener"
+      ],
+      "domains": [
+        "frequency healing",
+        "root‑alchemy"
+      ],
+      "tarot": "The High Priestess",
+      "sephirah": "Yesod",
+      "zodiac_angel": "Gabriel",
+      "visual_emblem": "Dual‑faced mask over shifting spectrum",
+      "translation": "He to whom truth is relative"
+    },
+    "interpretive_traits": {
+      "essence": "ALPUDUS weighs context—truth refracted by vantage and season.",
+      "themes": "Relativity, mercurial insight; chaos of shifting morals.",
+      "wisdom": "“Stand twice; behold two certainties.”",
+      "tokens": "Submit prism‑leaf, binaural bowl, moon‑water; shun dogma tablets.",
+      "verse": "“Two mirrors contest; light survives.”",
+      "angelic_role": "Dialectic‑curator of 3 333 prism‑monks.",
+      "challenge": "On-chain quest unique to ALPUDUS requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Dual‑faced mask over shifting spectrum — Fire male angel; spiritual, winged; relativist, exploratory"
+  },
+  {
+    "number": 43,
+    "name": "TAHAMDO",
+    "canonical_traits": {
+      "aethyr": "OXO",
+      "element": "Air",
+      "personality_traits": [
+        "inventive",
+        "musical",
+        "ecological"
+      ],
+      "domains": [
+        "harmonic syntax",
+        "biosphere energy"
+      ],
+      "tarot": "The Lovers",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "visual_emblem": "Winged hour‑glass drumming rhythmic pulse",
+      "translation": "He who lives by his name"
+    },
+    "interpretive_traits": {
+      "essence": "TAHAMDO embodies self‑coherence—utterance, act, and essence in lock‑step rhythm.",
+      "themes": "Authenticity, tonal ecology; peril of inflexible identity.",
+      "wisdom": "“Name is seed; live its bloom.”",
+      "tokens": "Offer resonant reed, etymon seed, sparrow quill; decline masks.",
+      "verse": "“Speak thyself, or others will.”",
+      "angelic_role": "Linguist‑bard guiding 4 444 echo‑sprites.",
+      "challenge": "On-chain quest unique to TAHAMDO requiring alignment with air cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Winged hour‑glass drumming rhythmic pulse — Air male angel; dark, grey; inventive, musical"
+  },
+  {
+    "number": 44,
+    "name": "NOTIABI",
+    "canonical_traits": {
+      "aethyr": "OXO",
+      "element": "Air",
+      "personality_traits": [
+        "analytical",
+        "thoughtful",
+        "inventive"
+      ],
+      "domains": [
+        "breath alchemy",
+        "aeromancy"
+      ],
+      "tarot": "The Tower",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "visual_emblem": "Winged blade vibrating with tone",
+      "translation": "Servant who speaks truth"
+    },
+    "interpretive_traits": {
+      "essence": "NOTIABI is herald‑blade—truth delivered swift as thunderclap.",
+      "themes": "Courageous candour, piercing revelation; hazard of ruthless bluntness.",
+      "wisdom": "“Truth unsheathed cuts first the bearer.”",
+      "tokens": "Bring quartz tuning‑dagger, oath parchment, red jasper; spurn honeyed veils.",
+      "verse": "“Voice like steel: it rings, it wounds.”",
+      "angelic_role": "Truth‑marshal of 2 888 clarion‑knights.",
+      "challenge": "On-chain quest unique to NOTIABI requiring alignment with air cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Winged blade vibrating with tone — Air male angel; dark, square faced; analytical, thoughtful"
+  },
+  {
+    "number": 45,
+    "name": "TASTOZO",
+    "canonical_traits": {
+      "aethyr": "OXO",
+      "element": "Air",
+      "personality_traits": [
+        "nimble",
+        "inventive",
+        "lofty"
+      ],
+      "domains": [
+        "aeromancy",
+        "acoustic geometry"
+      ],
+      "tarot": "The Lovers",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "visual_emblem": "Spiral dance‑glyph woven in breeze",
+      "translation": "She who initiates dancing"
+    },
+    "interpretive_traits": {
+      "essence": "Mistress of cosmic choreography—TASTOZO sets planets waltzing in sacred ratios.",
+      "themes": "Motion, joyous recursion, linguistic rhythm; danger of frenzied whirl.",
+      "wisdom": "“Steps count stars; dancers trace aeons.”",
+      "tokens": "Bring sand‑mandala spiral, wind‑bell, prime number knot; avoid tangled nets.",
+      "verse": "“The universe twirls on silent feet.”",
+      "angelic_role": "Choreographer of 7 007 cyclone‑muses.",
+      "challenge": "On-chain quest unique to TASTOZO requiring alignment with air cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Spiral dance‑glyph woven in breeze — Air male angel; dark, grey; nimble, inventive"
+  },
+  {
+    "number": 46,
+    "name": "CALZICH",
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "incendiary",
+        "ardent",
+        "catalytic"
+      ],
+      "domains": [
+        "pyromancy",
+        "solar rites"
+      ],
+      "tarot": "Temperance",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "Crimson torch whose flame forks into twin helixes",
+      "translation": "She who replaces what was with something similar"
+    },
+    "interpretive_traits": {
+      "essence": "CALZICH is the *Echo‑Forge*—turning endings into kindred beginnings with algebras of light.",
+      "themes": "Transposition, benign mimicry, phoenix economics; danger of recursive stagnation.",
+      "wisdom": "“Replacement is mercy dressed in change.”",
+      "tokens": "*Welcome*: intact mirror shard, double‑spiral sigil, phoenix ash poultice *Spurn*: plagiarised scrolls, warped prisms.",
+      "verse": "“The fire returns what it removes, though never quite the same.”",
+      "angelic_role": "Custodian of 4 444 renewal‑smiths tending the cosmic salvage halls.",
+      "challenge": "On-chain quest unique to CALZICH requiring alignment with fire cycles and demonstration of elemental mastery.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice to maintain cosmic equilibrium."
+    },
+    "visual_description": "Crimson torch whose flame forks into twin helixes — Fire male angel; big, strong; incendiary, ardent"
+  },
+  {
+    "name": "ALDAPI",
+    "number": 47,
+    "translation": "He who governs restoration",
+    "aethyr": "LEA",
+    "element": "Fire",
+    "visual_description": "Gold‑edged torch clasped by lion’s paw",
+    "personality_traits": [
+      "transformative",
+      "incendiary",
+      "catalytic"
+    ],
+    "domains_of_knowledge": [
+      "metallurgic transmutation",
+      "solar rites"
+    ],
+    "zodiac_angel": "Michael",
+    "kabbalistic_correspondence": "Tiphareth",
+    "tarot_attribution": "Strength",
+    "visual_subtraits": {
+      "color_palette": "ember‑crimson & gold",
+      "movement": "flickering flare",
+      "emblem": "Gold‑edged torch clasped by lion’s paw",
+      "aura": "radiant heat‑halo"
+    },
+    "interpretive_traits": {
+      "essence": "ALDAPI channels the archetypal potency of fire toward mastery of metallurgic transmutation, solar rites.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of ALDAPI, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to fire; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to ALDAPI requiring alignment with fire cycles.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice.",
+      "verse": "ALDAPI whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of fire, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "transformative",
+        "incendiary",
+        "catalytic"
+      ],
+      "domains": [
+        "metallurgic transmutation",
+        "solar rites"
+      ],
+      "tarot": "Strength",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "translation": "He who governs restoration",
+      "visual_emblem": "Gold‑edged torch clasped by lion’s paw"
+    }
+  },
+  {
+    "name": "ANELOB",
+    "number": 48,
+    "translation": "He whose measure guides",
+    "aethyr": "LEA",
+    "element": "Fire",
+    "visual_description": "Emerald torch spiralling into logarithmic coil",
+    "personality_traits": [
+      "purifying",
+      "incendiary",
+      "ardent"
+    ],
+    "domains_of_knowledge": [
+      "pyromancy",
+      "inner furnace yoga"
+    ],
+    "zodiac_angel": "Raphael",
+    "kabbalistic_correspondence": "Hod",
+    "tarot_attribution": "The Hermit",
+    "visual_subtraits": {
+      "color_palette": "ember‑crimson & gold",
+      "movement": "flickering flare",
+      "emblem": "Emerald torch spiralling into logarithmic coil",
+      "aura": "radiant heat‑halo"
+    },
+    "interpretive_traits": {
+      "essence": "ANELOB channels the archetypal potency of fire toward mastery of pyromancy, inner furnace yoga.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of ANELOB, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to fire; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to ANELOB requiring alignment with fire cycles.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice.",
+      "verse": "ANELOB whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of fire, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "purifying",
+        "incendiary",
+        "ardent"
+      ],
+      "domains": [
+        "pyromancy",
+        "inner furnace yoga"
+      ],
+      "tarot": "The Hermit",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "translation": "He whose measure guides",
+      "visual_emblem": "Emerald torch spiralling into logarithmic coil"
+    }
+  },
+  {
+    "name": "ARSPHOR",
+    "number": 49,
+    "translation": "He who heals through equivalence",
+    "aethyr": "LEA",
+    "element": "Fire",
+    "visual_description": "Torch overbalance with twin alembics",
+    "personality_traits": [
+      "transformative",
+      "fervent",
+      "incendiary"
+    ],
+    "domains_of_knowledge": [
+      "pyromancy",
+      "metallurgic transmutation"
+    ],
+    "zodiac_angel": "Haniel",
+    "kabbalistic_correspondence": "Netzach",
+    "tarot_attribution": "Justice",
+    "visual_subtraits": {
+      "color_palette": "ember‑crimson & gold",
+      "movement": "flickering flare",
+      "emblem": "Torch overbalance with twin alembics",
+      "aura": "radiant heat‑halo"
+    },
+    "interpretive_traits": {
+      "essence": "ARSPHOR channels the archetypal potency of fire toward mastery of pyromancy, metallurgic transmutation.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of ARSPHOR, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to fire; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to ARSPHOR requiring alignment with fire cycles.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice.",
+      "verse": "ARSPHOR whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of fire, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "transformative",
+        "fervent",
+        "incendiary"
+      ],
+      "domains": [
+        "pyromancy",
+        "metallurgic transmutation"
+      ],
+      "tarot": "Justice",
+      "sephirah": "Netzach",
+      "zodiac_angel": "Haniel",
+      "translation": "He who heals through equivalence",
+      "visual_emblem": "Torch overbalance with twin alembics"
+    }
+  },
+  {
+    "name": "AYDROPT",
+    "number": 50,
+    "translation": "She who sees us with equality",
+    "aethyr": "TAN",
+    "element": "Air",
+    "visual_description": "Opaline winged hour‑glass framed by equal‑armed cross",
+    "personality_traits": [
+      "inventive",
+      "lofty",
+      "nimble"
+    ],
+    "domains_of_knowledge": [
+      "breath alchemy",
+      "aeromancy"
+    ],
+    "zodiac_angel": "Haniel",
+    "kabbalistic_correspondence": "Netzach",
+    "tarot_attribution": "Justice",
+    "visual_subtraits": {
+      "color_palette": "sky‑azure & white",
+      "movement": "gentle drift",
+      "emblem": "Opaline winged hour‑glass framed by equal‑armed cross",
+      "aura": "whispering breeze"
+    },
+    "interpretive_traits": {
+      "essence": "AYDROPT channels the archetypal potency of air toward mastery of breath alchemy, aeromancy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of AYDROPT, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to air; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to AYDROPT requiring alignment with air cycles.",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice.",
+      "verse": "AYDROPT whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of air, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "TAN",
+      "element": "Air",
+      "personality_traits": [
+        "inventive",
+        "lofty",
+        "nimble"
+      ],
+      "domains": [
+        "breath alchemy",
+        "aeromancy"
+      ],
+      "tarot": "Justice",
+      "sephirah": "Netzach",
+      "zodiac_angel": "Haniel",
+      "translation": "She who sees us with equality",
+      "visual_emblem": "Opaline winged hour‑glass framed by equal‑armed cross"
+    }
+  },
+  {
+    "name": "TOCARZI",
+    "number": 51,
+    "translation": "He of such equality",
+    "aethyr": "TAN",
+    "element": "Air",
+    "visual_description": "Hour‑glass ignited in symmetrical flame arcs",
+    "personality_traits": [
+      "egalitarian",
+      "precise",
+      "temperate"
+    ],
+    "domains_of_knowledge": [
+      "divinatory balance",
+      "optical magic"
+    ],
+    "zodiac_angel": "Raphael",
+    "kabbalistic_correspondence": "Hod",
+    "tarot_attribution": "The Lovers",
+    "visual_subtraits": {
+      "color_palette": "sky‑azure & white",
+      "movement": "gentle drift",
+      "emblem": "Hour‑glass ignited in symmetrical flame arcs",
+      "aura": "whispering breeze"
+    },
+    "interpretive_traits": {
+      "essence": "TOCARZI channels the archetypal potency of air toward mastery of divinatory balance, optical magic.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of TOCARZI, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to air; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to TOCARZI requiring alignment with air cycles.",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice.",
+      "verse": "TOCARZI whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of air, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "TAN",
+      "element": "Air",
+      "personality_traits": [
+        "egalitarian",
+        "precise",
+        "temperate"
+      ],
+      "domains": [
+        "divinatory balance",
+        "optical magic"
+      ],
+      "tarot": "The Lovers",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "translation": "He of such equality",
+      "visual_emblem": "Hour‑glass ignited in symmetrical flame arcs"
+    }
+  },
+  {
+    "number": 52,
+    "name": "NABAOMI",
+    "canonical_traits": {
+      "aethyr": "ZEN",
+      "element": "Air",
+      "personality_traits": [
+        "empathetic",
+        "introspective",
+        "resilient"
+      ],
+      "domains": [
+        "sorrow alchemy",
+        "wind‑borne lamentation"
+      ],
+      "tarot": "The Tower",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "visual_emblem": "Winged censer trailing azure tears",
+      "translation": "He who knows pain"
+    },
+    "interpretive_traits": {
+      "essence": "NABAOMI is the Wailing Current—the gentle cyclone that scours trauma from the hidden chambers of the heart, then anneals grief into luminous resolve.",
+      "themes": "Virtues: compassionate witness, cathartic daring, honest vulnerability Vices: morbid fixation, self‑flagellation, pity that binds instead of frees.",
+      "wisdom": "\"Pain is the whetstone that clarifies purpose—yield, and the blade sings.\"",
+      "tokens": "*Favour*: glass vials of collected tears, wind‑chimes forged from spent arrow‑heads, pale hyacinths *Spurn*: sealed urns of unspoken sorrow, mirrors draped in denial.",
+      "challenge": "Fuse two ✧Grief‑Sigils✧ on‑chain at local dawn; smart‑contract verifies sha256(merged_tears) hash of acceptance.",
+      "boon": "Bearer of the **Censer of NABAOMI** gains +20 % resistance to *Morbid* debuffs for 7 blocks but suffers –10 % charisma while the censer remains lit.",
+      "verse": "\"In the hush between sobs the true breath returns.\"",
+      "angelic_role": "Custodian of the 7 777 Solaces; his glass‑throated choir tempers the winds that ferry lament to the Throne."
+    },
+    "visual_description": "A beaten‑silver censer whose hinged wings leak sapphire vapour; the smoke coils into sigils of healed scars. The angel himself is dusk‑eyed, tall, his pinions shimmering like rain‑washed silk—presence light as breath, yet pressing softly until buried grief exhales."
+  },
+  {
+    "name": "SANIZAR",
+    "number": 53,
+    "translation": "He who defends the path",
+    "aethyr": "LOE",
+    "element": "Air",
+    "visual_description": "Hour‑glass locked in tactical grid",
+    "personality_traits": [
+      "whispering",
+      "nimble",
+      "thoughtful"
+    ],
+    "domains_of_knowledge": [
+      "breath alchemy",
+      "aeromancy"
+    ],
+    "zodiac_angel": "Zadkiel",
+    "kabbalistic_correspondence": "Chesed",
+    "tarot_attribution": "Wheel of Fortune",
+    "visual_subtraits": {
+      "color_palette": "sky‑azure & white",
+      "movement": "gentle drift",
+      "emblem": "Hour‑glass locked in tactical grid",
+      "aura": "whispering breeze"
+    },
+    "interpretive_traits": {
+      "essence": "SANIZAR channels the archetypal potency of air toward mastery of breath alchemy, aeromancy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of SANIZAR, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to air; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to SANIZAR requiring alignment with air cycles.",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice.",
+      "verse": "SANIZAR whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of air, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "LOE",
+      "element": "Air",
+      "personality_traits": [
+        "whispering",
+        "nimble",
+        "thoughtful"
+      ],
+      "domains": [
+        "breath alchemy",
+        "aeromancy"
+      ],
+      "tarot": "Wheel of Fortune",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "translation": "He who defends the path",
+      "visual_emblem": "Hour‑glass locked in tactical grid"
+    }
+  },
+  {
+    "name": "CHIALPS",
+    "number": 54,
+    "translation": "He who speaks the serpent’s number",
+    "aethyr": "LOE",
+    "element": "Air",
+    "visual_description": "Winged hour‑glass entwined by caduceus of digits",
+    "personality_traits": [
+      "thoughtful",
+      "inventive",
+      "lofty"
+    ],
+    "domains_of_knowledge": [
+      "sky cartography",
+      "breath alchemy"
+    ],
+    "zodiac_angel": "Cassiel",
+    "kabbalistic_correspondence": "Binah",
+    "tarot_attribution": "The Star",
+    "visual_subtraits": {
+      "color_palette": "sky‑azure & white",
+      "movement": "gentle drift",
+      "emblem": "Winged hour‑glass entwined by caduceus of digits",
+      "aura": "whispering breeze"
+    },
+    "interpretive_traits": {
+      "essence": "CHIALPS channels the archetypal potency of air toward mastery of sky cartography, breath alchemy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of CHIALPS, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to air; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to CHIALPS requiring alignment with air cycles.",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice.",
+      "verse": "CHIALPS whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of air, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "LOE",
+      "element": "Air",
+      "personality_traits": [
+        "thoughtful",
+        "inventive",
+        "lofty"
+      ],
+      "domains": [
+        "sky cartography",
+        "breath alchemy"
+      ],
+      "tarot": "The Star",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "translation": "He who speaks the serpent’s number",
+      "visual_emblem": "Winged hour‑glass entwined by caduceus of digits"
+    }
+  },
+  {
+    "name": "ZIRACAH",
+    "number": 55,
+    "translation": "He who crowns the unseen",
+    "aethyr": "LOE",
+    "element": "Air",
+    "visual_description": "Winged hour‑glass topped by invisible corona (seen only in glyph‑light)",
+    "personality_traits": [
+      "analytical",
+      "whispering",
+      "lofty"
+    ],
+    "domains_of_knowledge": [
+      "acoustic geometry",
+      "sky cartography"
+    ],
+    "zodiac_angel": "Haniel",
+    "kabbalistic_correspondence": "Netzach",
+    "tarot_attribution": "The Empress",
+    "visual_subtraits": {
+      "color_palette": "sky‑azure & white",
+      "movement": "gentle drift",
+      "emblem": "Winged hour‑glass topped by invisible corona (seen only in glyph‑light)",
+      "aura": "whispering breeze"
+    },
+    "interpretive_traits": {
+      "essence": "ZIRACAH channels the archetypal potency of air toward mastery of acoustic geometry, sky cartography.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of ZIRACAH, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to air; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to ZIRACAH requiring alignment with air cycles.",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice.",
+      "verse": "ZIRACAH whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of air, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "LOE",
+      "element": "Air",
+      "personality_traits": [
+        "analytical",
+        "whispering",
+        "lofty"
+      ],
+      "domains": [
+        "acoustic geometry",
+        "sky cartography"
+      ],
+      "tarot": "The Empress",
+      "sephirah": "Netzach",
+      "zodiac_angel": "Haniel",
+      "translation": "He who crowns the unseen",
+      "visual_emblem": "Winged hour‑glass topped by invisible corona (seen only in glyph‑light)"
+    }
+  },
+  {
+    "name": "MEMNIE",
+    "number": 56,
+    "translation": "He who shatters bastions",
+    "aethyr": "LEA",
+    "element": "Fire",
+    "visual_description": "Torch erupting into tower‑splitting lightning",
+    "personality_traits": [
+      "ardent",
+      "transformative",
+      "catalytic"
+    ],
+    "domains_of_knowledge": [
+      "solar rites",
+      "inner furnace yoga"
+    ],
+    "zodiac_angel": "Kamael",
+    "kabbalistic_correspondence": "Geburah",
+    "tarot_attribution": "The Tower",
+    "visual_subtraits": {
+      "color_palette": "ember‑crimson & gold",
+      "movement": "flickering flare",
+      "emblem": "Torch erupting into tower‑splitting lightning",
+      "aura": "radiant heat‑halo"
+    },
+    "interpretive_traits": {
+      "essence": "MEMNIE channels the archetypal potency of fire toward mastery of solar rites, inner furnace yoga.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of MEMNIE, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to fire; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to MEMNIE requiring alignment with fire cycles.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice.",
+      "verse": "MEMNIE whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of fire, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "ardent",
+        "transformative",
+        "catalytic"
+      ],
+      "domains": [
+        "solar rites",
+        "inner furnace yoga"
+      ],
+      "tarot": "The Tower",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "translation": "He who shatters bastions",
+      "visual_emblem": "Torch erupting into tower‑splitting lightning"
+    }
+  },
+  {
+    "name": "VAUNESH",
+    "number": 57,
+    "translation": "He who lifts the serpent’s helm",
+    "aethyr": "LEA",
+    "element": "Fire",
+    "visual_description": "Torch braided with ouroboros helm plume",
+    "personality_traits": [
+      "ardent",
+      "transformative",
+      "incendiary"
+    ],
+    "domains_of_knowledge": [
+      "inner furnace yoga",
+      "pyromancy"
+    ],
+    "zodiac_angel": "Michael",
+    "kabbalistic_correspondence": "Tiphareth",
+    "tarot_attribution": "Strength",
+    "visual_subtraits": {
+      "color_palette": "ember‑crimson & gold",
+      "movement": "flickering flare",
+      "emblem": "Torch braided with ouroboros helm plume",
+      "aura": "radiant heat‑halo"
+    },
+    "interpretive_traits": {
+      "essence": "VAUNESH channels the archetypal potency of fire toward mastery of inner furnace yoga, pyromancy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of VAUNESH, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to fire; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to VAUNESH requiring alignment with fire cycles.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice.",
+      "verse": "VAUNESH whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of fire, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "ardent",
+        "transformative",
+        "incendiary"
+      ],
+      "domains": [
+        "inner furnace yoga",
+        "pyromancy"
+      ],
+      "tarot": "Strength",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "translation": "He who lifts the serpent’s helm",
+      "visual_emblem": "Torch braided with ouroboros helm plume"
+    }
+  },
+  {
+    "name": "NATGLAF",
+    "number": 58,
+    "translation": "He who maps the dreaming angles",
+    "aethyr": "LEA",
+    "element": "Fire",
+    "visual_description": "Torch casting fractal shadow‑grid",
+    "personality_traits": [
+      "incendiary",
+      "ardent",
+      "catalytic"
+    ],
+    "domains_of_knowledge": [
+      "metallurgic transmutation",
+      "pyromancy"
+    ],
+    "zodiac_angel": "Raphael",
+    "kabbalistic_correspondence": "Hod",
+    "tarot_attribution": "The Hermit",
+    "visual_subtraits": {
+      "color_palette": "ember‑crimson & gold",
+      "movement": "flickering flare",
+      "emblem": "Torch casting fractal shadow‑grid",
+      "aura": "radiant heat‑halo"
+    },
+    "interpretive_traits": {
+      "essence": "NATGLAF channels the archetypal potency of fire toward mastery of metallurgic transmutation, pyromancy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of NATGLAF, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to fire; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to NATGLAF requiring alignment with fire cycles.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice.",
+      "verse": "NATGLAF whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of fire, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "incendiary",
+        "ardent",
+        "catalytic"
+      ],
+      "domains": [
+        "metallurgic transmutation",
+        "pyromancy"
+      ],
+      "tarot": "The Hermit",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "translation": "He who maps the dreaming angles",
+      "visual_emblem": "Torch casting fractal shadow‑grid"
+    }
+  },
+  {
+    "name": "OLXNOSP",
+    "number": 59,
+    "translation": "He who polishes the unseen lens",
+    "aethyr": "LEA",
+    "element": "Fire",
+    "visual_description": "Torch whose smoke condenses into crystal lens",
+    "personality_traits": [
+      "purifying",
+      "ardent",
+      "catalytic"
+    ],
+    "domains_of_knowledge": [
+      "solar rites",
+      "inner furnace yoga"
+    ],
+    "zodiac_angel": "Gabriel",
+    "kabbalistic_correspondence": "Yesod",
+    "tarot_attribution": "The High Priestess",
+    "visual_subtraits": {
+      "color_palette": "ember‑crimson & gold",
+      "movement": "flickering flare",
+      "emblem": "Torch whose smoke condenses into crystal lens",
+      "aura": "radiant heat‑halo"
+    },
+    "interpretive_traits": {
+      "essence": "OLXNOSP channels the archetypal potency of fire toward mastery of solar rites, inner furnace yoga.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of OLXNOSP, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to fire; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to OLXNOSP requiring alignment with fire cycles.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice.",
+      "verse": "OLXNOSP whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of fire, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "purifying",
+        "ardent",
+        "catalytic"
+      ],
+      "domains": [
+        "solar rites",
+        "inner furnace yoga"
+      ],
+      "tarot": "The High Priestess",
+      "sephirah": "Yesod",
+      "zodiac_angel": "Gabriel",
+      "translation": "He who polishes the unseen lens",
+      "visual_emblem": "Torch whose smoke condenses into crystal lens"
+    }
+  },
+  {
+    "name": "MIANTRA",
+    "number": 60,
+    "translation": "He who wheels the word",
+    "aethyr": "LEA",
+    "element": "Fire",
+    "visual_description": "Torch‑spoked wheel inscribed with rotating glyphs",
+    "personality_traits": [
+      "fervent",
+      "catalytic",
+      "transformative"
+    ],
+    "domains_of_knowledge": [
+      "inner furnace yoga",
+      "metallurgic transmutation"
+    ],
+    "zodiac_angel": "Zadkiel",
+    "kabbalistic_correspondence": "Chesed",
+    "tarot_attribution": "Wheel of Fortune",
+    "visual_subtraits": {
+      "color_palette": "ember‑crimson & gold",
+      "movement": "flickering flare",
+      "emblem": "Torch‑spoked wheel inscribed with rotating glyphs",
+      "aura": "radiant heat‑halo"
+    },
+    "interpretive_traits": {
+      "essence": "MIANTRA channels the archetypal potency of fire toward mastery of inner furnace yoga, metallurgic transmutation.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of MIANTRA, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to fire; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to MIANTRA requiring alignment with fire cycles.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice.",
+      "verse": "MIANTRA whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of fire, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "fervent",
+        "catalytic",
+        "transformative"
+      ],
+      "domains": [
+        "inner furnace yoga",
+        "metallurgic transmutation"
+      ],
+      "tarot": "Wheel of Fortune",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "translation": "He who wheels the word",
+      "visual_emblem": "Torch‑spoked wheel inscribed with rotating glyphs"
+    }
+  },
+  {
+    "name": "GAVSTEX",
+    "number": 61,
+    "translation": "He who measures silence",
+    "aethyr": "TOR",
+    "element": "Earth",
+    "visual_description": "Obsidian tuning‑fork plunged in sand‑clock",
+    "personality_traits": [
+      "grounded",
+      "mineral-wise",
+      "enduring"
+    ],
+    "domains_of_knowledge": [
+      "stem alchemy",
+      "crystal lore"
+    ],
+    "zodiac_angel": "Raphael",
+    "kabbalistic_correspondence": "Hod",
+    "tarot_attribution": "The Hermit",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "Obsidian tuning‑fork plunged in sand‑clock",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "GAVSTEX channels the archetypal potency of earth toward mastery of stem alchemy, crystal lore.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of GAVSTEX, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to GAVSTEX requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "GAVSTEX whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "grounded",
+        "mineral-wise",
+        "enduring"
+      ],
+      "domains": [
+        "stem alchemy",
+        "crystal lore"
+      ],
+      "tarot": "The Hermit",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "translation": "He who measures silence",
+      "visual_emblem": "Obsidian tuning‑fork plunged in sand‑clock"
+    }
+  },
+  {
+    "name": "LABRINO",
+    "number": 62,
+    "translation": "He who binds the fields",
+    "aethyr": "TOR",
+    "element": "Earth",
+    "visual_description": "Granite torc encircling sprouting seed",
+    "personality_traits": [
+      "fortifying",
+      "enduring",
+      "grounded"
+    ],
+    "domains_of_knowledge": [
+      "crystal lore",
+      "stem alchemy"
+    ],
+    "zodiac_angel": "Haniel",
+    "kabbalistic_correspondence": "Netzach",
+    "tarot_attribution": "Justice",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "Granite torc encircling sprouting seed",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "LABRINO channels the archetypal potency of earth toward mastery of crystal lore, stem alchemy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of LABRINO, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to LABRINO requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "LABRINO whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "fortifying",
+        "enduring",
+        "grounded"
+      ],
+      "domains": [
+        "crystal lore",
+        "stem alchemy"
+      ],
+      "tarot": "Justice",
+      "sephirah": "Netzach",
+      "zodiac_angel": "Haniel",
+      "translation": "He who binds the fields",
+      "visual_emblem": "Granite torc encircling sprouting seed"
+    }
+  },
+  {
+    "name": "VORGAMI",
+    "number": 63,
+    "translation": "He who sings stone",
+    "aethyr": "TOR",
+    "element": "Earth",
+    "visual_description": "Resonant chisel carving glyph‑wave in cliff face",
+    "personality_traits": [
+      "fortifying",
+      "steady",
+      "enduring"
+    ],
+    "domains_of_knowledge": [
+      "geomancy",
+      "crystal lore"
+    ],
+    "zodiac_angel": "Cassiel",
+    "kabbalistic_correspondence": "Binah",
+    "tarot_attribution": "The Star",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "Resonant chisel carving glyph‑wave in cliff face",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "VORGAMI channels the archetypal potency of earth toward mastery of geomancy, crystal lore.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of VORGAMI, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to VORGAMI requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "VORGAMI whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "fortifying",
+        "steady",
+        "enduring"
+      ],
+      "domains": [
+        "geomancy",
+        "crystal lore"
+      ],
+      "tarot": "The Star",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "translation": "He who sings stone",
+      "visual_emblem": "Resonant chisel carving glyph‑wave in cliff face"
+    }
+  },
+  {
+    "name": "TASCHOX",
+    "number": 64,
+    "translation": "She whose shadow heals",
+    "aethyr": "TOR",
+    "element": "Earth",
+    "visual_description": "Half‑lit mortar diffusing night‑bloom petals",
+    "personality_traits": [
+      "fortifying",
+      "mineral-wise",
+      "pragmatic"
+    ],
+    "domains_of_knowledge": [
+      "geomancy",
+      "crystal lore"
+    ],
+    "zodiac_angel": "Zadkiel",
+    "kabbalistic_correspondence": "Chesed",
+    "tarot_attribution": "Temperance",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "Half‑lit mortar diffusing night‑bloom petals",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "TASCHOX channels the archetypal potency of earth toward mastery of geomancy, crystal lore.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of TASCHOX, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to TASCHOX requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "TASCHOX whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "fortifying",
+        "mineral-wise",
+        "pragmatic"
+      ],
+      "domains": [
+        "geomancy",
+        "crystal lore"
+      ],
+      "tarot": "Temperance",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "translation": "She whose shadow heals",
+      "visual_emblem": "Half‑lit mortar diffusing night‑bloom petals"
+    }
+  },
+  {
+    "name": "DOLMANI",
+    "number": 65,
+    "translation": "He who charts the pulse",
+    "aethyr": "TOR",
+    "element": "Earth",
+    "visual_description": "Seismograph spiralling into golden ratio coil",
+    "personality_traits": [
+      "steady",
+      "enduring",
+      "fortifying"
+    ],
+    "domains_of_knowledge": [
+      "geomancy",
+      "stem alchemy"
+    ],
+    "zodiac_angel": "Michael",
+    "kabbalistic_correspondence": "Tiphareth",
+    "tarot_attribution": "Wheel of Fortune",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "Seismograph spiralling into golden ratio coil",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "DOLMANI channels the archetypal potency of earth toward mastery of geomancy, stem alchemy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of DOLMANI, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to DOLMANI requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "DOLMANI whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "steady",
+        "enduring",
+        "fortifying"
+      ],
+      "domains": [
+        "geomancy",
+        "stem alchemy"
+      ],
+      "tarot": "Wheel of Fortune",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "translation": "He who charts the pulse",
+      "visual_emblem": "Seismograph spiralling into golden ratio coil"
+    }
+  },
+  {
+    "name": "ZIRFARZ",
+    "number": 66,
+    "translation": "He who harvests echoes",
+    "aethyr": "TOR",
+    "element": "Earth",
+    "visual_description": "Bronze net capturing ripple‑wave glyphs",
+    "personality_traits": [
+      "fortifying",
+      "mineral-wise",
+      "pragmatic"
+    ],
+    "domains_of_knowledge": [
+      "crystal lore",
+      "mineralurgy"
+    ],
+    "zodiac_angel": "Kamael",
+    "kabbalistic_correspondence": "Geburah",
+    "tarot_attribution": "Strength",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "Bronze net capturing ripple‑wave glyphs",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "ZIRFARZ channels the archetypal potency of earth toward mastery of crystal lore, mineralurgy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of ZIRFARZ, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to ZIRFARZ requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "ZIRFARZ whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "fortifying",
+        "mineral-wise",
+        "pragmatic"
+      ],
+      "domains": [
+        "crystal lore",
+        "mineralurgy"
+      ],
+      "tarot": "Strength",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "translation": "He who harvests echoes",
+      "visual_emblem": "Bronze net capturing ripple‑wave glyphs"
+    }
+  },
+  {
+    "name": "PAZIMOL",
+    "number": 67,
+    "translation": "She who tends the hidden fire",
+    "aethyr": "TOR",
+    "element": "Earth",
+    "visual_description": "Subterranean brazier veiled by crystal shale",
+    "personality_traits": [
+      "fortifying",
+      "pragmatic",
+      "enduring"
+    ],
+    "domains_of_knowledge": [
+      "stem alchemy",
+      "mineralurgy"
+    ],
+    "zodiac_angel": "Cassiel",
+    "kabbalistic_correspondence": "Binah",
+    "tarot_attribution": "The Devil",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "Subterranean brazier veiled by crystal shale",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "PAZIMOL channels the archetypal potency of earth toward mastery of stem alchemy, mineralurgy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of PAZIMOL, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to PAZIMOL requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "PAZIMOL whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "fortifying",
+        "pragmatic",
+        "enduring"
+      ],
+      "domains": [
+        "stem alchemy",
+        "mineralurgy"
+      ],
+      "tarot": "The Devil",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "translation": "She who tends the hidden fire",
+      "visual_emblem": "Subterranean brazier veiled by crystal shale"
+    }
+  },
+  {
+    "name": "ONIZIMP",
+    "number": 68,
+    "translation": "He who brings labor",
+    "aethyr": "TOR",
+    "element": "Earth",
+    "visual_description": "Granite mallet entwined by wheat braid",
+    "personality_traits": [
+      "enduring",
+      "fortifying",
+      "mineral-wise"
+    ],
+    "domains_of_knowledge": [
+      "stem alchemy",
+      "geomancy"
+    ],
+    "zodiac_angel": "Raphael",
+    "kabbalistic_correspondence": "Hod",
+    "tarot_attribution": "The Emperor",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "Granite mallet entwined by wheat braid",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "ONIZIMP channels the archetypal potency of earth toward mastery of stem alchemy, geomancy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of ONIZIMP, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to ONIZIMP requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "ONIZIMP whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "enduring",
+        "fortifying",
+        "mineral-wise"
+      ],
+      "domains": [
+        "stem alchemy",
+        "geomancy"
+      ],
+      "tarot": "The Emperor",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "translation": "He who brings labor",
+      "visual_emblem": "Granite mallet entwined by wheat braid"
+    }
+  },
+  {
+    "name": "ZAXANIN",
+    "number": 69,
+    "translation": "He who names things",
+    "aethyr": "TOR",
+    "element": "Earth",
+    "visual_description": "Sigil‑brand stamping blank clay tablet",
+    "personality_traits": [
+      "grounded",
+      "pragmatic",
+      "steady"
+    ],
+    "domains_of_knowledge": [
+      "mineralurgy",
+      "stem alchemy"
+    ],
+    "zodiac_angel": "Michael",
+    "kabbalistic_correspondence": "Tiphareth",
+    "tarot_attribution": "The Magician",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "Sigil‑brand stamping blank clay tablet",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "ZAXANIN channels the archetypal potency of earth toward mastery of mineralurgy, stem alchemy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of ZAXANIN, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to ZAXANIN requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "ZAXANIN whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "grounded",
+        "pragmatic",
+        "steady"
+      ],
+      "domains": [
+        "mineralurgy",
+        "stem alchemy"
+      ],
+      "tarot": "The Magician",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "translation": "He who names things",
+      "visual_emblem": "Sigil‑brand stamping blank clay tablet"
+    }
+  },
+  {
+    "name": "ORANCIR",
+    "number": 70,
+    "translation": "He who is above and below",
+    "aethyr": "NIA",
+    "element": "Earth",
+    "visual_description": "Twin‑point compass piercing earth and sky sigils",
+    "personality_traits": [
+      "unifying",
+      "macro/micro aware",
+      "moderate"
+    ],
+    "domains_of_knowledge": [
+      "mirroring numerology",
+      "cere‑law"
+    ],
+    "zodiac_angel": "Cassiel",
+    "kabbalistic_correspondence": "Binah",
+    "tarot_attribution": "The World",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "Twin‑point compass piercing earth and sky sigils",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "ORANCIR channels the archetypal potency of earth toward mastery of mirroring numerology, cere‑law.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of ORANCIR, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to ORANCIR requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "ORANCIR whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "NIA",
+      "element": "Earth",
+      "personality_traits": [
+        "unifying",
+        "macro/micro aware",
+        "moderate"
+      ],
+      "domains": [
+        "mirroring numerology",
+        "cere‑law"
+      ],
+      "tarot": "The World",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "translation": "He who is above and below",
+      "visual_emblem": "Twin‑point compass piercing earth and sky sigils"
+    }
+  },
+  {
+    "name": "CHASLPO",
+    "number": 71,
+    "translation": "He of wondrous joy",
+    "aethyr": "NIA",
+    "element": "Earth",
+    "visual_description": "Prism‑lute radiating auric melody",
+    "personality_traits": [
+      "exuberant",
+      "melodious",
+      "warm"
+    ],
+    "domains_of_knowledge": [
+      "solar music",
+      "morale psychology"
+    ],
+    "zodiac_angel": "Michael",
+    "kabbalistic_correspondence": "Tiphareth",
+    "tarot_attribution": "The Sun",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "Prism‑lute radiating auric melody",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "CHASLPO channels the archetypal potency of earth toward mastery of solar music, morale psychology.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of CHASLPO, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to CHASLPO requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "CHASLPO whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "NIA",
+      "element": "Earth",
+      "personality_traits": [
+        "exuberant",
+        "melodious",
+        "warm"
+      ],
+      "domains": [
+        "solar music",
+        "morale psychology"
+      ],
+      "tarot": "The Sun",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "translation": "He of wondrous joy",
+      "visual_emblem": "Prism‑lute radiating auric melody"
+    }
+  },
+  {
+    "name": "SOAGEEL",
+    "number": 72,
+    "translation": "He who helps the most",
+    "aethyr": "NIA",
+    "element": "Earth",
+    "visual_description": "Stone basin overflowing crystalline salve",
+    "personality_traits": [
+      "grounded",
+      "pragmatic",
+      "fortifying"
+    ],
+    "domains_of_knowledge": [
+      "mineralurgy",
+      "geomancy"
+    ],
+    "zodiac_angel": "Zadkiel",
+    "kabbalistic_correspondence": "Chesed",
+    "tarot_attribution": "Temperance",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "Stone basin overflowing crystalline salve",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "SOAGEEL channels the archetypal potency of earth toward mastery of mineralurgy, geomancy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of SOAGEEL, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to SOAGEEL requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "SOAGEEL whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "NIA",
+      "element": "Earth",
+      "personality_traits": [
+        "grounded",
+        "pragmatic",
+        "fortifying"
+      ],
+      "domains": [
+        "mineralurgy",
+        "geomancy"
+      ],
+      "tarot": "Temperance",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "translation": "He who helps the most",
+      "visual_emblem": "Stone basin overflowing crystalline salve"
+    }
+  },
+  {
+    "name": "ERZLAKU",
+    "number": 73,
+    "translation": "He who divides the firmament",
+    "aethyr": "VTI",
+    "element": "Earth",
+    "visual_description": "Obsidian sextant cleaving star‑sphere glyph",
+    "personality_traits": [
+      "steady",
+      "fortifying",
+      "pragmatic"
+    ],
+    "domains_of_knowledge": [
+      "mineralurgy",
+      "stem alchemy"
+    ],
+    "zodiac_angel": "Kamael",
+    "kabbalistic_correspondence": "Geburah",
+    "tarot_attribution": "The Tower",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "Obsidian sextant cleaving star‑sphere glyph",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "ERZLAKU channels the archetypal potency of earth toward mastery of mineralurgy, stem alchemy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of ERZLAKU, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to ERZLAKU requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "ERZLAKU whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "VTI",
+      "element": "Earth",
+      "personality_traits": [
+        "steady",
+        "fortifying",
+        "pragmatic"
+      ],
+      "domains": [
+        "mineralurgy",
+        "stem alchemy"
+      ],
+      "tarot": "The Tower",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "translation": "He who divides the firmament",
+      "visual_emblem": "Obsidian sextant cleaving star‑sphere glyph"
+    }
+  },
+  {
+    "name": "OBUAORS",
+    "number": 74,
+    "translation": "She who is half darkness",
+    "aethyr": "VTI",
+    "element": "Earth",
+    "visual_description": "Half‑eclipsed diadem on shale pedestal",
+    "personality_traits": [
+      "enduring",
+      "steady",
+      "grounded"
+    ],
+    "domains_of_knowledge": [
+      "stem alchemy",
+      "geomancy"
+    ],
+    "zodiac_angel": "Gabriel",
+    "kabbalistic_correspondence": "Yesod",
+    "tarot_attribution": "The Moon",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "Half‑eclipsed diadem on shale pedestal",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "OBUAORS channels the archetypal potency of earth toward mastery of stem alchemy, geomancy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of OBUAORS, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to OBUAORS requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "OBUAORS whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "VTI",
+      "element": "Earth",
+      "personality_traits": [
+        "enduring",
+        "steady",
+        "grounded"
+      ],
+      "domains": [
+        "stem alchemy",
+        "geomancy"
+      ],
+      "tarot": "The Moon",
+      "sephirah": "Yesod",
+      "zodiac_angel": "Gabriel",
+      "translation": "She who is half darkness",
+      "visual_emblem": "Half‑eclipsed diadem on shale pedestal"
+    }
+  },
+  {
+    "name": "RANGLAM",
+    "number": 75,
+    "translation": "He who governs his thoughts",
+    "aethyr": "VTI",
+    "element": "Earth",
+    "visual_description": "Stone circlet inscribed with Möbius mantra",
+    "personality_traits": [
+      "enduring",
+      "fortifying",
+      "steady"
+    ],
+    "domains_of_knowledge": [
+      "crystal lore",
+      "geomancy"
+    ],
+    "zodiac_angel": "Raphael",
+    "kabbalistic_correspondence": "Hod",
+    "tarot_attribution": "The Hanged Man",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "Stone circlet inscribed with Möbius mantra",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "RANGLAM channels the archetypal potency of earth toward mastery of crystal lore, geomancy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of RANGLAM, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to RANGLAM requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "RANGLAM whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "VTI",
+      "element": "Earth",
+      "personality_traits": [
+        "enduring",
+        "fortifying",
+        "steady"
+      ],
+      "domains": [
+        "crystal lore",
+        "geomancy"
+      ],
+      "tarot": "The Hanged Man",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "translation": "He who governs his thoughts",
+      "visual_emblem": "Stone circlet inscribed with Möbius mantra"
+    }
+  },
+  {
+    "name": "ANGLOAI",
+    "number": 76,
+    "translation": "He who shelters life",
+    "aethyr": null,
+    "element": null,
+    "visual_description": "Spirit male angel; spiritual, winged; refugial, sustaining",
+    "personality_traits": [
+      "refugial",
+      "sustaining",
+      "mild"
+    ],
+    "domains_of_knowledge": [
+      "hearth geomancy",
+      "food alchemy"
+    ],
+    "zodiac_angel": null,
+    "kabbalistic_correspondence": null,
+    "tarot_attribution": null,
+    "visual_subtraits": {
+      "color_palette": "n/a",
+      "movement": "n/a",
+      "emblem": "",
+      "aura": "n/a"
+    },
+    "interpretive_traits": {
+      "essence": "ANGLOAI channels the archetypal potency of spirit toward mastery of hearth geomancy, food alchemy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of ANGLOAI, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to spirit; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to ANGLOAI requiring alignment with spirit cycles.",
+      "boon": "Grants boon aligned with spirit, balanced by a commensurate sacrifice.",
+      "verse": "ANGLOAI whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of spirit, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Spirit",
+      "personality_traits": [
+        "refugial",
+        "sustaining",
+        "mild"
+      ],
+      "domains": [
+        "hearth geomancy",
+        "food alchemy"
+      ],
+      "tarot": "Hermit",
+      "sephirah": "Chesed",
+      "zodiac_angel": null,
+      "translation": "He who shelters life",
+      "visual_emblem": null
+    }
+  },
+  {
+    "name": "NIGRANA",
+    "number": 77,
+    "translation": "He who governs the 28 days of the moon",
+    "aethyr": "DES",
+    "element": "Earth",
+    "visual_description": "carved stone cube veiled in amber glow",
+    "personality_traits": [
+      "abyssal",
+      "testing",
+      "paradoxical"
+    ],
+    "domains_of_knowledge": [
+      "void meditation",
+      "boundary magick"
+    ],
+    "zodiac_angel": "Gabriel",
+    "kabbalistic_correspondence": "Yesod",
+    "tarot_attribution": "High Priestess",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "carved stone cube veiled in amber glow",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "NIGRANA channels the archetypal potency of earth toward mastery of void meditation, boundary magick.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of NIGRANA, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to NIGRANA requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "NIGRANA whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Earth",
+      "personality_traits": [
+        "abyssal",
+        "testing",
+        "paradoxical"
+      ],
+      "domains": [
+        "void meditation",
+        "boundary magick"
+      ],
+      "tarot": "High Priestess",
+      "sephirah": "Yesod",
+      "zodiac_angel": "Gabriel",
+      "translation": "He who governs the 28 days of the moon",
+      "visual_emblem": "carved stone cube veiled in amber glow"
+    }
+  },
+  {
+    "name": "LAZHIIM",
+    "number": 78,
+    "translation": "He who makes use of the day",
+    "aethyr": "DES",
+    "element": "Earth",
+    "visual_description": "stone cube clasped by lion‑paw sigil",
+    "personality_traits": [
+      "enduring",
+      "fortifying",
+      "grounded"
+    ],
+    "domains_of_knowledge": [
+      "mineralurgy",
+      "geomancy"
+    ],
+    "zodiac_angel": "Michael",
+    "kabbalistic_correspondence": "Tiphareth",
+    "tarot_attribution": "Strength",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "stone cube clasped by lion‑paw sigil",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "LAZHIIM channels the archetypal potency of earth toward mastery of mineralurgy, geomancy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of LAZHIIM, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to LAZHIIM requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "LAZHIIM whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Earth",
+      "personality_traits": [
+        "enduring",
+        "fortifying",
+        "grounded"
+      ],
+      "domains": [
+        "mineralurgy",
+        "geomancy"
+      ],
+      "tarot": "Strength",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "translation": "He who makes use of the day",
+      "visual_emblem": "stone cube clasped by lion‑paw sigil"
+    }
+  },
+  {
+    "name": "SAZIAMI",
+    "number": 79,
+    "translation": "He who has true power",
+    "aethyr": "ZAA",
+    "element": "Earth",
+    "visual_description": "cube cracked by resonant waveform",
+    "personality_traits": [
+      "fortifying",
+      "pragmatic",
+      "steady"
+    ],
+    "domains_of_knowledge": [
+      "crystal lore",
+      "mineralurgy"
+    ],
+    "zodiac_angel": "Kamael",
+    "kabbalistic_correspondence": "Geburah",
+    "tarot_attribution": "Tower",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "cube cracked by resonant waveform",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "SAZIAMI channels the archetypal potency of earth toward mastery of crystal lore, mineralurgy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of SAZIAMI, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to SAZIAMI requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "SAZIAMI whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "ZAA",
+      "element": "Earth",
+      "personality_traits": [
+        "fortifying",
+        "pragmatic",
+        "steady"
+      ],
+      "domains": [
+        "crystal lore",
+        "mineralurgy"
+      ],
+      "tarot": "Tower",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "translation": "He who has true power",
+      "visual_emblem": "cube cracked by resonant waveform"
+    }
+  },
+  {
+    "name": "MATHVLA",
+    "number": 80,
+    "translation": "He who ends actions",
+    "aethyr": "ZAA",
+    "element": "Earth",
+    "visual_description": "cube engraved with black‑wax seal",
+    "personality_traits": [
+      "grounded",
+      "fortifying",
+      "steady"
+    ],
+    "domains_of_knowledge": [
+      "geomancy",
+      "mineralurgy"
+    ],
+    "zodiac_angel": "Cassiel",
+    "kabbalistic_correspondence": "Binah",
+    "tarot_attribution": "Devil",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "cube engraved with black‑wax seal",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "MATHVLA channels the archetypal potency of earth toward mastery of geomancy, mineralurgy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of MATHVLA, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to MATHVLA requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "MATHVLA whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "ZAA",
+      "element": "Earth",
+      "personality_traits": [
+        "grounded",
+        "fortifying",
+        "steady"
+      ],
+      "domains": [
+        "geomancy",
+        "mineralurgy"
+      ],
+      "tarot": "Devil",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "translation": "He who ends actions",
+      "visual_emblem": "cube engraved with black‑wax seal"
+    }
+  },
+  {
+    "name": "CRPANIB",
+    "number": 81,
+    "translation": "He who guards portals",
+    "aethyr": "ZAA",
+    "element": "Earth",
+    "visual_description": "cube set in tri‑ring lock",
+    "personality_traits": [
+      "steady",
+      "mineral-wise",
+      "grounded"
+    ],
+    "domains_of_knowledge": [
+      "crystal lore",
+      "mineralurgy"
+    ],
+    "zodiac_angel": "Zadkiel",
+    "kabbalistic_correspondence": "Chesed",
+    "tarot_attribution": "Hierophant",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "cube set in tri‑ring lock",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "CRPANIB channels the archetypal potency of earth toward mastery of crystal lore, mineralurgy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of CRPANIB, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to CRPANIB requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "CRPANIB whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "ZAA",
+      "element": "Earth",
+      "personality_traits": [
+        "steady",
+        "mineral-wise",
+        "grounded"
+      ],
+      "domains": [
+        "crystal lore",
+        "mineralurgy"
+      ],
+      "tarot": "Hierophant",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "translation": "He who guards portals",
+      "visual_emblem": "cube set in tri‑ring lock"
+    }
+  },
+  {
+    "name": "PABNIXP",
+    "number": 82,
+    "translation": "He who counts the crystal grains",
+    "aethyr": "ZAA",
+    "element": "Earth",
+    "visual_description": "cube showered in falling sand‑crystals",
+    "personality_traits": [
+      "fortifying",
+      "enduring",
+      "grounded"
+    ],
+    "domains_of_knowledge": [
+      "stem alchemy",
+      "geomancy"
+    ],
+    "zodiac_angel": "Raphael",
+    "kabbalistic_correspondence": "Hod",
+    "tarot_attribution": "Hermit",
+    "visual_subtraits": {
+      "color_palette": "moss‑green & umber",
+      "movement": "steady pulse",
+      "emblem": "cube showered in falling sand‑crystals",
+      "aura": "subsonic rumble"
+    },
+    "interpretive_traits": {
+      "essence": "PABNIXP channels the archetypal potency of earth toward mastery of stem alchemy, geomancy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of PABNIXP, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to earth; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to PABNIXP requiring alignment with earth cycles.",
+      "boon": "Grants boon aligned with earth, balanced by a commensurate sacrifice.",
+      "verse": "PABNIXP whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of earth, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "ZAA",
+      "element": "Earth",
+      "personality_traits": [
+        "fortifying",
+        "enduring",
+        "grounded"
+      ],
+      "domains": [
+        "stem alchemy",
+        "geomancy"
+      ],
+      "tarot": "Hermit",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "translation": "He who counts the crystal grains",
+      "visual_emblem": "cube showered in falling sand‑crystals"
+    }
+  },
+  {
+    "name": "POCISNI",
+    "number": 83,
+    "translation": "He who shines through ice",
+    "aethyr": null,
+    "element": null,
+    "visual_description": "prism‑ice cube scattering dawnlight",
+    "personality_traits": [
+      "enigmatic",
+      "mysterious",
+      "eclectic"
+    ],
+    "domains_of_knowledge": [
+      "hermetic synthesis",
+      "liminal studies"
+    ],
+    "zodiac_angel": "Cassiel",
+    "kabbalistic_correspondence": "Binah",
+    "tarot_attribution": "Star",
+    "visual_subtraits": {
+      "color_palette": "prismatic",
+      "movement": "subtle motion",
+      "emblem": "prism‑ice cube scattering dawnlight",
+      "aura": "soft hum"
+    },
+    "interpretive_traits": {
+      "essence": "POCISNI channels the archetypal potency of spirit toward mastery of hermetic synthesis, liminal studies.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of POCISNI, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to spirit; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to POCISNI requiring alignment with spirit cycles.",
+      "boon": "Grants boon aligned with spirit, balanced by a commensurate sacrifice.",
+      "verse": "POCISNI whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of spirit, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Spirit",
+      "personality_traits": [
+        "enigmatic",
+        "mysterious",
+        "eclectic"
+      ],
+      "domains": [
+        "hermetic synthesis",
+        "liminal studies"
+      ],
+      "tarot": "Star",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "translation": "He who shines through ice",
+      "visual_emblem": "prism‑ice cube scattering dawnlight"
+    }
+  },
+  {
+    "name": "OXLOPAR",
+    "number": 84,
+    "translation": "He who mutes the thunder",
+    "aethyr": "DES",
+    "element": "Air",
+    "visual_description": "thunderbolt snapped by mute‑sigil",
+    "personality_traits": [
+      "harvest‑ready",
+      "maternal",
+      "grounding"
+    ],
+    "domains_of_knowledge": [
+      "grain mysteries",
+      "fertility charts"
+    ],
+    "zodiac_angel": "Kamael",
+    "kabbalistic_correspondence": "Geburah",
+    "tarot_attribution": "Justice",
+    "visual_subtraits": {
+      "color_palette": "sky‑azure & white",
+      "movement": "gentle drift",
+      "emblem": "thunderbolt snapped by mute‑sigil",
+      "aura": "whispering breeze"
+    },
+    "interpretive_traits": {
+      "essence": "OXLOPAR channels the archetypal potency of earth toward mastery of grain mysteries, fertility charts.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of OXLOPAR, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to air; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to OXLOPAR requiring alignment with air cycles.",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice.",
+      "verse": "OXLOPAR whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of air, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Earth",
+      "personality_traits": [
+        "harvest‑ready",
+        "maternal",
+        "grounding"
+      ],
+      "domains": [
+        "grain mysteries",
+        "fertility charts"
+      ],
+      "tarot": "Justice",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "translation": "He who mutes the thunder",
+      "visual_emblem": "thunderbolt snapped by mute‑sigil"
+    }
+  },
+  {
+    "name": "VASTRIM",
+    "number": 85,
+    "translation": "He who measures the heavens",
+    "aethyr": "DES",
+    "element": "Air",
+    "visual_description": "sextant hovering above stone cube",
+    "personality_traits": [
+      "whispering",
+      "nimble",
+      "thoughtful"
+    ],
+    "domains_of_knowledge": [
+      "aeromancy",
+      "breath alchemy"
+    ],
+    "zodiac_angel": "Zadkiel",
+    "kabbalistic_correspondence": "Chesed",
+    "tarot_attribution": "Wheel of Fortune",
+    "visual_subtraits": {
+      "color_palette": "sky‑azure & white",
+      "movement": "gentle drift",
+      "emblem": "sextant hovering above stone cube",
+      "aura": "whispering breeze"
+    },
+    "interpretive_traits": {
+      "essence": "VASTRIM channels the archetypal potency of air toward mastery of aeromancy, breath alchemy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of VASTRIM, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to air; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to VASTRIM requiring alignment with air cycles.",
+      "boon": "Grants boon aligned with air, balanced by a commensurate sacrifice.",
+      "verse": "VASTRIM whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of air, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Air",
+      "personality_traits": [
+        "whispering",
+        "nimble",
+        "thoughtful"
+      ],
+      "domains": [
+        "aeromancy",
+        "breath alchemy"
+      ],
+      "tarot": "Wheel of Fortune",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "translation": "He who measures the heavens",
+      "visual_emblem": "sextant hovering above stone cube"
+    }
+  },
+  {
+    "name": "ODRAXTI",
+    "number": 86,
+    "translation": "He who anodises the sword",
+    "aethyr": "DES",
+    "element": "Fire",
+    "visual_description": "blade awash in iridescent flame",
+    "personality_traits": [
+      "martial",
+      "horizon‑opening",
+      "pioneering"
+    ],
+    "domains_of_knowledge": [
+      "east‑gate astrology",
+      "sword logic"
+    ],
+    "zodiac_angel": "Kamael",
+    "kabbalistic_correspondence": "Geburah",
+    "tarot_attribution": "Emperor",
+    "visual_subtraits": {
+      "color_palette": "ember‑crimson & gold",
+      "movement": "flickering flare",
+      "emblem": "blade awash in iridescent flame",
+      "aura": "radiant heat‑halo"
+    },
+    "interpretive_traits": {
+      "essence": "ODRAXTI channels the archetypal potency of earth toward mastery of east‑gate astrology, sword logic.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of ODRAXTI, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to fire; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to ODRAXTI requiring alignment with fire cycles.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice.",
+      "verse": "ODRAXTI whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of fire, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Earth",
+      "personality_traits": [
+        "martial",
+        "horizon‑opening",
+        "pioneering"
+      ],
+      "domains": [
+        "east‑gate astrology",
+        "sword logic"
+      ],
+      "tarot": "Emperor",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "translation": "He who anodises the sword",
+      "visual_emblem": "blade awash in iridescent flame"
+    }
+  },
+  {
+    "name": "GMTZIAM",
+    "number": 87,
+    "translation": "He who seals the furnace",
+    "aethyr": "DES",
+    "element": "Fire",
+    "visual_description": "furnace door bound by seven glyph‑locks",
+    "personality_traits": [
+      "self‑knowing",
+      "hermitic",
+      "serene"
+    ],
+    "domains_of_knowledge": [
+      "poem‑alchemy",
+      "psyche cartography"
+    ],
+    "zodiac_angel": "Gabriel",
+    "kabbalistic_correspondence": "Yesod",
+    "tarot_attribution": "Temperance",
+    "visual_subtraits": {
+      "color_palette": "ember‑crimson & gold",
+      "movement": "flickering flare",
+      "emblem": "furnace door bound by seven glyph‑locks",
+      "aura": "radiant heat‑halo"
+    },
+    "interpretive_traits": {
+      "essence": "GMTZIAM channels the archetypal potency of earth toward mastery of poem‑alchemy, psyche cartography.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of GMTZIAM, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to fire; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to GMTZIAM requiring alignment with fire cycles.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice.",
+      "verse": "GMTZIAM whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of fire, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Earth",
+      "personality_traits": [
+        "self‑knowing",
+        "hermitic",
+        "serene"
+      ],
+      "domains": [
+        "poem‑alchemy",
+        "psyche cartography"
+      ],
+      "tarot": "Temperance",
+      "sephirah": "Yesod",
+      "zodiac_angel": "Gabriel",
+      "translation": "He who seals the furnace",
+      "visual_emblem": "furnace door bound by seven glyph‑locks"
+    }
+  },
+  {
+    "name": "TAAOGBA",
+    "number": 88,
+    "translation": "He who pierces the void",
+    "aethyr": "DES",
+    "element": "Fire",
+    "visual_description": "obsidian spear breaking starfield cube",
+    "personality_traits": [
+      "catalytic",
+      "purifying",
+      "fervent"
+    ],
+    "domains_of_knowledge": [
+      "solar rites",
+      "metallurgic transmutation"
+    ],
+    "zodiac_angel": "Kamael",
+    "kabbalistic_correspondence": "Geburah",
+    "tarot_attribution": "Tower",
+    "visual_subtraits": {
+      "color_palette": "ember‑crimson & gold",
+      "movement": "flickering flare",
+      "emblem": "obsidian spear breaking starfield cube",
+      "aura": "radiant heat‑halo"
+    },
+    "interpretive_traits": {
+      "essence": "TAAOGBA channels the archetypal potency of fire toward mastery of solar rites, metallurgic transmutation.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of TAAOGBA, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to fire; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to TAAOGBA requiring alignment with fire cycles.",
+      "boon": "Grants boon aligned with fire, balanced by a commensurate sacrifice.",
+      "verse": "TAAOGBA whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of fire, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Fire",
+      "personality_traits": [
+        "catalytic",
+        "purifying",
+        "fervent"
+      ],
+      "domains": [
+        "solar rites",
+        "metallurgic transmutation"
+      ],
+      "tarot": "Tower",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "translation": "He who pierces the void",
+      "visual_emblem": "obsidian spear breaking starfield cube"
+    }
+  },
+  {
+    "name": "GEMNIMB",
+    "number": 89,
+    "translation": "He who holds the twin names",
+    "aethyr": "DES",
+    "element": "Spirit",
+    "visual_description": "yin‑yang cube inscribed with mirrored sigla",
+    "personality_traits": [
+      "integrative",
+      "transcendent",
+      "harmonic"
+    ],
+    "domains_of_knowledge": [
+      "soul weaving",
+      "sigil calculus"
+    ],
+    "zodiac_angel": "Raphael",
+    "kabbalistic_correspondence": "Hod",
+    "tarot_attribution": "Lovers",
+    "visual_subtraits": {
+      "color_palette": "prismatic violet & aurora‑gold",
+      "movement": "ethereal shimmer",
+      "emblem": "yin‑yang cube inscribed with mirrored sigla",
+      "aura": "planar glow"
+    },
+    "interpretive_traits": {
+      "essence": "GEMNIMB channels the archetypal potency of spirit toward mastery of soul weaving, sigil calculus.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of GEMNIMB, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to spirit; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to GEMNIMB requiring alignment with spirit cycles.",
+      "boon": "Grants boon aligned with spirit, balanced by a commensurate sacrifice.",
+      "verse": "GEMNIMB whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of spirit, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Spirit",
+      "personality_traits": [
+        "integrative",
+        "transcendent",
+        "harmonic"
+      ],
+      "domains": [
+        "soul weaving",
+        "sigil calculus"
+      ],
+      "tarot": "Lovers",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "translation": "He who holds the twin names",
+      "visual_emblem": "yin‑yang cube inscribed with mirrored sigla"
+    }
+  },
+  {
+    "name": "ADVORPT",
+    "number": 90,
+    "translation": "He who lifts the veil",
+    "aethyr": "DES",
+    "element": "Spirit",
+    "visual_description": "cube split by budding lotus of light",
+    "personality_traits": [
+      "integrative",
+      "luminous",
+      "visionary"
+    ],
+    "domains_of_knowledge": [
+      "soul weaving",
+      "aethyr coding"
+    ],
+    "zodiac_angel": "Raphael",
+    "kabbalistic_correspondence": "Hod",
+    "tarot_attribution": "Hermit",
+    "visual_subtraits": {
+      "color_palette": "prismatic violet & aurora‑gold",
+      "movement": "ethereal shimmer",
+      "emblem": "cube split by budding lotus of light",
+      "aura": "planar glow"
+    },
+    "interpretive_traits": {
+      "essence": "ADVORPT channels the archetypal potency of spirit toward mastery of soul weaving, aethyr coding.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of ADVORPT, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to spirit; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to ADVORPT requiring alignment with spirit cycles.",
+      "boon": "Grants boon aligned with spirit, balanced by a commensurate sacrifice.",
+      "verse": "ADVORPT whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of spirit, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Spirit",
+      "personality_traits": [
+        "integrative",
+        "luminous",
+        "visionary"
+      ],
+      "domains": [
+        "soul weaving",
+        "aethyr coding"
+      ],
+      "tarot": "Hermit",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "translation": "He who lifts the veil",
+      "visual_emblem": "cube split by budding lotus of light"
+    }
+  },
+  {
+    "name": "ARCULUS",
+    "number": 91,
+    "translation": "He who crowns the unseen",
+    "aethyr": null,
+    "element": null,
+    "visual_description": "winged hourglass crowned by unseen corona",
+    "personality_traits": [
+      "eclectic",
+      "mysterious",
+      "balanced"
+    ],
+    "domains_of_knowledge": [
+      "liminal studies",
+      "hermetic synthesis"
+    ],
+    "zodiac_angel": "Haniel",
+    "kabbalistic_correspondence": "Netzach",
+    "tarot_attribution": "Empress",
+    "visual_subtraits": {
+      "color_palette": "prismatic",
+      "movement": "subtle motion",
+      "emblem": "winged hourglass crowned by unseen corona",
+      "aura": "soft hum"
+    },
+    "interpretive_traits": {
+      "essence": "ARCULUS channels the archetypal potency of spirit toward mastery of liminal studies, hermetic synthesis.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "In the words of ARCULUS, 'True power lies in balanced intent.'",
+      "tokens": "Offer ritual tokens attuned to spirit; avoid discordant offerings.",
+      "challenge": "On-chain quest unique to ARCULUS requiring alignment with spirit cycles.",
+      "boon": "Grants boon aligned with spirit, balanced by a commensurate sacrifice.",
+      "verse": "ARCULUS whispers, 'As above, so below—within the flame, a mirrored glow.'",
+      "angelic_role": "Governor within the hierarchy of spirit, attended by myriad unseen heralds."
+    },
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Spirit",
+      "personality_traits": [
+        "eclectic",
+        "mysterious",
+        "balanced"
+      ],
+      "domains": [
+        "liminal studies",
+        "hermetic synthesis"
+      ],
+      "tarot": "Empress",
+      "sephirah": "Netzach",
+      "zodiac_angel": "Haniel",
+      "translation": "He who crowns the unseen",
+      "visual_emblem": "winged hourglass crowned by unseen corona"
+    }
+  }
+]

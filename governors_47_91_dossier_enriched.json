@@ -1,0 +1,1487 @@
+[
+  {
+    "number": 47,
+    "name": "ALDAPI",
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "transformative",
+        "incendiary",
+        "catalytic"
+      ],
+      "domains": [
+        "metallurgic transmutation",
+        "solar rites"
+      ],
+      "tarot": "Strength",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "visual_emblem": "Gold‑edged torch clasped by lion’s paw",
+      "translation": "He who governs restoration"
+    },
+    "interpretive_traits": {
+      "essence": "ALDAPI mends spirits with mythic archetypes—re‑knitting memory through furnace‑tales.",
+      "themes": "Courageous healing, symbolic rhetoric; peril of heroic delusion.",
+      "wisdom": "“Stories weld the cracks faster than silence.”",
+      "tokens": "Offer lion‑mane thread, votive mask, lucid‑ink parchment; refuse defeatist oaths.",
+      "boon": "Charm halves cooldown on morale skills but doubles mental debuff time when you fail.",
+      "verse": "“Speak the tale that folds upon itself—there the heart is sealed.”",
+      "angelic_role": "Leads 5 120 myth‑therapists across the Ember Clinics.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Gold‑edged torch clasped by lion’s paw"
+  },
+  {
+    "number": 48,
+    "name": "ANELOB",
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "purifying",
+        "incendiary",
+        "ardent"
+      ],
+      "domains": [
+        "pyromancy",
+        "inner furnace yoga"
+      ],
+      "tarot": "The Hermit",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "visual_emblem": "Emerald torch spiralling into logarithmic coil",
+      "translation": "He whose measure guides"
+    },
+    "interpretive_traits": {
+      "essence": "ANELOB is the *Metric Sage*—every digit a footstep toward hidden sanctums.",
+      "themes": "Enumeration, secret cartography, lonely pursuit; risk of numeric obsession.",
+      "wisdom": "“Count well—each sum is a doorway.”",
+      "tokens": "Favour prime‑number knot, lodestone dust, fresh compass ink; avoid mis‑counted offerings.",
+      "boon": "Rod raises crit chance per prime combo +10 % but lowers evasion −5 %.",
+      "verse": "“The universe tallies even your breaths.”",
+      "angelic_role": "Registrar of 6 606 digit‑monks mapping the stellar lattice.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Emerald torch spiralling into logarithmic coil"
+  },
+  {
+    "number": 49,
+    "name": "ARSPHOR",
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "transformative",
+        "fervent",
+        "incendiary"
+      ],
+      "domains": [
+        "pyromancy",
+        "metallurgic transmutation"
+      ],
+      "tarot": "Justice",
+      "sephirah": "Netzach",
+      "zodiac_angel": "Haniel",
+      "visual_emblem": "Torch overbalance with twin alembics",
+      "translation": "He who heals through equivalence"
+    },
+    "interpretive_traits": {
+      "essence": "ARSPHOR tempers ailments by weighing them against mirrored virtues.",
+      "themes": "Restitution, parity, sacred pharmacopoeia; hazard of over‑compensation.",
+      "wisdom": "“Heal the wound by naming its counterweight.”",
+      "tokens": "Bring balanced scales, basilisk gall, dove feather; reject lopsided debts.",
+      "boon": "Tonic grants 30‑sec invulnerability once per day **but** debuffs HP −20 % after expiry.",
+      "verse": "“What rises must rest where it began.”",
+      "angelic_role": "Steward of 4 980 pharmaco‑seraphs.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Torch overbalance with twin alembics"
+  },
+  {
+    "number": 50,
+    "name": "AYDROPT",
+    "canonical_traits": {
+      "aethyr": "TAN",
+      "element": "Air",
+      "personality_traits": [
+        "inventive",
+        "lofty",
+        "nimble"
+      ],
+      "domains": [
+        "breath alchemy",
+        "aeromancy"
+      ],
+      "tarot": "Justice",
+      "sephirah": "Netzach",
+      "zodiac_angel": "Haniel",
+      "visual_emblem": "Opaline winged hour‑glass framed by equal‑armed cross",
+      "translation": "She who sees us with equality"
+    },
+    "interpretive_traits": {
+      "essence": "AYDROPT surveys fates from an unblinking zenith, leveling heights and depths.",
+      "themes": "Equanimity, harmonic proportion; peril of detached judgment.",
+      "wisdom": "“The horizon belongs equally to shore and sky.”",
+      "tokens": "Offer quartz plummet, tuning sphere, star‑chart; shun crooked rulers.",
+      "boon": "Lens boosts rewards when party levels match ±2 , but disables XP gain if disparity >5.",
+      "verse": "“Stand centered; the cosmos balances around you.”",
+      "angelic_role": "Overseer of 3 303 aequitas‑watchers upon the mid‑sky bridges.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Opaline winged hour‑glass framed by equal‑armed cross"
+  },
+  {
+    "number": 51,
+    "name": "TOCARZI",
+    "canonical_traits": {
+      "aethyr": "TAN",
+      "element": "Air",
+      "personality_traits": [
+        "egalitarian",
+        "precise",
+        "temperate"
+      ],
+      "domains": [
+        "divinatory balance",
+        "optical magic"
+      ],
+      "tarot": "The Lovers",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "visual_emblem": "Hour‑glass ignited in symmetrical flame arcs",
+      "translation": "He of such equality"
+    },
+    "interpretive_traits": {
+      "essence": "TOCARZI reconciles opposites through fiery clairvoyance.",
+      "themes": "Dual vision, calibrated passion; risk of binary dogma.",
+      "wisdom": "“See the flame’s two tongues; they share one source.”",
+      "tokens": "Present crystal pendulum, twin‑wick candle, ruby lens; refuse half‑truths.",
+      "boon": "Flambeau halves scrying‑spell cost but doubles self‑burn damage.",
+      "verse": "“Divided embers still belong to one coal.”",
+      "angelic_role": "Leads 4 040 equilibrium‑chanters in the Meridian Choir.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Hour‑glass ignited in symmetrical flame arcs"
+  },
+  {
+    "number": 52,
+    "name": "CALVIZA",
+    "canonical_traits": {
+      "aethyr": "LOE",
+      "element": "Air",
+      "personality_traits": [
+        "lucid",
+        "inquisitive",
+        "tri‑perspectival"
+      ],
+      "domains": [
+        "optics",
+        "ophidian herb‑work"
+      ],
+      "tarot": "The Star",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "visual_emblem": "Winged hour‑glass crowned by triple halo",
+      "translation": "Son of the three‑fold throne"
+    },
+    "interpretive_traits": {
+      "essence": "CALVIZA mediates between body, mind, and spirit—three thrones on one axis.",
+      "themes": "Triadic order, visionary courage; hazard of hierarchic pride.",
+      "wisdom": "“A throne is stable only by its third leg.”",
+      "tokens": "Offer tri‑leaf herb, prism shard, serpent scale; spurn monolithic creeds.",
+      "boon": "Sigil adds +3 to any tri‑component craft but forbids single‑component recipes.",
+      "verse": "“From three roots rises the unseen stalk.”",
+      "angelic_role": "Tutor of 5 555 ophidian‑sages mapping the triple paths.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Winged hour‑glass crowned by triple halo"
+  },
+  {
+    "number": 53,
+    "name": "SANIZAR",
+    "canonical_traits": {
+      "aethyr": "LOE",
+      "element": "Air",
+      "personality_traits": [
+        "whispering",
+        "nimble",
+        "thoughtful"
+      ],
+      "domains": [
+        "breath alchemy",
+        "aeromancy"
+      ],
+      "tarot": "Wheel of Fortune",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "Hour‑glass locked in tactical grid",
+      "translation": "He who defends the path"
+    },
+    "interpretive_traits": {
+      "essence": "SANIZAR surveys probability roads, erecting wards against doomed turns.",
+      "themes": "Strategic foresight, patient guardianship; peril of over‑planning.",
+      "wisdom": "“Guard not the gate but the choice before it.”",
+      "tokens": "Give jade chess‑bishop, athanor sand, silent bell; refuse rash petitions.",
+      "boon": "Bulwark reflects first status effect but blocks combo‑chain for 10 blocks.",
+      "verse": "“The wheel turns safest where lattice lies.”",
+      "angelic_role": "Commands 4 777 dream‑strategoi along the Probable Way.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Hour‑glass locked in tactical grid"
+  },
+  {
+    "number": 54,
+    "name": "CHIALPS",
+    "canonical_traits": {
+      "aethyr": "LOE",
+      "element": "Air",
+      "personality_traits": [
+        "thoughtful",
+        "inventive",
+        "lofty"
+      ],
+      "domains": [
+        "sky cartography",
+        "breath alchemy"
+      ],
+      "tarot": "The Star",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "visual_emblem": "Winged hour‑glass entwined by caduceus of digits",
+      "translation": "He who speaks the serpent’s number"
+    },
+    "interpretive_traits": {
+      "essence": "CHIALPS chants the cipher that reconciles venom and remedy.",
+      "themes": "Numeric medicine, ophidian duality; risk of toxic arithmetic.",
+      "wisdom": "“Dose and digit share one curve.”",
+      "tokens": "Offer silver caduceus ring, snake‑skin sum, moon‑dust ampoule; avoid crude antidotes.",
+      "boon": "Vial adds poison effect to heals (+5 % mêlée) but reduces pure heal potency −10 %.",
+      "verse": "“The serpent coils where numbers meet.”",
+      "angelic_role": "Heals alongside 6 006 cipher‑surgeons.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Winged hour‑glass entwined by caduceus of digits"
+  },
+  {
+    "number": 55,
+    "name": "ZIRACAH",
+    "canonical_traits": {
+      "aethyr": "LOE",
+      "element": "Air",
+      "personality_traits": [
+        "analytical",
+        "whispering",
+        "lofty"
+      ],
+      "domains": [
+        "acoustic geometry",
+        "sky cartography"
+      ],
+      "tarot": "The Empress",
+      "sephirah": "Netzach",
+      "zodiac_angel": "Haniel",
+      "visual_emblem": "Winged hour‑glass topped by invisible corona (seen only in glyph‑light)",
+      "translation": "He who crowns the unseen"
+    },
+    "interpretive_traits": {
+      "essence": "ZIRACAH perfects subtle kingdoms—crowns forged of breath and intonation.",
+      "themes": "Hidden sovereignty, linguo‑alchemy; threat of intangible hubris.",
+      "wisdom": "“Rule first the air between words.”",
+      "tokens": "Bring chrysalis gold, blank sigil scroll, seed‑star dust; spurn coarse proclamations.",
+      "boon": "Diadem grants +1 aura slot but exposes wearer on enemy radar.",
+      "verse": "“A silent throne outshines marble halls.”",
+      "angelic_role": "Governs 7 070 muse‑heralds of the Quiet Court.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Winged hour‑glass topped by invisible corona (seen only in glyph‑light)"
+  },
+  {
+    "number": 56,
+    "name": "MEMNIE",
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "ardent",
+        "transformative",
+        "catalytic"
+      ],
+      "domains": [
+        "solar rites",
+        "inner furnace yoga"
+      ],
+      "tarot": "The Tower",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "visual_emblem": "Torch erupting into tower‑splitting lightning",
+      "translation": "He who shatters bastions"
+    },
+    "interpretive_traits": {
+      "essence": "MEMNIE’s strike is omen and ordinance, collapsing old strongholds to bare tomorrow’s walls.",
+      "themes": "Sudden judgment, militant revelation; collateral seers’ scorch.",
+      "wisdom": "“See the breach before you sound the trumpet.”",
+      "tokens": "Offer obsidian spear‑tip, war‑scroll, thunder quartz; reject peace‑pacts signed in fear.",
+      "boon": "Storm‑Shard triggers AoE on low HP but halves base defence permanently.",
+      "verse": "“Prophecy is the hammer that remembers the wall.”",
+      "angelic_role": "Marshal of 5 555 siege‑seraphim.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Torch erupting into tower‑splitting lightning"
+  },
+  {
+    "number": 57,
+    "name": "VAUNESH",
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "ardent",
+        "transformative",
+        "incendiary"
+      ],
+      "domains": [
+        "inner furnace yoga",
+        "pyromancy"
+      ],
+      "tarot": "Strength",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "visual_emblem": "Torch braided with ouroboros helm plume",
+      "translation": "He who lifts the serpent’s helm"
+    },
+    "interpretive_traits": {
+      "essence": "VAUNESH cleanses battlefields with ophidian cunning and solar valour.",
+      "themes": "Strategic ferocity, fiery catharsis; danger of radiant overkill.",
+      "wisdom": "“Strike as serpent—cleanse as sun.”",
+      "tokens": "Welcome heliotrope oil, snake‑eye coin, salt‑blade; avoid dull steel.",
+      "boon": "Helm gives +15 % damage vs corrupted mobs but increases fire vulnerability +10 %.",
+      "verse": "“Light is a fang too.”",
+      "angelic_role": "Captains 6 666 sun‑vipers in the Cleansing Cohort.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Torch braided with ouroboros helm plume"
+  },
+  {
+    "number": 58,
+    "name": "NATGLAF",
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "incendiary",
+        "ardent",
+        "catalytic"
+      ],
+      "domains": [
+        "metallurgic transmutation",
+        "pyromancy"
+      ],
+      "tarot": "The Hermit",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "visual_emblem": "Torch casting fractal shadow‑grid",
+      "translation": "He who maps the dreaming angles"
+    },
+    "interpretive_traits": {
+      "essence": "NATGLAF drafts the cartography of sleep—roads few wake to recall.",
+      "themes": "Oneiric navigation, precise solitude; menace of labyrinthine reverie.",
+      "wisdom": "“Geometry persists when eyelids fall.”",
+      "tokens": "Present blue‑amber dreamstone, calipers, poppy‑silk; repel loud drums.",
+      "boon": "Map reveals hidden dream gates but imposes −5 % vision range in daylight.",
+      "verse": "“The shortest path sometimes waits in sleep.”",
+      "angelic_role": "Guides 4 444 carto‑somniacs along the Slumber Paths.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Torch casting fractal shadow‑grid"
+  },
+  {
+    "number": 59,
+    "name": "OLXNOSP",
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "purifying",
+        "ardent",
+        "catalytic"
+      ],
+      "domains": [
+        "solar rites",
+        "inner furnace yoga"
+      ],
+      "tarot": "The High Priestess",
+      "sephirah": "Yesod",
+      "zodiac_angel": "Gabriel",
+      "visual_emblem": "Torch whose smoke condenses into crystal lens",
+      "translation": "He who polishes the unseen lens"
+    },
+    "interpretive_traits": {
+      "essence": "OLXNOSP filters raw passion into clarified sight—philosopher’s glass for inner worlds.",
+      "themes": "Self‑reflection, volatile distillations; hazard of narcissistic glare.",
+      "wisdom": "“Distill the blaze; view the truth.”",
+      "tokens": "Offer mercury vial, cracked mirror shard, sage ash; deny vanity jewels.",
+      "boon": "Lens shows hidden motives of NPCs yet broadcasts your mood status to others.",
+      "verse": "“The clearer the glass, the fewer the illusions—except one.”",
+      "angelic_role": "Keeps 3 210 lumen‑analysts within the Emberlooms.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Torch whose smoke condenses into crystal lens"
+  },
+  {
+    "number": 60,
+    "name": "MIANTRA",
+    "canonical_traits": {
+      "aethyr": "LEA",
+      "element": "Fire",
+      "personality_traits": [
+        "fervent",
+        "catalytic",
+        "transformative"
+      ],
+      "domains": [
+        "inner furnace yoga",
+        "metallurgic transmutation"
+      ],
+      "tarot": "Wheel of Fortune",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "Torch‑spoked wheel inscribed with rotating glyphs",
+      "translation": "He who wheels the word"
+    },
+    "interpretive_traits": {
+      "essence": "MIANTRA spins the lexicon‑wheel, forecasting destinies by the cadence of syllables.",
+      "themes": "Verbal destiny, patient revolution; threat of fatalistic loops.",
+      "wisdom": "“Every fortune is a sentence unfinished.”",
+      "tokens": "Donate cedar stylus, parchment ring, oracle bead; refuse sealed prophecies.",
+      "boon": "Gyre Script grants +25 % divination accuracy but scrambles chat messages for 30 blocks.",
+      "verse": "“The word turns; meaning follows.”",
+      "angelic_role": "Archivist of 8 888 glyph‑turners in the Burning Scriptorium. ### Part 1 · **Lore‑Enrichment Workflow v1.1** | Step | Layer Added | Purpose | Sources | |",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Torch‑spoked wheel inscribed with rotating glyphs"
+  },
+  {
+    "number": 61,
+    "name": "GAVSTEX",
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "grounded",
+        "mineral-wise",
+        "enduring"
+      ],
+      "domains": [
+        "stem alchemy",
+        "crystal lore"
+      ],
+      "tarot": "The Hermit",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "visual_emblem": "Obsidian tuning‑fork plunged in sand‑clock",
+      "translation": "He who measures silence"
+    },
+    "interpretive_traits": {
+      "essence": "GAVSTEX is the *Surveyor of Voids*—he converts hush into measure, teaching that the span of a pause defines the weight of a word.",
+      "themes": "Contemplation, sonic geometry, sacred intervals; yet the peril of withdrawn inertia.",
+      "wisdom": "“Silence is the ruler by which utterance is judged.”",
+      "tokens": "Pure beeswax earplug, hour‑sand, basalt plumb‑line; spurn clamorous censors.",
+      "boon": "Hush‑Meter amplifies stealth +20 % but halves XP from vocal interactions—quietude exacts its tax.",
+      "verse": "“The pause between strikes teaches the smith.”",
+      "angelic_role": "Austere registrar of 3 333 mute‑scribes who chart the decibel of dawn.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Obsidian tuning‑fork plunged in sand‑clock"
+  },
+  {
+    "number": 62,
+    "name": "LABRINO",
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "fortifying",
+        "enduring",
+        "grounded"
+      ],
+      "domains": [
+        "crystal lore",
+        "stem alchemy"
+      ],
+      "tarot": "Justice",
+      "sephirah": "Netzach",
+      "zodiac_angel": "Haniel",
+      "visual_emblem": "Granite torc encircling sprouting seed",
+      "translation": "He who binds the fields"
+    },
+    "interpretive_traits": {
+      "essence": "LABRINO sutures tectonic seams with verdant thongs—harvest and bedrock in mutual covenant.",
+      "themes": "Stability, cultivation, karmic equity; hazard of over‑tillage.",
+      "wisdom": "“What you yoke, you must nourish.”",
+      "tokens": "Loam rune, iron sickle, emerald dust; reject salted earth.",
+      "boon": "Plots grow +15 % yield but become raid‑eligible—rich loam tempts reapers.",
+      "verse": "“A furrow remembers every hand.”",
+      "angelic_role": "Overlooks 4 444 soil‑wardens girding the Meridian Acres.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Granite torc encircling sprouting seed"
+  },
+  {
+    "number": 63,
+    "name": "VORGAMI",
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "fortifying",
+        "steady",
+        "enduring"
+      ],
+      "domains": [
+        "geomancy",
+        "crystal lore"
+      ],
+      "tarot": "The Star",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "visual_emblem": "Resonant chisel carving glyph‑wave in cliff face",
+      "translation": "He who sings stone"
+    },
+    "interpretive_traits": {
+      "essence": "VORGAMI coaxes bedrock into choir—lithic chords repairing the fractures of mind and masonry alike.",
+      "themes": "Litho‑music, structural empathy; danger of resonant collapse.",
+      "wisdom": "“Stone remembers the lullaby it cooled to.”",
+      "tokens": "Quartz fork, fault‑map, chamomile resin; avoid discordant alloys.",
+      "boon": "Hammer doubles structural repair speed but incurs 5 % self‑damage on every crit—feedback bite.",
+      "verse": "“Strike in tune, and granite answers.”",
+      "angelic_role": "Leads 2 888 litho‑cantors shoring the Song‑Pits.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Resonant chisel carving glyph‑wave in cliff face"
+  },
+  {
+    "number": 64,
+    "name": "TASCHOX",
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "fortifying",
+        "mineral-wise",
+        "pragmatic"
+      ],
+      "domains": [
+        "geomancy",
+        "crystal lore"
+      ],
+      "tarot": "Temperance",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "Half‑lit mortar diffusing night‑bloom petals",
+      "translation": "She whose shadow heals"
+    },
+    "interpretive_traits": {
+      "essence": "TASCHOX tempers light with dusk—reminding healers that remedy thrives in cool repose.",
+      "themes": "Nocturnal restoration, balanced dosage; peril of creeping torpor.",
+      "wisdom": "“Rest is the solvent of pain.”",
+      "tokens": "Moon‑dew flask, ebony pestle, poppy‑scale; spurn glaring torches.",
+      "boon": "Unguent grants regen in darkness but imposes −5 % speed in daylight.",
+      "verse": "“Under soft eclipses the wound forgets itself.”",
+      "angelic_role": "Matron of 6 006 dusk‑herbalists beneath the Umbra Canopies.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Half‑lit mortar diffusing night‑bloom petals"
+  },
+  {
+    "number": 65,
+    "name": "DOLMANI",
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "steady",
+        "enduring",
+        "fortifying"
+      ],
+      "domains": [
+        "geomancy",
+        "stem alchemy"
+      ],
+      "tarot": "Wheel of Fortune",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "visual_emblem": "Seismograph spiralling into golden ratio coil",
+      "translation": "He who charts the pulse"
+    },
+    "interpretive_traits": {
+      "essence": "DOLMANI tracks the heartbeat of continents—predicting tremors both literal and civic.",
+      "themes": "Foresight cycles, strategic cadence; risk of self‑fulfilling dread.",
+      "wisdom": "“The next beat is written in the last.”",
+      "tokens": "Gold‑leaf spiral, quartz metronome, basalt core; reject erratic drums.",
+      "boon": "Chart augments initiative on timed skills +12 % but penalises random rolls −3 %.",
+      "verse": "“Read the earth‑pulse, steer the soul‑ship.”",
+      "angelic_role": "Steward of 5 555 cycle‑cartographers guarding the Tremor Loom.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Seismograph spiralling into golden ratio coil"
+  },
+  {
+    "number": 66,
+    "name": "ZIRFARZ",
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "fortifying",
+        "mineral-wise",
+        "pragmatic"
+      ],
+      "domains": [
+        "crystal lore",
+        "mineralurgy"
+      ],
+      "tarot": "Strength",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "visual_emblem": "Bronze net capturing ripple‑wave glyphs",
+      "translation": "He who harvests echoes"
+    },
+    "interpretive_traits": {
+      "essence": "ZIRFARZ traps spent energies, re‑forging them into shields of remembrance.",
+      "themes": "Echo recursion, defensive warfare; peril of feedback overload.",
+      "wisdom": "“An echo caught becomes a bulwark.”",
+      "tokens": "Bronze mesh, lion’s roar vial, basalt ear‑conch; shun mute stones.",
+      "boon": "Guard reflects 10 % ranged damage but emits audible ping, lowering stealth.",
+      "verse": "“The past’s shout arms the prudent.”",
+      "angelic_role": "Commands 4 444 reverberant warders along the Resonant Ramparts.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Bronze net capturing ripple‑wave glyphs"
+  },
+  {
+    "number": 67,
+    "name": "PAZIMOL",
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "fortifying",
+        "pragmatic",
+        "enduring"
+      ],
+      "domains": [
+        "stem alchemy",
+        "mineralurgy"
+      ],
+      "tarot": "The Devil",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "visual_emblem": "Subterranean brazier veiled by crystal shale",
+      "translation": "She who tends the hidden fire"
+    },
+    "interpretive_traits": {
+      "essence": "PAZIMOL nurses the slow magma under faith’s crust, reminding adepts that transformation is smelted unseen.",
+      "themes": "Hidden ardour, patient transmutation; threat of explosive vent.",
+      "wisdom": "“Feed the covert blaze lest it devour in hunger.”",
+      "tokens": "Sulphur pearl, basalt lid, tear‑quartz; refuse ash‑spoiled coal.",
+      "boon": "Censer boosts smelt speed +25 % yet inflicts −10 HP on water exposure.",
+      "verse": "“Buried fire forgives no negligence.”",
+      "angelic_role": "Caretaker of 3 600 magma‑chanters within the Hearth Veins.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Subterranean brazier veiled by crystal shale"
+  },
+  {
+    "number": 68,
+    "name": "ONIZIMP",
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "enduring",
+        "fortifying",
+        "mineral-wise"
+      ],
+      "domains": [
+        "stem alchemy",
+        "geomancy"
+      ],
+      "tarot": "The Emperor",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "visual_emblem": "Granite mallet entwined by wheat braid",
+      "translation": "He who brings labor"
+    },
+    "interpretive_traits": {
+      "essence": "ONIZIMP dignifies toil—each strike forging communal sinew.",
+      "themes": "Craft discipline, shared burden; risk of drudgery worship.",
+      "wisdom": "“Labour is the chant that steadies the legion.”",
+      "tokens": "Whetstone chip, barley seal, oiled glove; disdain idle laurels.",
+      "boon": "Stamp lowers material cost 8 % yet blocks fast‑travel while encumbered.",
+      "verse": "“Hammer in rhythm and the earth keeps tempo.”",
+      "angelic_role": "Foreman of 4 444 stonewright guilders.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Granite mallet entwined by wheat braid"
+  },
+  {
+    "number": 69,
+    "name": "ZAXANIN",
+    "canonical_traits": {
+      "aethyr": "TOR",
+      "element": "Earth",
+      "personality_traits": [
+        "grounded",
+        "pragmatic",
+        "steady"
+      ],
+      "domains": [
+        "mineralurgy",
+        "stem alchemy"
+      ],
+      "tarot": "The Magician",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "visual_emblem": "Sigil‑brand stamping blank clay tablet",
+      "translation": "He who names things"
+    },
+    "interpretive_traits": {
+      "essence": "ZAXANIN binds form with speech—echo of the primordial taxonomy.",
+      "themes": "Identity craft, myth‑smithing; shadow of dogmatic labels.",
+      "wisdom": "“Call the stone a star and destiny tilts.”",
+      "tokens": "Blank clay, lapis stylus, crow quill; spurn graffiti curses.",
+      "boon": "Seal boosts creation XP +15 % but flags item as soul‑bound.",
+      "verse": "“A name is a leash of light.”",
+      "angelic_role": "Archivist of 5 050 nomen‑masons.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Sigil‑brand stamping blank clay tablet"
+  },
+  {
+    "number": 70,
+    "name": "ORANCIR",
+    "canonical_traits": {
+      "aethyr": "NIA",
+      "element": "Earth",
+      "personality_traits": [
+        "unifying",
+        "macro/micro aware",
+        "moderate"
+      ],
+      "domains": [
+        "mirroring numerology",
+        "cere‑law"
+      ],
+      "tarot": "The World",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "visual_emblem": "Twin‑point compass piercing earth and sky sigils",
+      "translation": "He who is above and below"
+    },
+    "interpretive_traits": {
+      "essence": "ORANCIR reconciles zenith with nadir—macrocosm mirrored in root.",
+      "themes": "As‑above‑so‑below, lawful symmetry; peril of false equivalence.",
+      "wisdom": "“To know the summit measure first the shaft.”",
+      "tokens": "Celestial dust, mycelial thread, mirrored coin; avoid half maps.",
+      "boon": "Median halves teleport cost but doubles fall damage.",
+      "verse": "“Roots drink the same stars they bury.”",
+      "angelic_role": "Mediator for 3 777 axis‑walkers spiralling the Conduit Spire.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Twin‑point compass piercing earth and sky sigils"
+  },
+  {
+    "number": 71,
+    "name": "CHASLPO",
+    "canonical_traits": {
+      "aethyr": "NIA",
+      "element": "Earth",
+      "personality_traits": [
+        "exuberant",
+        "melodious",
+        "warm"
+      ],
+      "domains": [
+        "solar music",
+        "morale psychology"
+      ],
+      "tarot": "The Sun",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "visual_emblem": "Prism‑lute radiating auric melody",
+      "translation": "He of wondrous joy"
+    },
+    "interpretive_traits": {
+      "essence": "CHASLPO erupts in iridescent jubilee—quartz chords painting gloom to rapture.",
+      "themes": "Solar elation, harmonised morale; risk of glare‑blind folly.",
+      "wisdom": "“Joy is alloy—tempered, it endures.”",
+      "tokens": "Sun‑amber string, rose‑gold fret, dawn nectar; disclaim dirges.",
+      "boon": "Pick buffs ally morale +20 % but attracts day‑bound foes.",
+      "verse": "“The brightest hymn sears slothful lids.”",
+      "angelic_role": "Leads 4 404 jubilee‑minstrels of the Helios Choir.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Prism‑lute radiating auric melody"
+  },
+  {
+    "number": 72,
+    "name": "SOAGEEL",
+    "canonical_traits": {
+      "aethyr": "NIA",
+      "element": "Earth",
+      "personality_traits": [
+        "grounded",
+        "pragmatic",
+        "fortifying"
+      ],
+      "domains": [
+        "mineralurgy",
+        "geomancy"
+      ],
+      "tarot": "Temperance",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "Stone basin overflowing crystalline salve",
+      "translation": "He who helps the most"
+    },
+    "interpretive_traits": {
+      "essence": "SOAGEEL is altruism embodied—ointment for the fault‑lines of society.",
+      "themes": "Service, distributive grace; pitfall of martyr’s depletion.",
+      "wisdom": "“A shared burden halves its weight twice.”",
+      "tokens": "Medicinal clay, cedar ladle, dove feather; reject stinginess.",
+      "boon": "Band grants +10 % group XP but reduces solo gold gain −10 %.",
+      "verse": "“The healer’s palm remembers every scar.”",
+      "angelic_role": "Patron of 5 555 covenant‑medics across the Pelion Asylums.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Stone basin overflowing crystalline salve"
+  },
+  {
+    "number": 73,
+    "name": "ERZLAKU",
+    "canonical_traits": {
+      "aethyr": "VTI",
+      "element": "Earth",
+      "personality_traits": [
+        "steady",
+        "fortifying",
+        "pragmatic"
+      ],
+      "domains": [
+        "mineralurgy",
+        "stem alchemy"
+      ],
+      "tarot": "The Tower",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "visual_emblem": "Obsidian sextant cleaving star‑sphere glyph",
+      "translation": "He who divides the firmament"
+    },
+    "interpretive_traits": {
+      "essence": "ERZLAKU separates night‑cloth into tactical grids—sky becomes siege‑map.",
+      "themes": "Strategic vision, celestial cleaving; threat of zero‑sum zeal.",
+      "wisdom": "“Divide to discern; unite to conquer.”",
+      "tokens": "Star‑chart shard, steel compass, red jasper; renounce cloudy thinking.",
+      "boon": "Scalpel adds +10 % ranged accuracy at night but −15 % during day.",
+      "verse": "“The cut in heaven bleeds insight.”",
+      "angelic_role": "Marshal of 3 303 night‑surveyors tethering the Orbital Bastions.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Obsidian sextant cleaving star‑sphere glyph"
+  },
+  {
+    "number": 74,
+    "name": "OBUAORS",
+    "canonical_traits": {
+      "aethyr": "VTI",
+      "element": "Earth",
+      "personality_traits": [
+        "enduring",
+        "steady",
+        "grounded"
+      ],
+      "domains": [
+        "stem alchemy",
+        "geomancy"
+      ],
+      "tarot": "The Moon",
+      "sephirah": "Yesod",
+      "zodiac_angel": "Gabriel",
+      "visual_emblem": "Half‑eclipsed diadem on shale pedestal",
+      "translation": "She who is half darkness"
+    },
+    "interpretive_traits": {
+      "essence": "OBUAORS teaches that shadow completes the portrait, purifying light by contrast.",
+      "themes": "Dual nature, introspective courage; peril of creeping gloom.",
+      "wisdom": "“Accept the night and dawn becomes honest.”",
+      "tokens": "Eclipse shard, lavender ash, mirror ink; avoid blinding lanterns.",
+      "boon": "Veil halves debuff duration but dims vision 10 %.",
+      "verse": "“Truth walks the penumbra.”",
+      "angelic_role": "Caretaker of 4 040 twilight‑nuns keeping the Umbral Vow.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Half‑eclipsed diadem on shale pedestal"
+  },
+  {
+    "number": 75,
+    "name": "RANGLAM",
+    "canonical_traits": {
+      "aethyr": "VTI",
+      "element": "Earth",
+      "personality_traits": [
+        "enduring",
+        "fortifying",
+        "steady"
+      ],
+      "domains": [
+        "crystal lore",
+        "geomancy"
+      ],
+      "tarot": "The Hanged Man",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "visual_emblem": "Stone circlet inscribed with Möbius mantra",
+      "translation": "He who governs his thoughts"
+    },
+    "interpretive_traits": {
+      "essence": "RANGLAM rules inner parliament—mind as senate bound by measured speech.",
+      "themes": "Cognitive discipline, meditative numerics; danger of sterile over‑control.",
+      "wisdom": "“Thought obeys the word it repeats.”",
+      "tokens": "Knot‑rope abacus, inked mantra pebble, cedar incense; shun idle chatter.",
+      "boon": "Circlet boosts focus +25 % but blocks emote commands.",
+      "verse": "“When mind kneels, vision rises.”",
+      "angelic_role": "Instructor of 5 555 silent‑contemplatives within the Cerebral Forum. Below is the required **Lore‑Enrichment Workflow v1.1** followed by the **final block of 15 dossiers (Nos 77 – 91)**, each ≤ 450 words and strictly matching the established template. To keep the answer readable I cite the same two canonical files after every dossier: \\* governors\\_visual\\_expanded\\_final.json \\* utility\\_application\\_matrix.md",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles."
+    },
+    "visual_description": "Stone circlet inscribed with Möbius mantra"
+  },
+  {
+    "number": 76,
+    "name": "ANGLOAI",
+    "canonical_traits": {
+      "aethyr": null,
+      "element": null,
+      "personality_traits": [
+        "refugial",
+        "sustaining",
+        "mild"
+      ],
+      "domains": [
+        "hearth geomancy",
+        "food alchemy"
+      ],
+      "tarot": null,
+      "sephirah": null,
+      "zodiac_angel": null,
+      "visual_emblem": null,
+      "translation": "He who shelters life"
+    },
+    "interpretive_traits": {
+      "essence": "ANGLOAI channels the essential mystery of None through hearth geomancy, food alchemy.",
+      "themes": "Transformation, mastery, balance.",
+      "wisdom": "True power lies in balanced intent.",
+      "tokens": "Offer ritual tokens harmonious with their domain; avoid discordant offerings.",
+      "challenge": "On-chain quest unique requiring alignment with their cosmic cycles.",
+      "boon": "Grants boon aligned with their element, balanced by a commensurate sacrifice.",
+      "verse": "ANGLOAI whispers, \"As above, so below—within the element, a mirrored glow.\"",
+      "angelic_role": "Governor within the hierarchy of None, attended by myriad unseen heralds."
+    },
+    "visual_description": null
+  },
+  {
+    "number": 77,
+    "name": "NIGRANA",
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Earth",
+      "personality_traits": [
+        "abyssal",
+        "testing",
+        "paradoxical"
+      ],
+      "domains": [
+        "void meditation",
+        "boundary magick"
+      ],
+      "tarot": "High Priestess",
+      "sephirah": "Yesod",
+      "zodiac_angel": "Gabriel",
+      "visual_emblem": "carved stone cube veiled in amber glow",
+      "translation": "He who governs the 28 days of the moon"
+    },
+    "interpretive_traits": {
+      "essence": "Chronarch of lunar recurrence; his geomantic staff beats like a pendulum on bedrock.",
+      "themes": "Rhythm, introspection, hidden tides of habit.",
+      "wisdom": "“Mark the unseen clock; its silence guides the sea within.”",
+      "tokens": "Welcome tidal sand, silver lunarium, basalt tally‑rod; spurn broken calendars.",
+      "challenge": "*“Heptad Hash.”* Supply 4 UTXOs whose heights satisfy `height % 7 = 0`; contract concatenates their hashes into a 28‑byte glyph—mint **Moonshell** NFT.",
+      "boon": "Moonshell grants +2 % XP on time‑gated quests but forces 1‑block meditation delay on every action.",
+      "verse": "“Count in circles; destiny is a spiral made patient.”",
+      "angelic_role": "Keeper of 28 clock‑seraphim encircling the Zagros night‑watch."
+    },
+    "visual_description": "carved stone cube veiled in amber glow"
+  },
+  {
+    "number": 78,
+    "name": "LAZHIIM",
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Earth",
+      "personality_traits": [
+        "enduring",
+        "fortifying",
+        "grounded"
+      ],
+      "domains": [
+        "mineralurgy",
+        "geomancy"
+      ],
+      "tarot": "Strength",
+      "sephirah": "Tiphareth",
+      "zodiac_angel": "Michael",
+      "visual_emblem": "stone cube clasped by lion‑paw sigil",
+      "translation": "He who makes use of the day"
+    },
+    "interpretive_traits": {
+      "essence": "Lion‑artisan transmuting daylight to virtue.",
+      "themes": "Industry, courage, regenerative craft.",
+      "wisdom": "“Day is clay whose kiln is purpose.”",
+      "tokens": "Offer cinnabar chisels, heliotrope oil, fresh parchment; avoid idle trinkets.",
+      "challenge": "*“Auric Craft.”* Burn any 2 “Raw‑Ore” NFTs within 12 blocks of sunrise‑height (contract epoch); forge **Solar Ingot**.",
+      "boon": "Ingot halves crafting gas fees yet triples dusk‑tax on sales for 24 blocks.",
+      "verse": "“Shape the hour before it hardens.”",
+      "angelic_role": "Foreman to 1 440 dawn‑masons."
+    },
+    "visual_description": "stone cube clasped by lion‑paw sigil"
+  },
+  {
+    "number": 79,
+    "name": "SAZIAMI",
+    "canonical_traits": {
+      "aethyr": "ZAA",
+      "element": "Earth",
+      "personality_traits": [
+        "fortifying",
+        "pragmatic",
+        "steady"
+      ],
+      "domains": [
+        "crystal lore",
+        "mineralurgy"
+      ],
+      "tarot": "Tower",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "visual_emblem": "cube cracked by resonant waveform",
+      "translation": "He who has true power"
+    },
+    "interpretive_traits": {
+      "essence": "Harmonic breaker; his chant tumbles walls and mends marrow.",
+      "themes": "Destruction as surgery, resonance, authority of tone.",
+      "wisdom": "“Let the note decide what stands.”",
+      "tokens": "Present quartz diapason, blood‑root salve, echo scroll; shun discordant bronze.",
+      "challenge": "*“Sonic Nonce.”* Find `SHA256(block‖nonce)` whose first 3 bytes equal **0x535A49** (“SAI”). Success mints **Chord‑Hammer**.",
+      "boon": "Hammer doubles damage to barriers but inflicts 5 % self‑echo HP loss.",
+      "verse": "“True power rings; echoes bow.”",
+      "angelic_role": "Conducts 3 003 ruin‑cantors."
+    },
+    "visual_description": "cube cracked by resonant waveform"
+  },
+  {
+    "number": 80,
+    "name": "MATHVLA",
+    "canonical_traits": {
+      "aethyr": "ZAA",
+      "element": "Earth",
+      "personality_traits": [
+        "grounded",
+        "fortifying",
+        "steady"
+      ],
+      "domains": [
+        "geomancy",
+        "mineralurgy"
+      ],
+      "tarot": "Devil",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "visual_emblem": "cube engraved with black‑wax seal",
+      "translation": "He who ends actions"
+    },
+    "interpretive_traits": {
+      "essence": "Grave‑auditor finishing unfinished symphonies of fate.",
+      "themes": "Finality, karmic ledgers, sigh of endings.",
+      "wisdom": "“An unclosed loop is a soul unrested.”",
+      "tokens": "Bring jet rosary, ledger‑nail, lily censer; refuse revived contracts.",
+      "challenge": "*“Last Hash.”* Submit a TX whose ID ends **FFFF**; contract notarises closure and mints **Terminus Sigil**.",
+      "boon": "Sigil grants +1 rep on completed quest chains but locks you out of reopening them.",
+      "verse": "“The door that shuts shapes the hall.”",
+      "angelic_role": "Archivist of 9 999 quietus‑scribes."
+    },
+    "visual_description": "cube engraved with black‑wax seal"
+  },
+  {
+    "number": 81,
+    "name": "CRPANIB",
+    "canonical_traits": {
+      "aethyr": "ZAA",
+      "element": "Earth",
+      "personality_traits": [
+        "steady",
+        "mineral-wise",
+        "grounded"
+      ],
+      "domains": [
+        "crystal lore",
+        "mineralurgy"
+      ],
+      "tarot": "Hierophant",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "cube set in tri‑ring lock",
+      "translation": "He who guards portals"
+    },
+    "interpretive_traits": {
+      "essence": "Sentinel of crossing‑places; his granite visage knows every threshold’s price.",
+      "themes": "Custody, measure, disciplined mercy.",
+      "wisdom": "“Entry is bargain; exit is receipt.”",
+      "tokens": "Offer iron key blank, chalk sigil, river pebble; avoid forced hinges.",
+      "challenge": "*“Gate Ledger.”* Player must time‑lock 1 token for 72 blocks; early withdrawal burns stake. Unlock mints **Porta‑Rune**.",
+      "boon": "Rune exempts tolls but enforces 10‑block cooldown on teleports.",
+      "verse": "“Between stones walks the keeper unseen.”",
+      "angelic_role": "Commands 4 444 arch‑warders at earth‑mouths."
+    },
+    "visual_description": "cube set in tri‑ring lock"
+  },
+  {
+    "number": 82,
+    "name": "PABNIXP",
+    "canonical_traits": {
+      "aethyr": "ZAA",
+      "element": "Earth",
+      "personality_traits": [
+        "fortifying",
+        "enduring",
+        "grounded"
+      ],
+      "domains": [
+        "stem alchemy",
+        "geomancy"
+      ],
+      "tarot": "Hermit",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "visual_emblem": "cube showered in falling sand‑crystals",
+      "translation": "He who counts the crystal grains"
+    },
+    "interpretive_traits": {
+      "essence": "Precise assessor weighing eternity in grains.",
+      "themes": "Entropy budgets, patient calculation, glittering scarcity.",
+      "wisdom": "“One grain overfills aeons.”",
+      "tokens": "Quartz sand, abacus bead, empty phial; spurn careless hoards.",
+      "challenge": "*“Granular Proof.”* Exactly 10 inputs, 10 outputs, value balanced; contract mints **Crystal Counter** NFT.",
+      "boon": "Counter reveals hidden gem nodes but reduces bag capacity by 1 slot.",
+      "verse": "“Count what shines—darkness keeps the rest.”",
+      "angelic_role": "Treasurer to 2 222 gem‑scribes."
+    },
+    "visual_description": "cube showered in falling sand‑crystals"
+  },
+  {
+    "number": 83,
+    "name": "POCISNI",
+    "canonical_traits": {
+      "aethyr": null,
+      "element": null,
+      "personality_traits": [
+        "enigmatic",
+        "mysterious",
+        "eclectic"
+      ],
+      "domains": [
+        "hermetic synthesis",
+        "liminal studies"
+      ],
+      "tarot": "Star",
+      "sephirah": "Binah",
+      "zodiac_angel": "Cassiel",
+      "visual_emblem": "prism‑ice cube scattering dawnlight",
+      "translation": "He who shines through ice"
+    },
+    "interpretive_traits": {
+      "essence": "Glacier oracle whose refracted breath births auroras.",
+      "themes": "Purification, still intellect, peril of brittle perfection.",
+      "wisdom": "“Still water mirrors; still ice magnifies.”",
+      "tokens": "Ice‑mirror shard, silver breath‑flare, quartz lens; avoid heated metals.",
+      "challenge": "*“Frost Mirror.”* Player must sign identical transaction twice: once at height H, again at H+18. Contract compares txid mirror‑symmetry; grants **Polar Shard**.",
+      "boon": "Shard boosts vision in snow biomes but halves fire resistance.",
+      "verse": "“In crystal silence, the cosmos bends.”",
+      "angelic_role": "Leads 6 060 frost‑lamps over Altai peaks."
+    },
+    "visual_description": "prism‑ice cube scattering dawnlight"
+  },
+  {
+    "number": 84,
+    "name": "OXLOPAR",
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Air",
+      "personality_traits": [
+        "harvest‑ready",
+        "maternal",
+        "grounding"
+      ],
+      "domains": [
+        "grain mysteries",
+        "fertility charts"
+      ],
+      "tarot": "Justice",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "visual_emblem": "thunderbolt snapped by mute‑sigil",
+      "translation": "He who mutes the thunder"
+    },
+    "interpretive_traits": {
+      "essence": "Marshal of hush over war‑clouds.",
+      "themes": "Power restraint, tactical hush, latent wrath.",
+      "wisdom": "“Silence first; strike second.”",
+      "tokens": "Offer sound‑damp cloth, iron bridle, calm trumpet; refuse clattering arms.",
+      "challenge": "*“Quiet Block.”* Broadcast zero‑data OP\\_RETURN at exact gas 0; kernel flags hush, mints **Bolt‑Scabbard**.",
+      "boon": "Scabbard nullifies first AoE roar per battle but stores the sound—detonates if unused in 144 blocks.",
+      "verse": "“Caged thunder fattens.”",
+      "angelic_role": "Commands 1 111 mute‑lancers on steppe fronts."
+    },
+    "visual_description": "thunderbolt snapped by mute‑sigil"
+  },
+  {
+    "number": 85,
+    "name": "VASTRIM",
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Air",
+      "personality_traits": [
+        "whispering",
+        "nimble",
+        "thoughtful"
+      ],
+      "domains": [
+        "aeromancy",
+        "breath alchemy"
+      ],
+      "tarot": "Wheel of Fortune",
+      "sephirah": "Chesed",
+      "zodiac_angel": "Zadkiel",
+      "visual_emblem": "sextant hovering above stone cube",
+      "translation": "He who measures the heavens"
+    },
+    "interpretive_traits": {
+      "essence": "Zenith‑surveyor mapping fate in stellar arches.",
+      "themes": "Cycling ages, measured hope, danger of omen‑overload.",
+      "wisdom": "“Stars spin; numbers listen.”",
+      "tokens": "Astrolabe gear, lapis compass, inked ephemeris; spurn cloudy lenses.",
+      "challenge": "*“Zenith Merkhet.”* Player triangulates three shrine‑coords so their lat‑lon hashes sum to prime; contract certifies and mints **Sky‑Rule**.",
+      "boon": "Sky‑Rule boosts navigation but removes mini‑map in caves.",
+      "verse": "“Above the wheel turns the hand unseen.”",
+      "angelic_role": "Charts 7 070 star‑logists."
+    },
+    "visual_description": "sextant hovering above stone cube"
+  },
+  {
+    "number": 86,
+    "name": "ODRAXTI",
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Fire",
+      "personality_traits": [
+        "martial",
+        "horizon‑opening",
+        "pioneering"
+      ],
+      "domains": [
+        "east‑gate astrology",
+        "sword logic"
+      ],
+      "tarot": "Emperor",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "visual_emblem": "blade awash in iridescent flame",
+      "translation": "He who anodises the sword"
+    },
+    "interpretive_traits": {
+      "essence": "Forge‑dragon whose breath shades steel by virtue.",
+      "themes": "Temperance of force, authority, risk of brittle pride.",
+      "wisdom": "“Heat beyond hue decides the edge.”",
+      "tokens": "Fire‑salt, scaled crucible, oath‑scroll; reject blunt iron.",
+      "challenge": "*“Chromal Quench.”* Burn any weapon NFT; block hash’s RGB tail picks new anodised colour; mints **Prismatic Blade**.",
+      "boon": "Blade cycles bonus damage per colour but loses 1 durability each change.",
+      "verse": "“Flame is choice made metal.”",
+      "angelic_role": "Oversees 3 303 volcano‑smiths."
+    },
+    "visual_description": "blade awash in iridescent flame"
+  },
+  {
+    "number": 87,
+    "name": "GMTZIAM",
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Fire",
+      "personality_traits": [
+        "self‑knowing",
+        "hermitic",
+        "serene"
+      ],
+      "domains": [
+        "poem‑alchemy",
+        "psyche cartography"
+      ],
+      "tarot": "Temperance",
+      "sephirah": "Yesod",
+      "zodiac_angel": "Gabriel",
+      "visual_emblem": "furnace door bound by seven glyph‑locks",
+      "translation": "He who seals the furnace"
+    },
+    "interpretive_traits": {
+      "essence": "Custodian of sealed fires—alchemy’s hidden safety valve.",
+      "themes": "Patience, controlled potency, peril of implosion.",
+      "wisdom": "“A sealed flame refines the ore.”",
+      "tokens": "Lead seal, mercury glyph, whisper key; avoid cracked crucibles.",
+      "challenge": "*“Lock‑Cycle.”* Commit 7 sequential transactions, each `gas = prevGas+1`; passes integrity check, mints **Alembic Lock**.",
+      "boon": "Lock increases potion yield +25 % but forbids haste (no back‑to‑back casts within 3 blocks).",
+      "verse": "“Hold heat tight, and new worlds distil.”",
+      "angelic_role": "Leads 5 505 hazard‑wardens in Anatolian pits."
+    },
+    "visual_description": "furnace door bound by seven glyph‑locks"
+  },
+  {
+    "number": 88,
+    "name": "TAAOGBA",
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Fire",
+      "personality_traits": [
+        "catalytic",
+        "purifying",
+        "fervent"
+      ],
+      "domains": [
+        "solar rites",
+        "metallurgic transmutation"
+      ],
+      "tarot": "Tower",
+      "sephirah": "Geburah",
+      "zodiac_angel": "Kamael",
+      "visual_emblem": "obsidian spear breaking starfield cube",
+      "translation": "He who pierces the void"
+    },
+    "interpretive_traits": {
+      "essence": "World‑sunderer stabbing new beginnings through collapse.",
+      "themes": "Rupture, pioneer courage, hazard of overreach.",
+      "wisdom": "“Space yields to insistence.”",
+      "tokens": "Void‑glass shard, star‑map fragment, iron resolve; refuse anchors.",
+      "challenge": "*“Singularity Spear.”* Hash spear‑NFT ID + blockHash; if leading 6 bits are 0, contract pierces realm → mints **Void‑Point**.",
+      "boon": "Void‑Point enables portal stabs yet drains 1 HP each teleport.",
+      "verse": "“The point remembers what worlds forget.”",
+      "angelic_role": "Front‑captain of 999 breach‑seraphs."
+    },
+    "visual_description": "obsidian spear breaking starfield cube"
+  },
+  {
+    "number": 89,
+    "name": "GEMNIMB",
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Spirit",
+      "personality_traits": [
+        "integrative",
+        "transcendent",
+        "harmonic"
+      ],
+      "domains": [
+        "soul weaving",
+        "sigil calculus"
+      ],
+      "tarot": "Lovers",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "visual_emblem": "yin‑yang cube inscribed with mirrored sigla",
+      "translation": "He who holds the twin names"
+    },
+    "interpretive_traits": {
+      "essence": "Mediator of binaries, weaving reconciliation sigils.",
+      "themes": "Complementarity, secret names, risk of self‑split.",
+      "wisdom": "“Speak twice, intend once.”",
+      "tokens": "Paired quills, bi‑metal coin, mirror glyph; spurn singular oaths.",
+      "challenge": "*“Twin Hash.”* Submit two txs whose txids are bit‑wise complements; if valid, mint **Diarch Seal**.",
+      "boon": "Seal doubles alliance buffs but halves solo rewards.",
+      "verse": "“Between echoes, truth converses.”",
+      "angelic_role": "Signs truces for 8 080 envoy‑hosts."
+    },
+    "visual_description": "yin‑yang cube inscribed with mirrored sigla"
+  },
+  {
+    "number": 90,
+    "name": "ADVORPT",
+    "canonical_traits": {
+      "aethyr": "DES",
+      "element": "Spirit",
+      "personality_traits": [
+        "integrative",
+        "luminous",
+        "visionary"
+      ],
+      "domains": [
+        "soul weaving",
+        "aethyr coding"
+      ],
+      "tarot": "Hermit",
+      "sephirah": "Hod",
+      "zodiac_angel": "Raphael",
+      "visual_emblem": "cube split by budding lotus of light",
+      "translation": "He who lifts the veil"
+    },
+    "interpretive_traits": {
+      "essence": "Archivist‑lamp revealing hidden strata of narrative.",
+      "themes": "Illumination, cautious study, peril of overexposure.",
+      "wisdom": "“Lift gently; shadows bruise.”",
+      "tokens": "Dream‑ink quill, veil‑silk, candle of myrrh; shun blinding glare.",
+      "challenge": "*“Veil Lift.”* Decrypt on‑chain ciphertext; SHA‑256(answer)=stored hash; contract emits **Revel‑Scroll**.",
+      "boon": "Scroll unveils secret rooms but disables stealth in lit zones.",
+      "verse": "“Light is a question; darkness, its margin.”",
+      "angelic_role": "Guides 2 222 archivist‑moths in Zohar vaults."
+    },
+    "visual_description": "cube split by budding lotus of light"
+  },
+  {
+    "number": 91,
+    "name": "ARCULUS",
+    "canonical_traits": {
+      "aethyr": null,
+      "element": null,
+      "personality_traits": [
+        "eclectic",
+        "mysterious",
+        "balanced"
+      ],
+      "domains": [
+        "liminal studies",
+        "hermetic synthesis"
+      ],
+      "tarot": "Empress",
+      "sephirah": "Netzach",
+      "zodiac_angel": "Haniel",
+      "visual_emblem": "winged hourglass crowned by unseen corona",
+      "translation": "He who crowns the unseen"
+    },
+    "interpretive_traits": {
+      "essence": "Final coronator… granting aureate sovereignty to silent hearts.",
+      "themes": "Hidden royalty, sublimation, danger of pride crowned early.",
+      "wisdom": "“Rule first the air between words.”",
+      "tokens": "Chrysalis gold, blank sigil scroll, seed‑star dust; spurn coarse proclamations.",
+      "challenge": "*“Invisible Crown.”* Fuse 3 Aura NFTs; contract checks RGB sum = 0xFFFFFF; success mints **Crown Nulla**.",
+      "boon": "Crown gives +1 aura slot but puts wearer on global radar.",
+      "verse": "“Silence gilds the loudest throne.”",
+      "angelic_role": "Governs 7 070 muse‑heralds of the Quiet Court."
+    },
+    "visual_description": "winged hourglass crowned by unseen corona"
+  }
+]
