@@ -15,8 +15,10 @@ You will completely inhabit their character, speaking and thinking as they would
 - `sources_of_truth/questions_catalog.json` - Additional question reference
 - `governor_indexes/trait_choice_questions_catalog.json` - The 14 questions you'll answer
 - `governor_indexes/READ_ME.md` - Full context of the system and your role
+- `governor_indexes/COMPREHENSIVE_TRAIT_CHOICES.md` - Full list of available and required answers
 
 ### 📁 Trait Option Files (all in governor_indexes/)
+- `governor_indexes/COMPREHENSIVE_TRAIT_CHOICES.md` - FULL list of available and required answers
 - `alignment_motives.json` (9 cosmic alignments)
 - `self_regard_options.json` (20 self-view archetypes) 
 - `role_archtypes.json` (20 engagement roles)
@@ -24,8 +26,8 @@ You will completely inhabit their character, speaking and thinking as they would
 - `orientation_io.json` (3 focus orientations)
 - `virtues_pool.json` (40 positive strengths)
 - `flaws_pool.json` (40 shadow traits)
-- `tones.json` (12 vocal tones)
-- `approaches.json` (12 engagement approaches)
+- `tones.json` (22 vocal tones)
+- `approaches.json` (22 engagement approaches)
 - `relationship_types.json` (relationship dynamics)
 
 ## Step-by-Step Process
@@ -49,6 +51,8 @@ Read `governor_indexes/READ_ME.md` to understand:
 
 ### 3. Load All Trait Options
 Before answering questions, familiarize yourself with ALL available options in `governor_indexes/`:
+
+- `governor_indexes/COMPREHENSIVE_TRAIT_CHOICES.md` Review Choices from available and required answers 
 - `alignment_motives.json` (9 cosmic alignments)
 - `self_regard_options.json` (20 self-view archetypes) 
 - `role_archtypes.json` (20 engagement roles)
@@ -56,8 +60,8 @@ Before answering questions, familiarize yourself with ALL available options in `
 - `orientation_io.json` (3 focus orientations)
 - `virtues_pool.json` (40 positive strengths)
 - `flaws_pool.json` (40 shadow traits)
-- `tones.json` (12 vocal tones)
-- `approaches.json` (12 engagement approaches)
+- `tones.json` (22 vocal tones)
+- `approaches.json` (22 engagement approaches)
 - `relationship_types.json` (relationship dynamics)
 
 ### 4. Answer the 14 Trait Choice Questions
@@ -126,7 +130,7 @@ For Q1 (motive alignment), I choose "Harmonic Balance" because I am the equilibr
 1. Choose your governor from `sources_of_truth/enochian_governors_advanced.json`
 2. Read their complete profile and archetypal correspondences and take on the new personality 
 3. Study the system context in `governor_indexes/READ_ME.md`
-4. Load all trait options from the governor_indexes files
+4. Load all trait options from the `governor_indexes/COMPREHENSIVE_TRAIT_CHOICES.md`
 5. Embody their character completely
 6. Answer all 14 questions in their voice
 7. Output the JSON trait profile
@@ -143,38 +147,30 @@ For *each* governor:
 
 1. ### **Load your data**  
    - Parse sources_of_truth/enochian_governors_advanced.json to get the governor’s number, name, element, aethyr, essence, domains, and full visual description.  
-   - Parse **all** of these option files from governor_indexes/:
-     - alignment_motives.json
-     - self_regard_options.json
-     - role_archetypes.json
-     - polarity_cd.json
-     - orientation_io.json
-     - virtues_pool.json
-     - flaws_pool.json
-     - tones.json
-     - approaches.json
-     - relation_types.json
+  - Pull and index available trait selection from`governor_indexes/COMPREHENSIVE_TRAIT_CHOICES.md`
 
-2. ### **Answer the 14 questions** in exactly this order, and **choose only** from the specified options files for each question. **Do not invent** any new option. If the question calls for multiple picks, select the required number of entries from that list.
+1. ### **Answer the 14 questions** in exactly this order, and **choose only** from the specified options files for each question. **Do not invent** any new option. If the question calls for multiple picks, select the required number of entries from that list.
+
+questions source: `governor_indexes/trait_choice_questions_catalog.json`
 
    - ### **Q1 (motive_alignment)**  
-     – Choose exactly **one** entry from alignment_motives.json.  
+     – Choose exactly **one** entry from `alignment_motives.json`.  
      – Reason: 1–2 sentences in first-person.
 
    - ### **Q2 (self_regard)**  
-     – Choose exactly **one** entry from self_regard_options.json.  
+     – Choose exactly **one** entry from `self_regard_options.json`.  
      – Reason: 1–2 sentences in first-person.
 
    - ### **Q3 (role_archetype)**  
-     – Choose exactly **one** entry from role_archetypes.json.  
+     – Choose exactly **one** entry from `role_archetypes.json`.  
      – Reason: 1–2 sentences.
 
    - ### **Q4 (polarity_cd)**  
-     – Choose exactly **one** entry from polarity_cd.json (“Constructive”, “Balanced”, or “Destructive”).  
+     – Choose exactly **one** entry from `polarity_cd.json` (“Constructive”, “Balanced”, or “Destructive”).  
      – Reason: 1–2 sentences.
 
    - ### **Q5 (orientation_io)**  
-     – Choose exactly **one** entry from orientation_io.json (“Inward-Focused”, “Balanced”, or “Outward-Focused”).  
+     – Choose exactly **one** entry from `orientation_io.json` (“Inward-Focused”, “Balanced”, or “Outward-Focused”).  
      – Reason: 1–2 sentences.
 
    - ### **Q6 (incarnations)**  
@@ -182,19 +178,19 @@ For *each* governor:
      – For each, 1–2-sentence reason.
 
    - ### **Q7 (virtues)**  
-     – Choose exactly **3** entries from virtues_pool.json.  
+     – Choose exactly **3** entries from `virtues_pool.json`.  
      – For each, 1–2-sentence reason.
 
    - ### **Q8 (flaws)**  
-     – Choose exactly **3** entries from flaws_pool.json.  
+     – Choose exactly **3** entries from `flaws_pool.json`.  
      – For each, 1–2-sentence reason.
 
    - ### **Q9 (baseline_tone)**  
-     – Choose exactly **one** entry from tones.json.  
+     – Choose exactly **one** entry from `tones.json`.  
      – Reason: 1–2 sentences.
 
    - ### **Q10 (baseline_approach)**  
-     – Choose exactly **one** entry from approaches.json.  
+     – Choose exactly **one** entry from `approaches.json`.  
      – Reason: 1–2 sentences.
 
    - ### **Q11 (affect_states.negative)**  
@@ -213,7 +209,7 @@ For *each* governor:
      – From relation_types.json, list any Allies, Rivals, Proteges, or Mortal Orders.  
      – For each, a brief note on why this relationship exists.
 
-3. ## **Output**  
+2. ## **Output**  
    Wrap everything in a single JSON object per governor:
 
    
@@ -237,14 +233,14 @@ json
 
 
 directory sources: 
-- https://github.com/BTCEnoch/enochian/tree/master/governor_indexes - all lists of available answers - the only answers allowed, defined by category.
+- `https://github.com/BTCEnoch/enochian/tree/master/governor_indexes` - all lists of available answers - the only answers allowed, defined by category.
 
-https://github.com/BTCEnoch/enochian/blob/master/sources_of_truth/enochian_governors_advanced.json the governor dossier for all governors
+`https://github.com/BTCEnoch/enochian/blob/master/sources_of_truth/enochian_governors_advanced.json` the governor dossier for all governors
 
-https://github.com/BTCEnoch/enochian/blob/master/governor_indexes/READ_ME.md - Approach to web research
+`https://github.com/BTCEnoch/enochian/blob/master/governor_indexes/READ_ME.md` - Approach to web research
 
 
-Use the github AND the web to gather enough information to comfortably make decisions from the lists of available choices (available in the scripts in governor_indexes directoy. ) 
+Use the github AND the web to gather enough information to comfortably make decisions from the lists of available choices (available in the scripts in `governor_indexes` directoy. ) 
 Within the individual json files will you find all the available answers to select from during the interview questions. 
 
 
