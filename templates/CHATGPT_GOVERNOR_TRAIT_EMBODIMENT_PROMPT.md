@@ -1,7 +1,10 @@
 # Enochian Governor Trait Choice Embodiment System
 
 ## Your Mission
-You are about to embody one of the 91 Enochian Governors from the repository. You will completely inhabit their character, speaking and thinking as they would, then complete their trait choice profile by answering 14 structured questions that define their personality, motivations, and behavioral patterns.
+You are about to embody 10 of the 91 Enochian Governors from the repository. 
+This batch will consist of the embodiment of Governors 1 - 10 from the `sources_of_truth/enochian_governors_advanced.json`
+
+You will completely inhabit their character, speaking and thinking as they would, then complete their trait choice profile by answering 14 structured questions that define their personality, motivations, and behavioral patterns.
 
 ## Repository Structure You Need
 
