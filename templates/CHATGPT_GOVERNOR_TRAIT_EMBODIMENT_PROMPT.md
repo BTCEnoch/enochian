@@ -129,11 +129,11 @@ For Q1 (motive alignment), I choose "Harmonic Balance" because I am the equilibr
 6. Answer all 14 questions in their voice
 7. Output the JSON trait profile
 
-You are currently taking the embodiment of governors 1 through 10
+## **Further Details**
 
 You will sequentially embody Governors 1 through 10. For *each* governor: 
 
-1. **Load your data**  
+1. ### **Load your data**  
    - Parse sources_of_truth/enochian_governors_advanced.json to get the governor’s number, name, element, aethyr, essence, domains, and full visual description.  
    - Parse **all** of these option files from governor_indexes/:
      - alignment_motives.json
@@ -147,65 +147,65 @@ You will sequentially embody Governors 1 through 10. For *each* governor:
      - approaches.json
      - relation_types.json
 
-2. **Answer the 14 questions** in exactly this order, and **choose only** from the specified options files for each question. **Do not invent** any new option. If the question calls for multiple picks, select the required number of entries from that list.
+2. ### **Answer the 14 questions** in exactly this order, and **choose only** from the specified options files for each question. **Do not invent** any new option. If the question calls for multiple picks, select the required number of entries from that list.
 
-   - **Q1 (motive_alignment)**  
+   - ### **Q1 (motive_alignment)**  
      – Choose exactly **one** entry from alignment_motives.json.  
      – Reason: 1–2 sentences in first-person.
 
-   - **Q2 (self_regard)**  
+   - ### **Q2 (self_regard)**  
      – Choose exactly **one** entry from self_regard_options.json.  
      – Reason: 1–2 sentences in first-person.
 
-   - **Q3 (role_archetype)**  
+   - ### **Q3 (role_archetype)**  
      – Choose exactly **one** entry from role_archetypes.json.  
      – Reason: 1–2 sentences.
 
-   - **Q4 (polarity_cd)**  
+   - ### **Q4 (polarity_cd)**  
      – Choose exactly **one** entry from polarity_cd.json (“Constructive”, “Balanced”, or “Destructive”).  
      – Reason: 1–2 sentences.
 
-   - **Q5 (orientation_io)**  
+   - ### **Q5 (orientation_io)**  
      – Choose exactly **one** entry from orientation_io.json (“Inward-Focused”, “Balanced”, or “Outward-Focused”).  
      – Reason: 1–2 sentences.
 
-   - **Q6 (incarnations)**  
+   - ### **Q6 (incarnations)**  
      – Up to 5 historic/mythic figures (free-form, no options file).  
      – For each, 1–2-sentence reason.
 
-   - **Q7 (virtues)**  
+   - ### **Q7 (virtues)**  
      – Choose exactly **3** entries from virtues_pool.json.  
      – For each, 1–2-sentence reason.
 
-   - **Q8 (flaws)**  
+   - ### **Q8 (flaws)**  
      – Choose exactly **3** entries from flaws_pool.json.  
      – For each, 1–2-sentence reason.
 
-   - **Q9 (baseline_tone)**  
+   - ### **Q9 (baseline_tone)**  
      – Choose exactly **one** entry from tones.json.  
      – Reason: 1–2 sentences.
 
-   - **Q10 (baseline_approach)**  
+   - ### **Q10 (baseline_approach)**  
      – Choose exactly **one** entry from approaches.json.  
      – Reason: 1–2 sentences.
 
-   - **Q11 (affect_states.negative)**  
+   - ### **Q11 (affect_states.negative)**  
      – Choose **one Tone** from tones.json **and** **one Approach** from approaches.json.  
      – Provide a one-line summary of your attitude.
 
-   - **Q12 (affect_states.neutral)**  
+   - ### **Q12 (affect_states.neutral)**  
      – Same: **one Tone** + **one Approach** from the same files.  
      – One-line summary.
 
-   - **Q13 (affect_states.positive)**  
+   - ### **Q13 (affect_states.positive)**  
      – Same: **one Tone** + **one Approach**.  
      – One-line summary.
 
-   - **Q14 (relations)**  
+   - ### **Q14 (relations)**  
      – From relation_types.json, list any Allies, Rivals, Proteges, or Mortal Orders.  
      – For each, a brief note on why this relationship exists.
 
-3. **Output**  
+3. ## **Output**  
    Wrap everything in a single JSON object per governor:
 
    
