@@ -1,0 +1,1642 @@
+[
+  {
+    "name": "OCCODON",
+    "number": 1,
+    "aethyr": "LIL",
+    "element": "Water",
+    "traits": [
+      "transformative",
+      "adaptive",
+      "integrative"
+    ],
+    "archetypal": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "PASCOMB",
+    "number": 2,
+    "aethyr": "LIL",
+    "element": "Water",
+    "traits": [
+      "enlightening",
+      "guiding",
+      "pioneering"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "VALGARS",
+    "number": 3,
+    "aethyr": "LIL",
+    "element": "Water",
+    "traits": [
+      "pragmatic",
+      "grounded",
+      "resourceful"
+    ],
+    "archetypal": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "DOAGNIS",
+    "number": 4,
+    "aethyr": "ARN",
+    "element": "Water",
+    "traits": [
+      "enigmatic",
+      "unassuming",
+      "mysterious"
+    ],
+    "archetypal": {
+      "tarot": "The Moon",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Cancer",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    }
+  },
+  {
+    "name": "PACASNA",
+    "number": 5,
+    "aethyr": "ARN",
+    "element": "Water",
+    "traits": [
+      "eternal",
+      "constant",
+      "steadfast"
+    ],
+    "archetypal": {
+      "tarot": "The Devil",
+      "sephirot": "Binah",
+      "zodiac_sign": "Capricorn",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "DIALOIA",
+    "number": 6,
+    "aethyr": "ARN",
+    "element": "Water",
+    "traits": [
+      "truthful",
+      "illuminating",
+      "wise"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "SAMAPHA",
+    "number": 7,
+    "aethyr": "ZOM",
+    "element": "Water",
+    "traits": [
+      "sustaining",
+      "persistent",
+      "harmonious"
+    ],
+    "archetypal": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "VIROOLI",
+    "number": 8,
+    "aethyr": "ZOM",
+    "element": "Water",
+    "traits": [
+      "nurturing",
+      "pioneering",
+      "foundational"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "ANDISPI",
+    "number": 9,
+    "aethyr": "ZOM",
+    "element": "Water",
+    "traits": [
+      "commanding",
+      "authoritative",
+      "disciplined"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "ZIXLAYI",
+    "number": 10,
+    "aethyr": "PAZ",
+    "element": "Water",
+    "traits": [
+      "victorious",
+      "inspiring",
+      "decisive"
+    ],
+    "archetypal": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "LABNIXP",
+    "number": 11,
+    "aethyr": "PAZ",
+    "element": "Water",
+    "traits": [
+      "passionate",
+      "radiant",
+      "intense"
+    ],
+    "archetypal": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "CALVIZA",
+    "number": 12,
+    "aethyr": "PAZ",
+    "element": "Water",
+    "traits": [
+      "regal",
+      "balanced",
+      "dutiful"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "AVTOTAR",
+    "number": 13,
+    "aethyr": "LIT",
+    "element": "Water",
+    "traits": [
+      "humble",
+      "ineffable",
+      "transcendent"
+    ],
+    "archetypal": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "ICHIZA",
+    "number": 14,
+    "aethyr": "LIT",
+    "element": "Water",
+    "traits": [
+      "dutiful",
+      "focused",
+      "swift"
+    ],
+    "archetypal": {
+      "tarot": "The Chariot",
+      "sephirot": "Hod",
+      "zodiac_sign": "Cancer",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    }
+  },
+  {
+    "name": "TIARPAX",
+    "number": 15,
+    "aethyr": "LIT",
+    "element": "Water",
+    "traits": [
+      "honest",
+      "genuine",
+      "forthright"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "SAXTOMP",
+    "number": 16,
+    "aethyr": "MAZ",
+    "element": "Fire",
+    "traits": [
+      "wise",
+      "perceptive",
+      "empathetic"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "VAUAAMP",
+    "number": 17,
+    "aethyr": "MAZ",
+    "element": "Fire",
+    "traits": [
+      "proactive",
+      "enterprising",
+      "dynamic"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "ZIRZIRD",
+    "number": 18,
+    "aethyr": "MAZ",
+    "element": "Fire",
+    "traits": [
+      "enduring",
+      "timeless",
+      "steadfast"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "OPMACAS",
+    "number": 19,
+    "aethyr": "DEO",
+    "element": "Fire",
+    "traits": [
+      "primordial",
+      "ancient",
+      "foundational"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "GENADOL",
+    "number": 20,
+    "aethyr": "DEO",
+    "element": "Fire",
+    "traits": [
+      "charismatic",
+      "magnetic",
+      "alluring"
+    ],
+    "archetypal": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "ASPIAON",
+    "number": 21,
+    "aethyr": "DEO",
+    "element": "Fire",
+    "traits": [
+      "intuitive",
+      "introspective",
+      "revelatory"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "ZAMFRES",
+    "number": 22,
+    "aethyr": "ZID",
+    "element": "Fire",
+    "traits": [
+      "encouraging",
+      "responsive",
+      "benevolent"
+    ],
+    "archetypal": {
+      "tarot": "The Chariot",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Cancer",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    }
+  },
+  {
+    "name": "TODNAON",
+    "number": 23,
+    "aethyr": "ZID",
+    "element": "Fire",
+    "traits": [
+      "immutable",
+      "perpetual",
+      "steadfast"
+    ],
+    "archetypal": {
+      "tarot": "The Devil",
+      "sephirot": "Binah",
+      "zodiac_sign": "Capricorn",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "PRISTAC",
+    "number": 24,
+    "aethyr": "ZID",
+    "element": "Fire",
+    "traits": [
+      "virtuous",
+      "sacred",
+      "exemplary"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "ODDIORG",
+    "number": 25,
+    "aethyr": "ZIP",
+    "element": "Fire",
+    "traits": [
+      "righteous",
+      "zealous",
+      "passionate"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "CRALPIR",
+    "number": 26,
+    "aethyr": "ZIP",
+    "element": "Fire",
+    "traits": [
+      "joyful",
+      "uplifting",
+      "radiant"
+    ],
+    "archetypal": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "DOANZIN",
+    "number": 27,
+    "aethyr": "ZIP",
+    "element": "Fire",
+    "traits": [
+      "articulate",
+      "insightful",
+      "commanding"
+    ],
+    "archetypal": {
+      "tarot": "The Magician",
+      "sephirot": "Hod",
+      "zodiac_sign": "Gemini",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "LEXARPH",
+    "number": 28,
+    "aethyr": "ZAX",
+    "element": "Spirit",
+    "traits": [
+      "intellectual",
+      "innovative",
+      "visionary"
+    ],
+    "archetypal": {
+      "tarot": "The Star",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "COMANAN",
+    "number": 29,
+    "aethyr": "ZAX",
+    "element": "Spirit",
+    "traits": [
+      "resourceful",
+      "practical",
+      "manifesting"
+    ],
+    "archetypal": {
+      "tarot": "The Star",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "TABITOM",
+    "number": 30,
+    "aethyr": "ZAX",
+    "element": "Spirit",
+    "traits": [
+      "fiery",
+      "energetic",
+      "fervent"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "MOLPAND",
+    "number": 31,
+    "aethyr": "ICH",
+    "element": "Water",
+    "traits": [
+      "receptive",
+      "hospitable",
+      "accommodating"
+    ],
+    "archetypal": {
+      "tarot": "The Empress",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "VSNARDA",
+    "number": 32,
+    "aethyr": "ICH",
+    "element": "Water",
+    "traits": [
+      "unyielding",
+      "penetrating",
+      "relentless"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "PONODOL",
+    "number": 33,
+    "aethyr": "ICH",
+    "element": "Fire",
+    "traits": [
+      "transformative",
+      "cyclical",
+      "creative"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "TAPAMAL",
+    "number": 34,
+    "aethyr": "LOE",
+    "element": "Fire",
+    "traits": [
+      "primordial",
+      "unaltered",
+      "innocent"
+    ],
+    "archetypal": {
+      "tarot": "The Fool",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "GEDOONS",
+    "number": 35,
+    "aethyr": "LOE",
+    "element": "Fire",
+    "traits": [
+      "purifying",
+      "humbling",
+      "ego-dissolving"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "NOCAMAL",
+    "number": 36,
+    "aethyr": "LOE",
+    "element": "Fire",
+    "traits": [
+      "comforting",
+      "nurturing",
+      "reassuring"
+    ],
+    "archetypal": {
+      "tarot": "The Chariot",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Cancer",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    }
+  },
+  {
+    "name": "ISEMTAR",
+    "number": 37,
+    "aethyr": "ZIM",
+    "element": "Fire",
+    "traits": [
+      "obedient",
+      "dutiful",
+      "orderly"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "MASTIPT",
+    "number": 38,
+    "aethyr": "ZIM",
+    "element": "Fire",
+    "traits": [
+      "protective",
+      "benevolent",
+      "paternal"
+    ],
+    "archetypal": {
+      "tarot": "The Sun",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "CAMAXOX",
+    "number": 39,
+    "aethyr": "ZIM",
+    "element": "Fire",
+    "traits": [
+      "discerning",
+      "reverent",
+      "selective"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "EXGSDIA",
+    "number": 40,
+    "aethyr": "VTA",
+    "element": "Fire",
+    "traits": [
+      "authoritative",
+      "strict",
+      "unyielding"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "SAPDION",
+    "number": 41,
+    "aethyr": "VTA",
+    "element": "Fire",
+    "traits": [
+      "persistent",
+      "methodical",
+      "tireless"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "ALPUDUS",
+    "number": 42,
+    "aethyr": "VTA",
+    "element": "Fire",
+    "traits": [
+      "relativistic",
+      "open-minded",
+      "diplomatic"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "TAHAMDO",
+    "number": 43,
+    "aethyr": "OXO",
+    "element": "Air",
+    "traits": [
+      "authentic",
+      "principled",
+      "self-consistent"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "NOTIABI",
+    "number": 44,
+    "aethyr": "OXO",
+    "element": "Air",
+    "traits": [
+      "honest",
+      "dutiful",
+      "candid"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "TASTOZO",
+    "number": 45,
+    "aethyr": "OXO",
+    "element": "Air",
+    "traits": [
+      "joyous",
+      "inspiring",
+      "vivacious"
+    ],
+    "archetypal": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "CALZICH",
+    "number": 46,
+    "aethyr": "LEA",
+    "element": "Air",
+    "traits": [
+      "adaptive",
+      "restorative",
+      "conservative"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "ALDAPI",
+    "number": 47,
+    "aethyr": "LEA",
+    "element": "Air",
+    "traits": [
+      "joyful",
+      "optimistic",
+      "content"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "ANELOB",
+    "number": 48,
+    "aethyr": "LEA",
+    "element": "Air",
+    "traits": [
+      "radical",
+      "cathartic",
+      "liberating"
+    ],
+    "archetypal": {
+      "tarot": "The Star",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "ARSPHOR",
+    "number": 49,
+    "aethyr": "TAN",
+    "element": "Air",
+    "traits": [
+      "courageous",
+      "introspective",
+      "fearless"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "AYDROPT",
+    "number": 50,
+    "aethyr": "TAN",
+    "element": "Air",
+    "traits": [
+      "impartial",
+      "fair-minded",
+      "compassionate"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "TOCARZI",
+    "number": 51,
+    "aethyr": "TAN",
+    "element": "Air",
+    "traits": [
+      "equitable",
+      "just",
+      "balanced"
+    ],
+    "archetypal": {
+      "tarot": "Justice",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Libra",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "NABAOMI",
+    "number": 52,
+    "aethyr": "ZEN",
+    "element": "Air",
+    "traits": [
+      "empathetic",
+      "resilient",
+      "compassionate"
+    ],
+    "archetypal": {
+      "tarot": "The Chariot",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Cancer",
+      "zodiac_angel": "Gabriel",
+      "numerology": 7
+    }
+  },
+  {
+    "name": "SANIZAR",
+    "number": 53,
+    "aethyr": "ZEN",
+    "element": "Air",
+    "traits": [
+      "solitary",
+      "serene",
+      "detached"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "CHIALPS",
+    "number": 54,
+    "aethyr": "ZEN",
+    "element": "Air",
+    "traits": [
+      "comprehensive",
+      "cyclic",
+      "eternal"
+    ],
+    "archetypal": {
+      "tarot": "The World",
+      "sephirot": "Binah",
+      "zodiac_sign": "Capricorn",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "ZIRACAH",
+    "number": 55,
+    "aethyr": "POP",
+    "element": "Air",
+    "traits": [
+      "resilient",
+      "empowered",
+      "valiant"
+    ],
+    "archetypal": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "MEMNIE",
+    "number": 56,
+    "aethyr": "POP",
+    "element": "Air",
+    "traits": [
+      "visionary",
+      "provident",
+      "methodical"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "VAUNESH",
+    "number": 57,
+    "aethyr": "POP",
+    "element": "Air",
+    "traits": [
+      "intuitive",
+      "reflective",
+      "cyclic"
+    ],
+    "archetypal": {
+      "tarot": "The Moon",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Pisces",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "NATGLAF",
+    "number": 58,
+    "aethyr": "CHR",
+    "element": "Air",
+    "traits": [
+      "liberating",
+      "motivational",
+      "catalytic"
+    ],
+    "archetypal": {
+      "tarot": "The Tower",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "OLXNOSP",
+    "number": 59,
+    "aethyr": "CHR",
+    "element": "Air",
+    "traits": [
+      "hopeful",
+      "reassuring",
+      "faithful"
+    ],
+    "archetypal": {
+      "tarot": "The Star",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "MIANTRA",
+    "number": 60,
+    "aethyr": "CHR",
+    "element": "Air",
+    "traits": [
+      "steady",
+      "persistent",
+      "regulating"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "GAVSTEX",
+    "number": 61,
+    "aethyr": "ASP",
+    "element": "Air",
+    "traits": [
+      "boisterous",
+      "exuberant",
+      "bold"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "LABRINO",
+    "number": 62,
+    "aethyr": "ASP",
+    "element": "Air",
+    "traits": [
+      "inquisitive",
+      "scholarly",
+      "curious"
+    ],
+    "archetypal": {
+      "tarot": "The Magician",
+      "sephirot": "Hod",
+      "zodiac_sign": "Gemini",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "VORGAMI",
+    "number": 63,
+    "aethyr": "ASP",
+    "element": "Air",
+    "traits": [
+      "voracious",
+      "overwhelming",
+      "insatiable"
+    ],
+    "archetypal": {
+      "tarot": "The Devil",
+      "sephirot": "Binah",
+      "zodiac_sign": "Capricorn",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "TASCHOX",
+    "number": 64,
+    "aethyr": "LIN",
+    "element": "Air",
+    "traits": [
+      "incorruptible",
+      "illuminating",
+      "truthful"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "DOLMANI",
+    "number": 65,
+    "aethyr": "LIN",
+    "element": "Spirit",
+    "traits": [
+      "mysterious",
+      "universal",
+      "transcendent"
+    ],
+    "archetypal": {
+      "tarot": "The World",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "ZIRFARZ",
+    "number": 66,
+    "aethyr": "LIN",
+    "element": "Earth",
+    "traits": [
+      "lofty",
+      "celestial",
+      "expansive"
+    ],
+    "archetypal": {
+      "tarot": "The Star",
+      "sephirot": "Binah",
+      "zodiac_sign": "Aquarius",
+      "zodiac_angel": "Cassiel",
+      "numerology": 1
+    }
+  },
+  {
+    "name": "PAZIMOL",
+    "number": 67,
+    "aethyr": "TOR",
+    "element": "Earth",
+    "traits": [
+      "supportive",
+      "nurturing",
+      "patient"
+    ],
+    "archetypal": {
+      "tarot": "The Empress",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "ONIZIMP",
+    "number": 68,
+    "aethyr": "TOR",
+    "element": "Earth",
+    "traits": [
+      "industrious",
+      "motivating",
+      "productive"
+    ],
+    "archetypal": {
+      "tarot": "The Empress",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "ZAXANIN",
+    "number": 69,
+    "aethyr": "TOR",
+    "element": "Earth",
+    "traits": [
+      "analytical",
+      "articulate",
+      "methodical"
+    ],
+    "archetypal": {
+      "tarot": "The Magician",
+      "sephirot": "Hod",
+      "zodiac_sign": "Gemini",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "ORANCIR",
+    "number": 70,
+    "aethyr": "NIA",
+    "element": "Earth",
+    "traits": [
+      "holistic",
+      "integrative",
+      "balanced"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "CHASLPO",
+    "number": 71,
+    "aethyr": "NIA",
+    "element": "Earth",
+    "traits": [
+      "joyous",
+      "inspiring",
+      "exuberant"
+    ],
+    "archetypal": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "SOAGEEL",
+    "number": 72,
+    "aethyr": "NIA",
+    "element": "Earth",
+    "traits": [
+      "altruistic",
+      "generous",
+      "supportive"
+    ],
+    "archetypal": {
+      "tarot": "The Empress",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "ERZLAKU",
+    "number": 73,
+    "aethyr": "VTI",
+    "element": "Earth",
+    "traits": [
+      "cathartic",
+      "intense",
+      "resilient"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "OBUAORS",
+    "number": 74,
+    "aethyr": "VTI",
+    "element": "Earth",
+    "traits": [
+      "mysterious",
+      "introspective",
+      "complex"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "RANGLAM",
+    "number": 75,
+    "aethyr": "VTI",
+    "element": "Earth",
+    "traits": [
+      "disciplined",
+      "self-controlled",
+      "contemplative"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "ANGLOAI",
+    "number": 76,
+    "aethyr": "DES",
+    "element": "Earth",
+    "traits": [
+      "versatile",
+      "multifaceted",
+      "complex"
+    ],
+    "archetypal": {
+      "tarot": "The Lovers",
+      "sephirot": "Daath",
+      "zodiac_sign": "Gemini",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "NIGRANA",
+    "number": 77,
+    "aethyr": "DES",
+    "element": "Earth",
+    "traits": [
+      "rhythmic",
+      "cyclical",
+      "intuitive"
+    ],
+    "archetypal": {
+      "tarot": "The Moon",
+      "sephirot": "Yesod",
+      "zodiac_sign": "Pisces",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "LAZHIIM",
+    "number": 78,
+    "aethyr": "DES",
+    "element": "Earth",
+    "traits": [
+      "productive",
+      "opportunistic",
+      "efficient"
+    ],
+    "archetypal": {
+      "tarot": "The Hierophant",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  },
+  {
+    "name": "SAZIAMI",
+    "number": 79,
+    "aethyr": "ZAA",
+    "element": "Earth",
+    "traits": [
+      "authoritative",
+      "commanding",
+      "confident"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "MATHVLA",
+    "number": 80,
+    "aethyr": "ZAA",
+    "element": "Earth",
+    "traits": [
+      "decisive",
+      "conclusive",
+      "resolute"
+    ],
+    "archetypal": {
+      "tarot": "Judgement",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "CRPANIB",
+    "number": 81,
+    "aethyr": "ZAA",
+    "element": "Earth",
+    "traits": [
+      "secretive",
+      "subversive",
+      "silent"
+    ],
+    "archetypal": {
+      "tarot": "The High Priestess",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Pisces",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "PABNIXP",
+    "number": 82,
+    "aethyr": "BAG",
+    "element": "Earth",
+    "traits": [
+      "administrative",
+      "directive",
+      "responsible"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "POCISNI",
+    "number": 83,
+    "aethyr": "BAG",
+    "element": "Earth",
+    "traits": [
+      "spiritual",
+      "mediating",
+      "aspirational"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "OXLOPAR",
+    "number": 84,
+    "aethyr": "BAG",
+    "element": "Earth",
+    "traits": [
+      "controlling",
+      "possessive",
+      "protective"
+    ],
+    "archetypal": {
+      "tarot": "Death",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Scorpio",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "VASTRIM",
+    "number": 85,
+    "aethyr": "RII",
+    "element": "Earth",
+    "traits": [
+      "compassionate",
+      "forgiving",
+      "benevolent"
+    ],
+    "archetypal": {
+      "tarot": "Strength",
+      "sephirot": "Tiphareth",
+      "zodiac_sign": "Leo",
+      "zodiac_angel": "Michael",
+      "numerology": 4
+    }
+  },
+  {
+    "name": "ODRAXTI",
+    "number": 86,
+    "aethyr": "RII",
+    "element": "Earth",
+    "traits": [
+      "enlightening",
+      "initiating",
+      "orienting"
+    ],
+    "archetypal": {
+      "tarot": "Temperance",
+      "sephirot": "Chesed",
+      "zodiac_sign": "Sagittarius",
+      "zodiac_angel": "Zadkiel",
+      "numerology": 2
+    }
+  },
+  {
+    "name": "GMTZIAM",
+    "number": 87,
+    "aethyr": "RII",
+    "element": "Earth",
+    "traits": [
+      "self-aware",
+      "introspective",
+      "self-sufficient"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "TAAOGBA",
+    "number": 88,
+    "aethyr": "TEX",
+    "element": "Water",
+    "traits": [
+      "pioneering",
+      "originative",
+      "leading"
+    ],
+    "archetypal": {
+      "tarot": "The Emperor",
+      "sephirot": "Geburah",
+      "zodiac_sign": "Aries",
+      "zodiac_angel": "Kamael",
+      "numerology": 3
+    }
+  },
+  {
+    "name": "GEMNIMB",
+    "number": 89,
+    "aethyr": "TEX",
+    "element": "Water",
+    "traits": [
+      "transient",
+      "adaptable",
+      "changeable"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "ADVORPT",
+    "number": 90,
+    "aethyr": "TEX",
+    "element": "Water",
+    "traits": [
+      "observant",
+      "patient",
+      "discreet"
+    ],
+    "archetypal": {
+      "tarot": "The Hermit",
+      "sephirot": "Hod",
+      "zodiac_sign": "Virgo",
+      "zodiac_angel": "Raphael",
+      "numerology": 6
+    }
+  },
+  {
+    "name": "ARCULUS",
+    "number": 91,
+    "aethyr": "TEX",
+    "element": "Water",
+    "traits": [
+      "soothing",
+      "protective",
+      "enigmatic"
+    ],
+    "archetypal": {
+      "tarot": "The Empress",
+      "sephirot": "Netzach",
+      "zodiac_sign": "Taurus",
+      "zodiac_angel": "Haniel",
+      "numerology": 5
+    }
+  }
+]
+
+

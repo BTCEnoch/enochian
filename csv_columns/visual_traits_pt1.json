@@ -1,0 +1,1186 @@
+[
+    {
+      "name": "OCCODON",
+      "visual_description": {
+        "clothing": "He is garbed in foamy white gossamer gown decorated with dripping beadwork like dew.",
+        "aura": "His aura is a primordial tide pulsing through the air.",
+        "physical_features": "He appears towering and majestic, with eyes that shine like stars, and six radiant wings unfurl behind him.",
+        "familiars": "He is accompanied by tideborn spirits, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He wields a chalice overflowing with glowing water, signifying primordial renewal.",
+        "voice": "His voice echoes with a gentle murmur like a babbling brook.",
+        "movement": "He advances gliding softly as if walking on water.",
+        "environment": "In his presence, ancient debris dissolves and new forms are baptized into being."
+      }
+    },
+    {
+      "name": "PASCOMB",
+      "visual_description": {
+        "clothing": "He wears foamy white fluid cloak decorated with coral embroidery.",
+        "aura": "His aura is an intuition before thought, a proto-logos of inspiration.",
+        "physical_features": "He is gentle and graceful, with eyes that gleam with ancient wisdom, and four ethereal wings hover around him.",
+        "familiars": "He is surrounded by oceanic hosts, manifesting as ethereal beings that gather near him.",
+        "artifacts": "He bears a chalice of ever-flowing water, representing dawn.",
+        "voice": "His voice resounds softly like waves.",
+        "movement": "He glides with a flowing gait, each step like a ripple.",
+        "environment": "Wherever he goes, a diamond spark glimmers at the cusp of dawn."
+      }
+    },
+    {
+      "name": "VALGARS",
+      "visual_description": {
+        "clothing": "He is clad in turquoise scale-etched armor decorated with dripping beadwork like dew.",
+        "aura": "His aura is like that of a master artisan at work.",
+        "physical_features": "He appears towering and majestic, with eyes that reflect deep compassion, and a wheel of light with eyes interlocks behind him.",
+        "familiars": "He is attended by pearl-plumed guardians, manifesting as ethereal beings that gather near him.",
+        "artifacts": "He wields a crucible or alembic that shimmers with transmutation, signifying sacred alchemy.",
+        "voice": "His voice rings with a gentle murmur like a babbling brook.",
+        "movement": "He advances with undulating grace, as though underwater.",
+        "environment": "Wherever he goes, reality itself feels malleable, with base circumstances transmuting into something sacred."
+      }
+    },
+    {
+      "name": "DOAGNIS",
+      "visual_description": {
+        "clothing": "She wears turquoise flowing robes decorated with pearlescent sheen.",
+        "aura": "Her aura is an anonymous blessing, answers slipping in without name or notice.",
+        "physical_features": "She is radiant and imposing, with eyes that reflect deep compassion, and two subtle wings glimmer at her back.",
+        "familiars": "She is accompanied by waveborne angels, manifesting as ethereal beings that gather near her.",
+        "artifacts": "She wields a veil of gossamer light, signifying nameless grace.",
+        "voice": "Her voice rings with soothing and fluid tones.",
+        "movement": "She advances with a flowing gait, each step like a ripple.",
+        "environment": "Wherever she goes, assistance arrives without fanfare."
+      }
+    },
+    {
+      "name": "PACASNA",
+      "visual_description": {
+        "clothing": "She is clad in aquamarine gossamer gown decorated with dripping beadwork like dew.",
+        "aura": "Her aura is a still-point of eternity about which the ages quietly wheel.",
+        "physical_features": "She appears gentle and graceful, with eyes that gleam with ancient wisdom, and two subtle wings glimmer at her back.",
+        "familiars": "She is flanked by abyssal wardens, manifesting as ethereal beings that gather near her.",
+        "artifacts": "She bears an hourglass with frozen sands, representing eternal stillness.",
+        "voice": "Her voice whispers with a gentle murmur like a babbling brook.",
+        "movement": "She advances with undulating grace, as though underwater.",
+        "environment": "Wherever she goes, time itself seems to stand still at an unmoving center."
+      }
+    },
+    {
+      "name": "DIALOIA",
+      "visual_description": {
+        "clothing": "He is adorned in sea-green sea-silk vestments decorated with coral embroidery.",
+        "aura": "His aura is an ever-reliable illumination—steadfast truth glowing softly.",
+        "physical_features": "He is radiant and imposing, with eyes that gleam with ancient wisdom, and two brilliant wings glimmer at his back.",
+        "familiars": "He is accompanied by hosts of clarity, manifesting as ethereal beings that swirl near him.",
+        "artifacts": "He holds an ornate mirror of truth, embodying the god where truth resides.",
+        "voice": "His voice is resonant like a distant whale song.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "In his presence, hidden falsehoods are illuminated and the path of truth stands clear."
+      }
+    },
+    {
+      "name": "SAMAPHA",
+      "visual_description": {
+        "clothing": "He is clad in aquamarine flowing robes decorated with waterfall-like drapes.",
+        "aura": "His aura is a gentle continuum, a sense that all events flow into the next without rupture.",
+        "physical_features": "He appears gentle and graceful, with eyes that reflect deep compassion, and two brilliant wings glimmer at his back.",
+        "familiars": "He is accompanied by fluid spirits of continuity, manifesting as ethereal beings that dance near him.",
+        "artifacts": "He bears an unbroken looped staff, embodying continuity.",
+        "voice": "His voice whispers with a gentle murmur like a babbling brook.",
+        "movement": "He glides with a flowing gait, each step like a ripple.",
+        "environment": "Wherever he goes, moments seem to blend seamlessly, beginnings and endings flowing together."
+      }
+    },
+    {
+      "name": "VIROOLI",
+      "visual_description": {
+        "clothing": "He wears sea-green fluid cloak decorated with shell-like patterns.",
+        "aura": "His aura is a nurturing shelter—an impression of the first haven lovingly built.",
+        "physical_features": "He stands gentle and graceful, with eyes that glow with inner light, and four ethereal wings hover around him.",
+        "familiars": "He is attended by nest-guardian spirits, manifesting as ethereal beings that gather near him.",
+        "artifacts": "He holds a woven nest of light, embodying the first nest.",
+        "voice": "His voice has a soothing and fluid tone.",
+        "movement": "He moves with a flowing gait, each step like a ripple.",
+        "environment": "Wherever he goes, one feels cradled and secure, as if sheltered in a primordial nest."
+      }
+    },
+    {
+      "name": "ANDISPI",
+      "visual_description": {
+        "clothing": "He is garbed in deep blue sea-silk vestments decorated with pearlescent sheen.",
+        "aura": "His aura is one of strict accord—a binding force that compels obedience gently but firmly.",
+        "physical_features": "He is stately, with eyes that burn with celestial fire, and a pair of mighty wings cast his shadow.",
+        "familiars": "He is accompanied by eel-like serpents of duty, manifesting as ethereal beings that circle near him.",
+        "artifacts": "He bears silvered chains inscribed with sigils, signifying binding obedience.",
+        "voice": "His voice echoes with a gentle murmur like a babbling brook.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "In his presence, disorderly thoughts align and an urge to comply settles over the surroundings."
+      }
+    },
+    {
+      "name": "THOTANP",
+      "visual_description": {
+        "clothing": "She is robed in deep blue flowing robes decorated with shell-like patterns.",
+        "aura": "Her aura is triumphant and uplifting, as though victory rides on her shoulders.",
+        "physical_features": "She stands stately, with eyes that burn with celestial fire, and a pair of mighty wings cast her shadow.",
+        "familiars": "She is accompanied by triumphant heralds, manifesting as ethereal beings that dance near her.",
+        "artifacts": "She carries a gleaming laurel wreath, representing hard-won victory.",
+        "voice": "Her voice resounds with clear and ringing tones.",
+        "movement": "She advances with confident, bold steps, leaving warmth in her wake.",
+        "environment": "Wherever she goes, hearts swell with hope and the taste of imminent victory hangs in the air."
+      }
+    },
+    {
+      "name": "AXXIARG",
+      "visual_description": {
+        "clothing": "He is adorned in crimson burnished armor decorated with sunburst insignia.",
+        "aura": "His aura is a fervent heat, flickering with the promise of flame.",
+        "physical_features": "He appears radiant and imposing, with eyes that burn with celestial fire, and six blazing wings unfurl behind him.",
+        "familiars": "He is surrounded by flame sprites, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He wields a torch wreathed in flame, signifying the living flame of his name.",
+        "voice": "His voice rings with crackling warmth.",
+        "movement": "He moves with a vigorous stride, leaving warmth in his wake.",
+        "environment": "In his presence, shadows recoil as if lit by an inner flame, and darkness is driven away by sudden light."
+      }
+    },
+    {
+      "name": "POTHNIR",
+      "visual_description": {
+        "clothing": "He is clad in crimson radiant robes decorated with glowing ember trims.",
+        "aura": "His aura is august and layered, evoking the grandeur of a threefold throne.",
+        "physical_features": "He appears towering and majestic, with eyes that reflect deep compassion, and a wheel of light with eyes interlocks behind him.",
+        "familiars": "He is flanked by threefold guardians, manifesting as ethereal beings that swirl near him.",
+        "artifacts": "He holds a triple-crowned scepter, representing the three-fold throne.",
+        "voice": "His voice resounds with a deep and rumbling tone.",
+        "movement": "He advances with a flowing gait, each step like a ripple.",
+        "environment": "Wherever he stands, a sense of layered authority settles—like three voices speaking in unison."
+      }
+    },
+    {
+      "name": "LAZDIXI",
+      "visual_description": {
+        "clothing": "He wears deep blue fluid cloak decorated with waterfall-like drapes.",
+        "aura": "His aura is a quiet emptiness, a space unclaimed by any supreme name.",
+        "physical_features": "He appears stately, with eyes that gleam with ancient wisdom, and translucent fins like wings fan out behind him.",
+        "familiars": "He is accompanied by silent watchers, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He carries an unmarked tome, representing the absence of a supreme name.",
+        "voice": "His voice whispers with breathy and distant tones.",
+        "movement": "He glides with uncanny smoothness, as if moving in a dream.",
+        "environment": "In his presence, titles and labels lose significance, and only pure being remains."
+      }
+    },
+    {
+      "name": "NOCAMAL",
+      "visual_description": {
+        "clothing": "He is clad in turquoise scale-etched armor decorated with dripping beadwork like dew.",
+        "aura": "His aura is one of dutiful silence, as if awaiting orders from on high.",
+        "physical_features": "He stands stately, with eyes that reflect deep compassion, and a pair of mighty wings cast his shadow.",
+        "familiars": "He is accompanied by vigilant messengers, manifesting as ethereal beings that circle near him.",
+        "artifacts": "He bears a quiver of translucent arrows, representing service to the arrow's command.",
+        "voice": "His voice echoes with a gentle murmur like a babbling brook.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "Wherever he goes, a sense of readiness and obedient stillness permeates the air."
+      }
+    },
+    {
+      "name": "TIARPAX",
+      "visual_description": {
+        "clothing": "He is garbed in deep blue sea-silk vestments decorated with pearlescent sheen.",
+        "aura": "His aura is clear and unwavering, radiating the essence of pure truth.",
+        "physical_features": "He stands stately, with eyes that burn with celestial fire, and a pair of shimmering wings arch from his shoulders.",
+        "familiars": "He is accompanied by truthward angels, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He wields a gleaming sword etched with sigils, signifying sacred truth.",
+        "voice": "His voice is resonant like a distant whale song.",
+        "movement": "He advances with a flowing gait, each step like a ripple.",
+        "environment": "In his presence, lies fall away; every word spoken around him rings with unmistakable truth."
+      }
+    },
+    {
+      "name": "SAXTOMP",
+      "visual_description": {
+        "clothing": "She wears fiery burnished armor decorated with phoenix feather accents.",
+        "aura": "Her aura is imbued with deep understanding that glows from within.",
+        "physical_features": "She appears radiant and imposing, with eyes that gleam with ancient wisdom, and two brilliant wings glimmer at her back.",
+        "familiars": "She is accompanied by ember sprites of wisdom, manifesting as ethereal beings that hover near her.",
+        "artifacts": "She holds an open scroll glowing with insight, embodying sacred understanding.",
+        "voice": "Her voice has a steady and firm tone.",
+        "movement": "She moves with a vigorous stride, leaving warmth in her wake.",
+        "environment": "Wherever she goes, confusion gives way to clarity, as if illuminated by a sacred flame of understanding."
+      }
+    },
+    {
+      "name": "VAUAAMP",
+      "visual_description": {
+        "clothing": "He is adorned in fiery flame-wreathed cloak decorated with glowing ember trims.",
+        "aura": "His aura crackles with urgency, spurring all around into action.",
+        "physical_features": "He appears radiant and imposing, with eyes that burn with celestial fire, and two brilliant wings glimmer at his back.",
+        "familiars": "He is flanked by firebirds of initiation, manifesting as ethereal beings that swirl near him.",
+        "artifacts": "He wields a horn of blazing brass, signifying the call to action.",
+        "voice": "His voice rings with crackling warmth.",
+        "movement": "He advances with a vigorous stride, leaving warmth in his wake.",
+        "environment": "In his presence, hesitation evaporates and the spark of initiative ignites in every heart."
+      }
+    },
+    {
+      "name": "ZIRZIRD",
+      "visual_description": {
+        "clothing": "He wears fiery smoldering vestments decorated with smoke-like wisps at the edges.",
+        "aura": "His aura spans time, warm with echoes of the past and sparks of the future.",
+        "physical_features": "He appears radiant and imposing, with eyes that burn with celestial fire, and flickering wings of flame light the air behind him.",
+        "familiars": "He is attended by phoenix-like spirits, manifesting as ethereal beings that dance near him.",
+        "artifacts": "He bears a twin-hourglass of fire, embodying what was and will be.",
+        "voice": "His voice resounds with deep and rumbling authority.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "Wherever he stands, one senses the cyclic nature of time—what has been will be again beneath his fiery gaze."
+      }
+    },
+    {
+      "name": "OPMACAS",
+      "visual_description": {
+        "clothing": "He is clad in fiery radiant robes decorated with sunburst insignia.",
+        "aura": "His aura is ancient and potent, brimming with the power of primordial beginnings.",
+        "physical_features": "He stands towering and majestic, with eyes that glow with inner light, and six blazing wings unfurl behind him.",
+        "familiars": "He is accompanied by primordial salamanders, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He carries a primordial egg-shaped orb pulsing with life, representing the beginning.",
+        "voice": "His voice rings with crackling warmth.",
+        "movement": "He glides with uncanny smoothness, as if moving in a dream.",
+        "environment": "In his presence, one feels on the brink of creation—each moment charged with the energy of a new beginning."
+      }
+    },
+    {
+      "name": "GENADOL",
+      "visual_description": {
+        "clothing": "He is robed in fiery flame-wreathed cloak decorated with smoke-like wisps at the edges.",
+        "aura": "His aura is irresistibly magnetic, drawing attention and desire effortlessly.",
+        "physical_features": "He appears radiant and imposing, with eyes that burn with celestial fire, and two brilliant wings glimmer at his back.",
+        "familiars": "He is accompanied by shimmering sylphs, manifesting as ethereal beings that swirl near him.",
+        "artifacts": "He holds a magnetic orb drawing motes of light, embodying attraction.",
+        "voice": "His voice has a fierce and commanding quality.",
+        "movement": "He moves with a vigorous stride, leaving warmth in his wake.",
+        "environment": "Wherever he goes, gazes follow and hearts lean forward, as if compelled by an unseen gravity."
+      }
+    },
+    {
+      "name": "ASPIAON",
+      "visual_description": {
+        "clothing": "She is adorned in fiery burnished armor decorated with sunburst insignia.",
+        "aura": "Her aura whispers of inner mysteries on the cusp of revelation.",
+        "physical_features": "She stands radiant and imposing, with eyes that reflect deep compassion, and two subtle wings glimmer at her back.",
+        "familiars": "She is attended by twilight cherubs, manifesting as ethereal beings that hover near her.",
+        "artifacts": "She carries a veiled lantern, representing the light of inner truth.",
+        "voice": "Her voice has a steady and firm tone.",
+        "movement": "She advances with a flowing gait, each step like a ripple.",
+        "environment": "Wherever she goes, the unspoken becomes almost tangible, as if inner truths yearn to surface around her."
+      }
+    },
+    {
+      "name": "ZAMFRES",
+      "visual_description": {
+        "clothing": "He wears fiery smoldering vestments decorated with glowing ember trims.",
+        "aura": "His aura brightens eagerly whenever praise is given, feeding on sincere accolades.",
+        "physical_features": "He is radiant and imposing, with eyes that shine like stars, and flickering wings of flame light the air behind him.",
+        "familiars": "He is accompanied by flameborn heralds, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He holds a golden lyre that hums softly, embodying blessings of praise.",
+        "voice": "His voice resounds with a deep and rumbling tone.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "In his presence, songs of adulation seem to echo faintly, and the act of praise itself feels like a sacred flame."
+      }
+    },
+    {
+      "name": "TODNAON",
+      "visual_description": {
+        "clothing": "He is clad in fiery radiant robes decorated with sunburst insignia.",
+        "aura": "His aura is timeless and unbroken, like an echo from ages past continuing onward.",
+        "physical_features": "He appears towering and majestic, with eyes that gleam with ancient wisdom, and six radiant wings unfurl behind him.",
+        "familiars": "He is surrounded by phoenix spirits, manifesting as ethereal beings that dance near him.",
+        "artifacts": "He bears an ancient scroll and a new quill, representing existence that was and will be.",
+        "voice": "His voice is resonant like a distant whale song.",
+        "movement": "He glides with uncanny smoothness, as if moving in a dream.",
+        "environment": "In his presence, the boundary between past and future blurs, each moment stretching into eternity."
+      }
+    },
+    {
+      "name": "PRISTAC",
+      "visual_description": {
+        "clothing": "He is garbed in fiery flame-wreathed cloak decorated with phoenix feather accents.",
+        "aura": "His aura is sanctified and pure, bearing the gentle gravity of holiness.",
+        "physical_features": "He appears towering and majestic, with eyes that glow with inner light, and a wheel of light with eyes interlocks behind him.",
+        "familiars": "He is flanked by seraphic attendants, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He carries a polished mirror that reveals a halo in its reflection, representing a Holy likeness.",
+        "voice": "His voice has a fierce and commanding quality.",
+        "movement": "He advances with undulating grace, as though underwater.",
+        "environment": "Wherever he stands, a hush falls as though in the presence of the sacred, and the surroundings seem to brighten with a subtle halo."
+      }
+    },
+    {
+      "name": "ODDIORG",
+      "visual_description": {
+        "clothing": "He is adorned in crimson burnished armor decorated with sunburst insignia.",
+        "aura": "His aura crackles with righteous fervor, combining intense heat with stern balance.",
+        "physical_features": "He stands towering and majestic, with eyes that burn with celestial fire, and six blazing wings unfurl behind him.",
+        "familiars": "He is surrounded by ember-winged lions, manifesting as ethereal beings that circle near him.",
+        "artifacts": "He wields a flaming sword of justice, representing fire and judgment.",
+        "voice": "His voice resounds with deep and rumbling authority.",
+        "movement": "He moves with a vigorous stride, leaving warmth in his wake.",
+        "environment": "In his presence, the air itself feels like a tribunal—warm with conviction yet heavy with the weight of justice."
+      }
+    },
+    {
+      "name": "CRALPIR",
+      "visual_description": {
+        "clothing": "He is robed in fiery flame-wreathed cloak decorated with smoke-like wisps at the edges.",
+        "aura": "His aura shimmers in jubilant light, pure joy radiating outward.",
+        "physical_features": "He stands radiant and imposing, with eyes that shine like stars, and two subtle wings glimmer at his back.",
+        "familiars": "He is accompanied by aureate songbirds, manifesting as ethereal beings that dance near him.",
+        "artifacts": "He carries a golden horn of jubilation, embodying bright joy.",
+        "voice": "His voice has a whispery and melodic quality.",
+        "movement": "He glides almost drifting on unseen currents.",
+        "environment": "Wherever he goes, laughter stirs in the distance and a warm lightness suffuses all beings nearby."
+      }
+    },
+    {
+      "name": "DOANZIN",
+      "visual_description": {
+        "clothing": "He wears fiery smoldering vestments decorated with glowing ember trims.",
+        "aura": "His aura rolls off him like mist, laden with the primordial power to name and command waters.",
+        "physical_features": "He appears radiant and imposing, with eyes that burn with celestial fire, and flickering wings of flame light the air behind him.",
+        "familiars": "He is attended by steam drakes, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He bears a chalice etched with sigils of rivers and seas, embodying the naming of waters.",
+        "voice": "His voice rings with crackling warmth.",
+        "movement": "He advances with measured, steady steps that ground him.",
+        "environment": "In his presence, waters nearby ripple and respond, as if each stream and wave acknowledges its name being spoken."
+      }
+    },
+    {
+      "name": "LEXARPH",
+      "visual_description": {
+        "clothing": "He is clad in silvery ceremonial robes decorated with faint constellations.",
+        "aura": "His aura is lofty and sovereign, the very air recognizing its first master.",
+        "physical_features": "He stands towering and majestic, with eyes that gleam with ancient wisdom, and six radiant wings unfurl behind him.",
+        "familiars": "He is accompanied by stoneclad sentinels and zephyr spirits, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He carries an orb of whirling winds and earth, embodying the primacy of Air.",
+        "voice": "His voice is resonant like a distant whale song.",
+        "movement": "He glides almost drifting on unseen currents.",
+        "environment": "In his presence, still air stirs and stones vibrate faintly, as if acknowledging the primordial authority of air."
+      }
+    },
+    {
+      "name": "COMANAN",
+      "visual_description": {
+        "clothing": "He is adorned in stone-gray ornate armor decorated with etched runes of stone.",
+        "aura": "His aura hums with creative potential, as though reality itself might manifest new forms around him.",
+        "physical_features": "He appears radiant and imposing, with eyes that burn with celestial fire, and four ethereal wings hover around him.",
+        "familiars": "He is flanked by earth-forged guardians, manifesting as ethereal beings that gather near him.",
+        "artifacts": "He bears a chisel and tablet that glow softly, representing mystic manifestation.",
+        "voice": "His voice has a deep and rumbling tone.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "Wherever he goes, thought becomes form—flickers of shape coalesce briefly from the corners of perception."
+      }
+    },
+    {
+      "name": "TABITOM",
+      "visual_description": {
+        "clothing": "He wears fiery burnished armor decorated with oak-leaf engravings singed at the edges.",
+        "aura": "His aura radiates holy fire intertwined with the strength of oak and earth.",
+        "physical_features": "He appears towering and majestic, with eyes that burn with celestial fire, and six blazing wings unfurl behind him.",
+        "familiars": "He is surrounded by oak-crowned fire spirits, manifesting as ethereal beings that swirl near him.",
+        "artifacts": "He carries a torch of sacred flame twined with oak, symbolizing sacred flame.",
+        "voice": "His voice resounds with deep and rumbling authority.",
+        "movement": "He advances with a vigorous stride, leaving warmth in his wake.",
+        "environment": "In his presence, flames burn purer and oak leaves rustle without wind, as if acknowledging a sacred fire that even the forest bows to."
+      }
+    },
+    {
+      "name": "MOLPAND",
+      "visual_description": {
+        "clothing": "He is clad in sea-green draped robes decorated with vine-like embroidery.",
+        "aura": "His aura is as welcoming as a harbor, every soul finding acceptance and rest in its reach.",
+        "physical_features": "He appears gentle and graceful, with eyes that reflect deep compassion, and translucent fins like wings fan out behind him.",
+        "familiars": "He is attended by sea-nymphs and kind-eyed dolphins, manifesting as ethereal beings that dance near him.",
+        "artifacts": "He bears a large conch shell horn, signifying reception of souls.",
+        "voice": "His voice has a soothing and fluid tone.",
+        "movement": "He glides with undulating grace, as though underwater.",
+        "environment": "Wherever he goes, the downtrodden feel uplifted and those adrift find themselves guided to safe ground."
+      }
+    },
+    {
+      "name": "VSNARDA",
+      "visual_description": {
+        "clothing": "He is robed in sea-green gossamer gown decorated with pearlescent sheen.",
+        "aura": "His aura swirls heavy and downward, as if drawing things inexorably to the depths.",
+        "physical_features": "He appears gentle and graceful, with eyes that glow with inner light, and translucent fins like wings fan out behind him.",
+        "familiars": "He is accompanied by abyssal serpents, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He holds an anchor wrought from starlight, representing casting down to the depths.",
+        "voice": "His voice whispers with breathy and distant tones.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "In his presence, the weight of things increases slightly—as if unseen gravity tugs downward, casting all into profound depths."
+      }
+    },
+    {
+      "name": "PONODOL",
+      "visual_description": {
+        "clothing": "He is garbed in crimson burnished armor decorated with smoke-like wisps at the edges.",
+        "aura": "His aura crackles with destructive and creative force entwined—an endless cycle of breaking and making.",
+        "physical_features": "He stands towering and majestic, with eyes that burn with celestial fire, and six blazing wings unfurl behind him.",
+        "familiars": "He is flanked by twin dragons of ash and clay, manifesting as ethereal beings that circle near him.",
+        "artifacts": "He wields a hammer half-charred and half-newly-forged, representing destruction and creation.",
+        "voice": "His voice echoes with a gentle murmur like a babbling brook.",
+        "movement": "He advances with a vigorous stride, leaving warmth in his wake.",
+        "environment": "In his presence, structures weaken and collapse even as new shapes rise from their ruins, as if the world itself were malleable to his will."
+      }
+    },
+    {
+      "name": "TAPAMAL",
+      "visual_description": {
+        "clothing": "She is clad in fiery flame-wreathed cloak decorated with phoenix feather accents.",
+        "aura": "Her aura is primal and stormy, as though creation’s first tempest swirls around her.",
+        "physical_features": "She appears stately, with eyes that burn with celestial fire, and flickering wings of flame light the air behind her.",
+        "familiars": "She is accompanied by tempestuous messengers, manifesting as ethereal beings that swirl near her.",
+        "artifacts": "She carries a cosmic seed wreathed in swirling clouds, representing cosmic genesis.",
+        "voice": "Her voice resounds with deep and rumbling authority.",
+        "movement": "She advances with a vigorous stride, leaving warmth in her wake.",
+        "environment": "Wherever she goes, winds howl briefly in greeting and sparks of creation flash in the corners of one’s sight, as if the cosmos is ever being reborn around her."
+      }
+    },
+    {
+      "name": "GEDOONS",
+      "visual_description": {
+        "clothing": "He is robed in fiery smoldering vestments decorated with glowing ember trims.",
+        "aura": "His aura envelops with silent support—an ever-present comfort that needs no words.",
+        "physical_features": "He stands gentle and graceful, with eyes that reflect deep compassion, and two subtle wings glimmer at his back.",
+        "familiars": "He is attended by gentle flame sprites, manifesting as ethereal beings that dance near him.",
+        "artifacts": "He bears a warm shawl of embers, representing continuous comfort.",
+        "voice": "His voice has a whispery and melodic quality.",
+        "movement": "He glides with undulating grace, as though underwater.",
+        "environment": "In his presence, sorrow and anxiety recede, replaced by a steady warmth—like sitting by a hearth on a cold night."
+      }
+    },
+    {
+      "name": "AMBRIOL",
+      "visual_description": {
+        "clothing": "He is garbed in fiery radiant robes decorated with phoenix feather accents.",
+        "aura": "His aura is soothing and constant, radiating unwavering reassurance.",
+        "physical_features": "He appears gentle and graceful, with eyes that reflect deep compassion, and two subtle wings glimmer at his back.",
+        "familiars": "He is surrounded by softly glowing doves, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He carries a gently glowing chalice, representing continuous comfort.",
+        "voice": "His voice whispers with a gentle murmur like a babbling brook.",
+        "movement": "He moves with a flowing gait, each step like a ripple.",
+        "environment": "Wherever he goes, fear and pain ease; an atmosphere of solace settles like a warm blanket on all present."
+      }
+    },
+    {
+      "name": "GECAOND",  
+      "visual_description": {
+        "clothing": "She is adorned in fiery burnished armor decorated with smoke-like wisps at the edges.",
+        "aura": "Her aura is austere and loyal, unmoved by influence except duty itself.",
+        "physical_features": "She appears radiant and imposing, with eyes that shine like stars, and two subtle wings glimmer at her back.",
+        "familiars": "She is flanked by stern wardens, manifesting as ethereal beings that hover near her.",
+        "artifacts": "She holds an unyielding shield marked with a single sigil, representing obedience alone.",
+        "voice": "Her voice rings with a clear and ringing tone.",
+        "movement": "She moves with measured, steady steps that ground her.",
+        "environment": "In her presence, rebellious thoughts quiet; an air of discipline and single-minded purpose permeates all."
+      }
+    },
+    {
+      "name": "LAPARIN",
+      "visual_description": {
+        "clothing": "He wears fiery burnished armor decorated with phoenix feather accents.",
+        "aura": "His aura exudes guardianship and courage, as comforting as a loyal knight’s presence.",
+        "physical_features": "He stands towering and majestic, with eyes that shine like stars, and a pair of mighty wings cast his shadow.",
+        "familiars": "He is accompanied by vigilant lions of light, manifesting as ethereal beings that circle near him.",
+        "artifacts": "He wields a great shield emblazoned with a human figure, representing the protector of man.",
+        "voice": "His voice has a steady and firm tone.",
+        "movement": "He moves with a vigorous stride, leaving warmth in his wake.",
+        "environment": "Wherever he goes, the vulnerable feel an invisible bulwark around them, and threats hesitate to draw near."
+      }
+    },
+    {
+      "name": "DOCEPAX",
+      "visual_description": {
+        "clothing": "He is clad in fiery smoldering vestments decorated with glowing ember trims.",
+        "aura": "His aura thrums with gravitas, as if only the grandest of names dare enter his sphere.",
+        "physical_features": "He appears radiant and imposing, with eyes that burn with celestial fire, and flickering wings of flame light the air behind him.",
+        "familiars": "He is attended by heralds crowned with stars, manifesting as ethereal beings that swirl near him.",
+        "artifacts": "He carries a colossal ledger inscribed with exalted names, signifying only great names.",
+        "voice": "His voice resounds with deep and rumbling authority.",
+        "movement": "He advances with measured, steady steps that ground him.",
+        "environment": "In his presence, titles and reputations hang heavier in the air, and the truly great names echo with a thunderous weight."
+      }
+    },
+    {
+      "name": "TEDOOND",
+      "visual_description": {
+        "clothing": "He is adorned in fiery burnished armor decorated with sunburst insignia.",
+        "aura": "His aura imposes a stern demand—the cosmos itself seems to heed his authority or face consequence.",
+        "physical_features": "He stands radiant and imposing, with eyes that burn with celestial fire, and six blazing wings unfurl behind him.",
+        "familiars": "He is flanked by stern seraphim, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He carries a scepter that cracks with thunder, representing demanded obedience.",
+        "voice": "His voice rings with crackling warmth.",
+        "movement": "He moves with a vigorous stride, leaving warmth in his wake.",
+        "environment": "Wherever he goes, the very air feels commanded; all around sense the imperative to bow to divine law."
+      }
+    },
+    {
+      "name": "VIUIPOS",
+      "visual_description": {
+        "clothing": "She is robed in fiery flame-wreathed cloak decorated with phoenix feather accents.",
+        "aura": "Her aura reverberates in patterns and refrains, as though reality echoes with many repetitions of a single truth.",
+        "physical_features": "She stands stately, with eyes that burn with celestial fire, and two subtle wings glimmer at her back.",
+        "familiars": "She is surrounded by echo spirits, manifesting as ethereal beings that dance near her.",
+        "artifacts": "She holds a mirrored loop, representing many repetitions.",
+        "voice": "Her voice has a whispery and melodic quality.",
+        "movement": "She glides with uncanny smoothness, as if moving in a dream.",
+        "environment": "Wherever she goes, sounds and events seem to repeat in faint echoes, each iteration a soft affirmation of the last."
+      }
+    },
+    {
+      "name": "VOANAMB",
+      "visual_description": {
+        "clothing": "He is robed in fiery smoldering vestments decorated with glowing ember trims.",
+        "aura": "His aura is unsettlingly flexible, as if truth itself bends in his vicinity.",
+        "physical_features": "He stands stately, with eyes that gleam with ancient wisdom, and two brilliant wings glimmer at his back.",
+        "familiars": "He is accompanied by chameleon spirits, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He carries a prism that refracts light oddly, representing relative truth.",
+        "voice": "His voice whispers with breathy and distant tones.",
+        "movement": "He advances with undulating grace, as though underwater.",
+        "environment": "In his presence, reality seems to shift ever so slightly—facts feel fluid and perspectives multiply."
+      }
+    },
+    {
+      "name": "TAHAMDO",
+      "visual_description": {
+        "clothing": "He wears pale gray billowing robes decorated with glinting starlight threads.",
+        "aura": "His aura is tranquil and truthful, carrying an unvarnished honesty that needs no flourish.",
+        "physical_features": "He stands stately, with eyes that burn with celestial fire, and a pair of mighty wings cast his shadow.",
+        "familiars": "He is attended by gentle sylphs, manifesting as ethereal beings that swirl near him.",
+        "artifacts": "He holds a quill that glows when lies are spoken, signifying spoken truth.",
+        "voice": "His voice has a breathy and distant timbre.",
+        "movement": "He moves with light, gliding steps, barely touching the ground.",
+        "environment": "Wherever he goes, conversations strip to their essence, and only sincere words find voice."
+      }
+    },
+    {
+      "name": "NOTIABI",
+      "visual_description": {
+        "clothing": "He is clad in pale gray diaphanous gown decorated with translucent gauze layers.",
+        "aura": "His aura humbly radiates honesty, with no need for grand titles—only truth.",
+        "physical_features": "He stands gentle and graceful, with eyes that reflect deep compassion, and his feathered wings stir the air.",
+        "familiars": "He is surrounded by small truth-spirits, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He carries a modest scroll of truths, representing servitude to truth.",
+        "voice": "His voice echoes with a gentle murmur like a babbling brook.",
+        "movement": "He moves almost drifting on unseen currents.",
+        "environment": "In his presence, elaborate words fall away; simplicity and straightforward truth dominate every interaction."
+      }
+    },
+    {
+      "name": "TASTOZO",
+      "visual_description": {
+        "clothing": "She is adorned in pale gray light silk attire decorated with a faint rainbow shimmer.",
+        "aura": "Her aura twirls with playful energy, compelling even the still air to join her dance.",
+        "physical_features": "She is stately, with eyes that shine like stars, and a pair of shimmering wings arch from her shoulders.",
+        "familiars": "She is accompanied by sprite-like dancers, manifesting as ethereal beings that dance near her.",
+        "artifacts": "She carries silver bells that chime silently, embodying the initiation of dancing.",
+        "voice": "Her voice rings with a clear and ringing tone.",
+        "movement": "She glides as if weightless, moving in rhythm to an unheard melody.",
+        "environment": "Wherever she goes, the atmosphere itself seems to sway in subtle rhythm, and even the unwilling feel the urge to move with joy."
+      }
+    },
+    {
+      "name": "CUCNRPT",
+      "visual_description": {
+        "clothing": "She is robed in white billowing robes decorated with glinting starlight threads.",
+        "aura": "Her aura shifts and adapts, replacing what was lost with something comforting and familiar.",
+        "physical_features": "She appears gentle and graceful, with eyes that gleam with ancient wisdom, and her feathered wings stir the air.",
+        "familiars": "She is attended by mimic spirits, manifesting as ethereal beings that swirl near her.",
+        "artifacts": "She holds a mirror that, when something disappears, reflects a similar object, representing replacement.",
+        "voice": "Her voice has a whispery and melodic quality.",
+        "movement": "She glides almost drifting on unseen currents.",
+        "environment": "In her presence, voids are filled—lost items turn up as equivalents, and emptiness is met with a gentle substitute."
+      }
+    },
+    {
+      "name": "LAVACON",
+      "visual_description": {
+        "clothing": "He is clad in white billowing robes decorated with glowing ivy trim.",
+        "aura": "His aura radiates simple joy, contagious in its purity and warmth.",
+        "physical_features": "He is gentle and graceful, with eyes that reflect deep compassion, and two subtle wings glimmer at his back.",
+        "familiars": "He is surrounded by fluttering cherubs of delight, manifesting as ethereal beings that dance near him.",
+        "artifacts": "He carries a lyre that plays faint merry tunes, representing true happiness.",
+        "voice": "His voice whispers with a gentle murmur like a babbling brook.",
+        "movement": "He moves with a flowing gait, each step like a ripple.",
+        "environment": "Wherever he goes, smiles break out unbidden and laughter ripples through the air, as if joy itself walked beside him."
+      }
+    },
+    {
+      "name": "SOCHIAL",
+      "visual_description": {
+        "clothing": "He wears white light silk attire decorated with a faint rainbow shimmer.",
+        "aura": "His aura smolders with transformative fervor, incinerating sorrows in its wake.",
+        "physical_features": "He stands radiant and imposing, with eyes that burn with celestial fire, and flickering wings of flame light the air behind him.",
+        "familiars": "He is accompanied by fiery wraiths of memory, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He holds a torch that leaves ashes, representing the burning of the past.",
+        "voice": "His voice resounds with a fierce and commanding tone.",
+        "movement": "He advances with a vigorous stride, leaving warmth in his wake.",
+        "environment": "In his presence, old regrets and clinging shadows of the past crumble away to ash, freeing the present moment."
+      }
+    },
+    {
+      "name": "SIGMORF",
+      "visual_description": {
+        "clothing": "He is garbed in white feathered cloak decorated with glinting starlight threads.",
+        "aura": "His aura is dim and profound, like a gentle guide through pitch darkness.",
+        "physical_features": "He stands stately, with eyes that shine like stars, and spectral wings shimmer in and out of sight.",
+        "familiars": "He is attended by midnight owls, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He carries a black lantern with a single ember inside, representing a light in darkness.",
+        "voice": "His voice has a whispery and melodic quality.",
+        "movement": "He glides with uncanny smoothness, as if moving in a dream.",
+        "environment": "Wherever he goes, darkness feels less threatening—shadows seem to listen and gently part, as if he walks with familiar comfort through the night."
+      }
+    },
+    {
+      "name": "AYDROPT",
+      "visual_description": {
+        "clothing": "She is robed in white diaphanous gown decorated with translucent gauze layers.",
+        "aura": "Her aura is balanced and fair, quietly assuring all are seen without bias.",
+        "physical_features": "She appears gentle and graceful, with eyes that reflect deep compassion, and four ethereal wings hover around her.",
+        "familiars": "She is accompanied by mirror-like sylphs, manifesting as ethereal beings that dance near her.",
+        "artifacts": "She holds a set of scales that shine in moonlight, representing equality of sight.",
+        "voice": "Her voice has a steady and firm tone.",
+        "movement": "She moves with measured, steady steps that ground her.",
+        "environment": "In her presence, prejudice wanes; an atmosphere of impartiality settles, and each person feels recognized for their true self."
+      }
+    },
+    {
+      "name": "TOCARZI",
+      "visual_description": {
+        "clothing": "He is adorned in white light silk attire decorated with a faint rainbow shimmer.",
+        "aura": "His aura resonates in harmony, reflecting an unshakeable equilibrium with others.",
+        "physical_features": "He is stately, with eyes that reflect deep compassion, and four ethereal wings hover around him.",
+        "familiars": "He is attended by mirror twins of light, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He bears twin scepters identical in form, representing profound equality.",
+        "voice": "His voice is resonant like an echo in a cave.",
+        "movement": "He glides with uncanny smoothness, as if moving in a dream.",
+        "environment": "Wherever he goes, differences diminish and common ground reveals itself, as though all stand on equal footing in his presence."
+      }
+    },
+    {
+      "name": "NABAOMI",
+      "visual_description": {
+        "clothing": "He is clad in pale gray diaphanous gown decorated with translucent gauze layers.",
+        "aura": "His aura carries the weight of suffering with grace, as though he bears pain so others are spared.",
+        "physical_features": "He stands stately, with eyes that shine like stars, and a pair of mighty wings cast his shadow.",
+        "familiars": "He is accompanied by gentle specters of sorrow, manifesting as ethereal beings that circle near him.",
+        "artifacts": "He carries a chalice brimming with bitter tears that transmute to balm, embodying compassion for pain.",
+        "voice": "His voice has a soothing and fluid tone.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "Wherever he goes, anguish ebbs away; wounds—seen and unseen—feel a soothing touch as though shared by a compassionate guardian."
+      }
+    },
+    {
+      "name": "ZAFASAI",
+      "visual_description": {
+        "clothing": "He is adorned in pale gray light silk attire decorated with subtle zodiacal symbols.",
+        "aura": "His aura is vast and echoing, as though filled with the silence of the void.",
+        "physical_features": "He stands gentle and graceful, with eyes that glow with inner light, and spectral wings shimmer in and out of sight.",
+        "familiars": "He is accompanied by silent shades, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He holds an empty ewer, representing the void of emptiness.",
+        "voice": "His voice whispers with breathy and distant tones.",
+        "movement": "He glides with uncanny smoothness, as if moving in a dream.",
+        "environment": "In his presence, chatter falls into hush; a contemplative stillness expands, and one gazes into inner emptiness unafraid."
+      }
+    },
+    {
+      "name": "YALPAMB",
+      "visual_description": {
+        "clothing": "He wears pale gray billowing robes decorated with glinting starlight threads.",
+        "aura": "His aura spirals with mysterious finality and newness, alpha and omega entwined.",
+        "physical_features": "He stands towering and majestic, with eyes that gleam with ancient wisdom, and six radiant wings unfurl behind him.",
+        "familiars": "He is flanked by twin drakes of dawn and dusk, manifesting as ethereal beings that swirl near him.",
+        "artifacts": "He carries a ring inscribed with the first and last letters, representing the beginning and the end.",
+        "voice": "His voice has a deep and rumbling tone.",
+        "movement": "He advances with measured, steady steps that ground him.",
+        "environment": "In his presence, life cycles reveal themselves whole—birth and death touching, each containing the seed of the other."
+      }
+    },
+    {
+      "name": "TORZOXI",
+      "visual_description": {
+        "clothing": "She is clad in sky-blue billowing robes decorated with glinting starlight threads.",
+        "aura": "Her aura surges upward with bold strength, inspiring courage and resilience.",
+        "physical_features": "She stands stately, with eyes that reflect deep compassion, and four ethereal wings hover around her.",
+        "familiars": "She is accompanied by eagle-like spirits, manifesting as ethereal beings that gather near her.",
+        "artifacts": "She holds a horn of valor, representing rising in strength.",
+        "voice": "Her voice rings with a clear and ringing tone.",
+        "movement": "She glides swiftly and nimble as a gust of wind.",
+        "environment": "Wherever she goes, the downtrodden stand taller and a palpable strength lifts those in her presence."
+      }
+    },
+    {
+      "name": "ABRIOND",
+      "visual_description": {
+        "clothing": "He is adorned in sky-blue feathered cloak decorated with faint rainbow shimmer.",
+        "aura": "His aura carries a sense of solemn preparation, like land lying quiet before a coronation.",
+        "physical_features": "He appears stately, with eyes that burn with celestial fire, and a pair of mighty wings cast his shadow.",
+        "familiars": "He is attended by spectral stewards, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He bears a silver key and crown, representing the preparation of a kingdom.",
+        "voice": "His voice resounds with deep and rumbling authority.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "In his presence, disorder arranges itself—paths clear, heralds appear, and all readies itself as if for an approaching king."
+      }
+    },
+    {
+      "name": "OMAGRAP",
+      "visual_description": {
+        "clothing": "He is garbed in sky-blue diaphanous gown decorated with subtle zodiacal symbols.",
+        "aura": "His aura is cool and reflective, suffused with the gentle glow of moonlight and secret lore.",
+        "physical_features": "He stands stately, with eyes that shine like stars, and spectral wings shimmer in and out of sight.",
+        "familiars": "He is accompanied by pale moths and owl-like spirits, manifesting as ethereal beings that circle near him.",
+        "artifacts": "He holds a moonstone orb, representing lunar knowledge.",
+        "voice": "His voice whispers with breathy and distant tones.",
+        "movement": "He glides almost drifting on unseen currents.",
+        "environment": "Wherever he goes, night-blooming flowers open and a gentle nocturnal clarity descends, as though illuminated by an unseen moon."
+      }
+    },
+    {
+      "name": "ZILDRON",
+      "visual_description": {
+        "clothing": "He is clad in indigo ceremonial robes decorated with shifting sigils.",
+        "aura": "His aura thrums with momentum and urgency, as though he carries the winds of change on his back.",
+        "physical_features": "He stands gentle and graceful, with eyes that glow with inner light, and his feathered wings stir the air.",
+        "familiars": "He is attended by starlings and swallows, manifesting as ethereal beings that dance near him.",
+        "artifacts": "He bears an arrow drawn on an eternal bow, representing setting things in flight.",
+        "voice": "His voice echoes softly like distant windchimes.",
+        "movement": "He glides swiftly and nimble as a gust of wind.",
+        "environment": "In his presence, stagnation breaks—things long grounded suddenly lift and take flight on new prospects."
+      }
+    },
+    {
+      "name": "PARZIBA",
+      "visual_description": {
+        "clothing": "He wears indigo shimmering cloak decorated with faint constellations.",
+        "aura": "His aura carries a weightless promise that clings kindly to every word he offers.",
+        "physical_features": "He stands gentle and graceful, with eyes that reflect deep compassion, and his feathered wings stir the air.",
+        "familiars": "He is accompanied by dove-like spirits, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He holds a scroll sealed but unbroken, representing promises kept.",
+        "voice": "His voice has a whispery and melodic quality.",
+        "movement": "He moves with a flowing gait, each step like a ripple.",
+        "environment": "Wherever he goes, despair gives way to hope, as if each unspoken promise finds silent assurance of fulfillment."
+      }
+    },
+    {
+      "name": "TOTOCAN",
+      "visual_description": {
+        "clothing": "He is robed in indigo ceremonial robes decorated with shifting sigils.",
+        "aura": "His aura pulses with measured inevitability, like the ticking of some cosmic clock cycling through ages.",
+        "physical_features": "He appears stately, with eyes that gleam with ancient wisdom, and a wheel of light with eyes interlocks behind him.",
+        "familiars": "He is flanked by spectral timekeepers, manifesting as ethereal beings that circle near him.",
+        "artifacts": "He carries a great wheel marked by seasons, representing the driving of cycles.",
+        "voice": "His voice resounds with deep and rumbling authority.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "In his presence, the flow of time grows palpable; one feels the turning of great cycles, inexorable yet reassuring in their order."
+      }
+    },
+    {
+      "name": "CHIRZPA",
+      "visual_description": {
+        "clothing": "He is clad in bright white ornamental armor decorated with etched runes of stone.",
+        "aura": "His aura rings with jubilant clamor, alive with the echoes of triumphant shouts.",
+        "physical_features": "He stands towering and majestic, with eyes that glow with inner light, and six radiant wings unfurl behind him.",
+        "familiars": "He is accompanied by trumpet-bearing cherubs, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He carries a silver trumpet, representing loud rejoicing.",
+        "voice": "His voice has a clear and ringing tone.",
+        "movement": "He advances with a vigorous stride, leaving warmth in his wake.",
+        "environment": "Wherever he goes, silence is broken by spontaneous exclamations of joy; it is as though the very air celebrates loudly in his presence."
+      }
+    },
+    {
+      "name": "TOANTOM",
+      "visual_description": {
+        "clothing": "He is garbed in bright white feathered cloak decorated with a faint rainbow shimmer.",
+        "aura": "His aura hums with curiosity and thirst for insight, gently pressing for knowledge in all directions.",
+        "physical_features": "He appears gentle and graceful, with eyes that reflect deep compassion, and his feathered wings stir the air.",
+        "familiars": "He is attended by luminous owls, manifesting as ethereal beings that circle near him.",
+        "artifacts": "He holds a quill and infinite scroll, embodying the love of knowledge.",
+        "voice": "His voice whispers with soothing and fluid tones.",
+        "movement": "He glides smoothly and freely, as if weightless.",
+        "environment": "Wherever he goes, questions surface naturally and answers seem within reach; the atmosphere feels like a benevolent library come alive."
+      }
+    },
+    {
+      "name": "VIXPALG",
+      "visual_description": {
+        "clothing": "He is adorned in bright white flowing robes decorated with vine-like embroidery.",
+        "aura": "His aura smolders with a quiet intensity, as if continuously consuming and transmuting energies around.",
+        "physical_features": "He stands radiant and imposing, with eyes that burn with celestial fire, and two brilliant wings glimmer at his back.",
+        "familiars": "He is flanked by salamander-like phantoms, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He bears a chalice of smoldering coals, representing consuming forces.",
+        "voice": "His voice has a deep and rumbling tone.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "In his presence, things hasten to their conclusions—candles burn faster, tempers quickly flare and subside, as if some consuming force quickens all processes."
+      }
+    },
+    {
+      "name": "OSIDAIA",
+      "visual_description": {
+        "clothing": "He wears sky-blue billowing robes decorated with subtle zodiacal symbols.",
+        "aura": "His aura shines with veracity and clarity, a beacon of truthful divinity.",
+        "physical_features": "He appears stately, with eyes that reflect deep compassion, and a pair of shimmering wings arch from his shoulders.",
+        "familiars": "He is surrounded by eagle-eyed seraphs, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He holds an engraved tablet of divine law, representing godly truth.",
+        "voice": "His voice echoes softly like distant windchimes.",
+        "movement": "He glides with a flowing gait, each step like a ripple.",
+        "environment": "In his presence, deceptions fall away and a sacred clarity reigns, as though a higher truth gently asserts itself over all."
+      }
+    },
+    {
+      "name": "PAOAOAN",
+      "visual_description": {
+        "clothing": "He is garbed in pure white shimmering cloak decorated with shifting sigils.",
+        "aura": "His aura is watchful and penetrating, as though unseen eyes keep gentle vigil over all.",
+        "physical_features": "He stands stately, with eyes that shine like stars, and spectral wings shimmer in and out of sight.",
+        "familiars": "He is accompanied by vigilant owl spirits, manifesting as ethereal beings that circle near him.",
+        "artifacts": "He bears a circlet with an eye motif, representing ever-seeing eyes.",
+        "voice": "His voice has a whispery and melodic quality.",
+        "movement": "He advances with undulating grace, as though underwater.",
+        "environment": "Wherever he goes, all feel transparently seen yet comforted, as though a compassionate gaze watches over every soul."
+      }
+    },
+    {
+      "name": "CALZIRG",
+      "visual_description": {
+        "clothing": "She is robed in deep green heavy tunic decorated with bark-like textures.",
+        "aura": "Her aura arches high and vast, firmament-like in its supportive stillness.",
+        "physical_features": "She appears radiant and imposing, with eyes that gleam with ancient wisdom, and stony wings engraved with sigils extend from her shoulders.",
+        "familiars": "She is attended by skyward sylphs, manifesting as ethereal beings that hover near her.",
+        "artifacts": "She carries a crystalline sphere, representing the dome of the firmament.",
+        "voice": "Her voice is resonant like an echo in a cave.",
+        "movement": "She moves with measured, steady steps that ground her.",
+        "environment": "Wherever she goes, the sky above feels nearer and protective, like a cosmic dome gently sheltering those beneath."
+      }
+    },
+    {
+      "name": "RONOOMB",
+      "visual_description": {
+        "clothing": "He is clad in emerald green draped robes decorated with vine-like embroidery.",
+        "aura": "His aura vibrates with purposeful development, shepherding ideas into reality.",
+        "physical_features": "He stands stately, with eyes that gleam with ancient wisdom, and stony wings engraved with sigils extend from his shoulders.",
+        "familiars": "He is flanked by spectral architects, manifesting as ethereal beings that swirl near him.",
+        "artifacts": "He carries a blueprints scroll and compass, embodying the process of becoming.",
+        "voice": "His voice resounds with deep and rumbling authority.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "In his presence, projects find direction and inertia turns to progress, as if an unseen hand steadies every endeavor toward completion."
+      }
+    },
+    {
+      "name": "ONIZIMP",
+      "visual_description": {
+        "clothing": "He wears emerald green ornate armor decorated with gemstone inlays.",
+        "aura": "His aura brims with industrious energy, as though labor itself were a noble hymn.",
+        "physical_features": "He stands towering and majestic, with eyes that burn with celestial fire, and a pair of mighty wings cast his shadow.",
+        "familiars": "He is accompanied by sturdy gnome-like entities, manifesting as ethereal beings that gather near him.",
+        "artifacts": "He wields a great hammer and chisel, representing the bringing forth of labor.",
+        "voice": "His voice has a deep and rumbling tone.",
+        "movement": "He advances with a vigorous stride, leaving warmth in his wake.",
+        "environment": "Wherever he goes, idle hands itch to work and the fruits of honest labor manifest steadily, as if hewed from the bedrock of the world."
+      }
+    },
+    {
+      "name": "ZAXANIN",
+      "visual_description": {
+        "clothing": "He is garbed in emerald green heavy tunic decorated with mossy cloak.",
+        "aura": "His aura hums with nomenclative power—the act of naming and defining suffuses the air.",
+        "physical_features": "He stands stately, with eyes that gleam with ancient wisdom, and a pair of mighty wings cast his shadow.",
+        "familiars": "He is attended by whispering sylphs of identity, manifesting as ethereal beings that swirl near him.",
+        "artifacts": "He holds a codex brimming with words, representing the naming of things.",
+        "voice": "His voice echoes softly like distant windchimes.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "In his presence, ambiguity dissipates; everything around seems to declare its true name or purpose in a subtle, resonant way."
+      }
+    },
+    {
+      "name": "ORANCIR",
+      "visual_description": {
+        "clothing": "He is robed in emerald green draped robes decorated with living ivy trim.",
+        "aura": "His aura is expansive and unifying, bridging realms above and below with gentle authority.",
+        "physical_features": "He appears towering and majestic, with eyes that shine like stars, and six radiant wings unfurl behind him.",
+        "familiars": "He is flanked by winged bulls of earth and sky, manifesting as ethereal beings that circle near him.",
+        "artifacts": "He carries a staff crowned with sun and rooted with stone, representing dominion above and below.",
+        "voice": "His voice resounds with deep and rumbling authority.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "Wherever he stands, divisions between heaven and earth blur; the lofty and the lowly meet in harmony under his watch."
+      }
+    },
+    {
+      "name": "CHASLPO",
+      "visual_description": {
+        "clothing": "He is clad in emerald green leaf-woven mantle decorated with vine-like embroidery.",
+        "aura": "His aura bubbles with jubilation and awe, as if the world itself rejoices in wonder.",
+        "physical_features": "He stands gentle and graceful, with eyes that reflect deep compassion, and his feathered wings stir the air.",
+        "familiars": "He is surrounded by laughing fae, manifesting as ethereal beings that dance near him.",
+        "artifacts": "He holds a chalice of sparkling nectar, embodying wondrous joy.",
+        "voice": "His voice whispers with soothing and fluid tones.",
+        "movement": "He moves with a flowing gait, each step like a ripple.",
+        "environment": "Wherever he goes, colors seem brighter and each moment holds a bit of magic—an infectious joy that spreads like sunlight after rain."
+      }
+    },
+    {
+      "name": "SOAGEEL",
+      "visual_description": {
+        "clothing": "He wears emerald green heavy tunic decorated with bark-like textures.",
+        "aura": "His aura is steadfast and supportive, the comforting presence of one who lends aid generously.",
+        "physical_features": "He appears gentle and graceful, with eyes that reflect deep compassion, and stony wings engraved with sigils extend from his shoulders.",
+        "familiars": "He is accompanied by emerald drakes of mercy, manifesting as ethereal beings that swirl near him.",
+        "artifacts": "He bears a staff entwined with vines and hands, representing helpfulness.",
+        "voice": "His voice has a steady and firm tone.",
+        "movement": "He glides with undulating grace, as though underwater.",
+        "environment": "In his presence, burdens lighten as helping hands seem to emerge from nowhere; all feel that the universe itself is eager to assist."
+      }
+    },
+    {
+      "name": "MIRZIND",
+      "visual_description": {
+        "clothing": "He is garbed in deep green mossy cloak decorated with bark-like textures.",
+        "aura": "His aura drips with bitterness and trial, yet within it lies the seed of eventual relief.",
+        "physical_features": "He stands stately, with eyes that burn with celestial fire, and stony wings engraved with sigils extend from his shoulders.",
+        "familiars": "He is flanked by shadowy wraiths, manifesting as ethereal beings that gather near him.",
+        "artifacts": "He holds a vial of dark water labeled with torment, representing the Waters of Torment.",
+        "voice": "His voice is resonant like an echo in a cave.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "Wherever he goes, old pains surface briefly like thorns drawn from flesh, only to wash away—the suffering confronted and cleansed by unseen waters."
+      }
+    },
+    {
+      "name": "OBUAORS",
+      "visual_description": {
+        "clothing": "She is clad in deep green ornate armor decorated with etched runes of stone.",
+        "aura": "Her aura cloaks half in shadow and half in light, an ever-present balance between concealment and revelation.",
+        "physical_features": "She appears radiant and imposing, with eyes that reflect deep compassion, and a wheel of light with eyes interlocks behind her.",
+        "familiars": "She is accompanied by twilight sentinels, manifesting as ethereal beings that hover near her.",
+        "artifacts": "She bears a mask split into light and dark halves, representing half darkness.",
+        "voice": "Her voice rings with a clear and ringing tone.",
+        "movement": "She moves with measured, steady steps that ground her.",
+        "environment": "Wherever she goes, day dims and night softens—the world itself balancing on the edge of dusk, embracing both darkness and light."
+      }
+    },
+    {
+      "name": "RANGLAM",
+      "visual_description": {
+        "clothing": "He is robed in deep green draped robes decorated with vine-like embroidery.",
+        "aura": "His aura is contemplative and disciplined, as if every thought is weighed and harnessed.",
+        "physical_features": "He stands stately, with eyes that gleam with ancient wisdom, and two subtle wings glimmer at his back.",
+        "familiars": "He is accompanied by owl-like sages, manifesting as ethereal beings that swirl near him.",
+        "artifacts": "He holds a circlet of iron inscribed on the inner side, representing governed thoughts.",
+        "voice": "His voice whispers with breathy and distant tones.",
+        "movement": "He glides smoothly and freely, as if weightless.",
+        "environment": "In his presence, stray thoughts quiet and focus sharpens—as though each mind willingly places itself under calm governance."
+      }
+    },
+    {
+      "name": "POPHAND",
+      "visual_description": {
+        "clothing": "He is adorned in earthy brown heavy tunic decorated with bark-like textures.",
+        "aura": "His aura feels partitioned yet unified, like three voices harmonizing within one being.",
+        "physical_features": "He appears stately, with eyes that shine like stars, and a wheel of light with eyes interlocks behind him.",
+        "familiars": "He is flanked by tripartite spirits, manifesting as ethereal beings that dance near him.",
+        "artifacts": "He bears a tri-bladed staff, representing a being divided into three parts.",
+        "voice": "His voice is resonant like an echo in a cave.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "In his presence, groups of three act in uncanny concert, and anything divided finds a strange unity in its fragmentation."
+      }
+    },
+    {
+      "name": "NIGRANA",
+      "visual_description": {
+        "clothing": "He is clad in earthy brown draped robes decorated with vine-like embroidery.",
+        "aura": "His aura flows in steady cadence, half luminous and half obscure, like moon phases cycling.",
+        "physical_features": "He stands gentle and graceful, with eyes that glow with inner light, and stony wings engraved with sigils extend from his shoulders.",
+        "familiars": "He is accompanied by silver-furred wolves and black crows, manifesting as ethereal beings that circle near him.",
+        "artifacts": "He holds a moonstone disc halved in light and shadow, signifying the lunar cycle of days.",
+        "voice": "His voice has a steady and firm tone.",
+        "movement": "He moves with a flowing gait, each step like a ripple.",
+        "environment": "Wherever he goes, one feels the pull of lunar tides—time moves in natural cycles, and emotions ebb and rise in balanced measure."
+      }
+    },
+    {
+      "name": "LAZHIIM",
+      "visual_description": {
+        "clothing": "He wears earthy brown ornate armor decorated with mossy cloak.",
+        "aura": "His aura crackles with initiative—no chance is lost, every moment seized with grounded efficiency.",
+        "physical_features": "He stands towering and majestic, with eyes that burn with celestial fire, and a pair of mighty wings cast his shadow.",
+        "familiars": "He is attended by industrious gnomes, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He wields a hammer and sickle twined together, embodying mastery of the moment.",
+        "voice": "His voice has a deep and rumbling tone.",
+        "movement": "He moves with a vigorous stride, leaving warmth in his wake.",
+        "environment": "In his presence, hesitation vanishes—tools find hands, tasks find doers, and every heartbeat is utilized to its fullest potential."
+      }
+    },
+    {
+      "name": "SAZIAMI",
+      "visual_description": {
+        "clothing": "He is adorned in earthy brown heavy tunic decorated with gemstone inlays.",
+        "aura": "His aura bristles with commanding force—unquestionable authority that asserts itself calmly yet irresistibly.",
+        "physical_features": "He stands radiant and imposing, with eyes that burn with celestial fire, and a pair of mighty wings cast his shadow.",
+        "familiars": "He is flanked by lionine shades crowned with laurels, manifesting as ethereal beings that gather near him.",
+        "artifacts": "He bears an ornate scepter topped with a sun, representing absolute authority.",
+        "voice": "His voice resounds with a fierce and commanding tone.",
+        "movement": "He advances with a vigorous stride, leaving warmth in his wake.",
+        "environment": "Wherever he goes, hierarchy crystallizes—those in his vicinity instinctively know their roles and an unshakable order prevails."
+      }
+    },
+    {
+      "name": "MATHVLA",
+      "visual_description": {
+        "clothing": "He is clad in earthy brown ornate armor decorated with etched runes of stone.",
+        "aura": "His aura imposes resolution; all indecision shudders and finds its terminus under his gaze.",
+        "physical_features": "He stands radiant and imposing, with eyes that shine like stars, and a pair of mighty wings cast his shadow.",
+        "familiars": "He is accompanied by stern adjudicators, manifesting as ethereal beings that swirl near him.",
+        "artifacts": "He wields a great gavel carved from basalt, embodying the final verdict.",
+        "voice": "His voice is resonant like an echo in a cave.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "Wherever he goes, wavering ends at once—choices are made and actions find a firm and resolute conclusion."
+      }
+    },
+    {
+      "name": "CRPANIB",
+      "visual_description": {
+        "clothing": "He is robed in earthy brown draped robes decorated with bark-like textures.",
+        "aura": "His aura silences superficial chatter; only genuine voices carry weight around him.",
+        "physical_features": "He stands radiant and imposing, with eyes that burn with celestial fire, and a wheel of light with eyes interlocks behind him.",
+        "familiars": "He is accompanied by mute heralds, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He holds an ornate muzzle, representing the destruction of idle speech.",
+        "voice": "His voice rings with a clear and ringing tone.",
+        "movement": "He advances with undulating grace, as though underwater.",
+        "environment": "In his presence, idle talk dies out mid-sentence and words become purposeful; the very air demands significance in every utterance."
+      }
+    },
+    {
+      "name": "PABNIXP",
+      "visual_description": {
+        "clothing": "He wears earthy brown heavy tunic decorated with bark-like textures.",
+        "aura": "His aura emanates sovereign influence—the subtle weight of responsibility and order.",
+        "physical_features": "He appears stately, with eyes that gleam with ancient wisdom, and two brilliant wings glimmer at his back.",
+        "familiars": "He is accompanied by stag-antlered spirits, manifesting as ethereal beings that gather near him.",
+        "artifacts": "He carries a ring of keys, representing governance.",
+        "voice": "His voice has a steady and firm tone.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "Wherever he stands, things fall under a calm jurisdiction—chaos subsides and structure prevails, as if he indeed governs the space."
+      }
+    },
+    {
+      "name": "POCISNI",
+      "visual_description": {
+        "clothing": "He is garbed in earthy brown mossy cloak decorated with vine-like embroidery.",
+        "aura": "His aura shimmers with otherworldly grace, suggesting communion between earthly beings and celestial realms.",
+        "physical_features": "He appears gentle and graceful, with eyes that reflect deep compassion, and his feathered wings stir the air.",
+        "familiars": "He is accompanied by translucent figures with gentle smiles, manifesting as ethereal beings that circle near him.",
+        "artifacts": "He holds a slender ladder of light, representing visitations to Heaven.",
+        "voice": "His voice echoes softly like distant windchimes.",
+        "movement": "He glides smoothly and freely, as if weightless.",
+        "environment": "In his presence, a hush of reverence falls; one feels as though kindly eyes from above watch and welcome those near him."
+      }
+    },
+    {
+      "name": "OXLOPAR",
+      "visual_description": {
+        "clothing": "He is clad in earthy brown ornate armor decorated with gemstone inlays.",
+        "aura": "His aura exudes assured control—every element around him feels cradled in steady hands.",
+        "physical_features": "He appears stately, with eyes that shine like stars, and stony wings engraved with sigils extend from his shoulders.",
+        "familiars": "He is flanked by golem-like figures, manifesting as ethereal beings that hover near him.",
+        "artifacts": "He bears an orb cradled by two hands, representing all things in his grasp.",
+        "voice": "His voice is resonant like an echo in a cave.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "Wherever he goes, chaos is gently subdued; objects stay put, tempers ease, and one senses that everything is held securely within careful hands."
+      }
+    },
+    {
+      "name": "VASTRIM",
+      "visual_description": {
+        "clothing": "He is robed in emerald green leaf-woven mantle decorated with living ivy trim.",
+        "aura": "His aura softly shines with benevolence and reprieve—a merciful light that soothes the weary.",
+        "physical_features": "He stands gentle and graceful, with eyes that reflect deep compassion, and two subtle wings glimmer at his back.",
+        "familiars": "He is attended by gentle fawns and doves, manifesting as ethereal beings that gather near him.",
+        "artifacts": "He carries a small bowl of healing light, embodying true mercy.",
+        "voice": "His voice whispers with soothing and fluid tones.",
+        "movement": "He glides with undulating grace, as though underwater.",
+        "environment": "Wherever he goes, grudges dissolve and forgiveness blooms unexpectedly—an atmosphere of grace pervades, inviting compassion."
+      }
+    },
+    {
+      "name": "ODRAXTI",
+      "visual_description": {
+        "clothing": "He wears emerald green ornate armor decorated with etched runes of stone.",
+        "aura": "His aura feels like a great gateway yawning open—a new dawn breaking from the East.",
+        "physical_features": "He stands towering and majestic, with eyes that glow with inner light, and six radiant wings unfurl behind him.",
+        "familiars": "He is accompanied by golden eagles, manifesting as ethereal beings that soar near him.",
+        "artifacts": "He holds a radiant key and compass, representing the opening of the East.",
+        "voice": "His voice resounds with a fierce and commanding tone.",
+        "movement": "He moves with a vigorous stride, leaving warmth in his wake.",
+        "environment": "In his presence, doors literally open on their own and morning light intensifies, as though the very East answers his call, ushering in new beginnings."
+      }
+    },
+    {
+      "name": "GMTZIAM",
+      "visual_description": {
+        "clothing": "She is adorned in emerald green gossamer gown decorated with dripping beadwork like dew.",
+        "aura": "Her aura is intensely self-contained, a mirror reflecting only her own singular essence.",
+        "physical_features": "She appears gentle and graceful, with eyes that gleam with ancient wisdom, and translucent fins like wings fan out behind her.",
+        "familiars": "She is surrounded by whirling mirror-shards, manifesting as ethereal beings that dance near her.",
+        "artifacts": "She holds a hand-mirror that shows only her face regardless of who looks, representing knowing only oneself.",
+        "voice": "Her voice whispers with breathy and distant tones.",
+        "movement": "She glides with uncanny smoothness, as if moving in a dream.",
+        "environment": "Wherever she goes, minds turn inward; each person momentarily forgets the world and sees only their own soul, alone and complete."
+      }
+    },
+    {
+      "name": "TAAOGBA",
+      "visual_description": {
+        "clothing": "He is garbed in aquamarine sea-silk vestments decorated with coral embroidery.",
+        "aura": "His aura courses with ambitious vigor, like a seed pushing up to become the tallest tree.",
+        "physical_features": "He stands towering and majestic, with eyes that glow with inner light, and six radiant wings unfurl behind him.",
+        "familiars": "He is flanked by phoenix fledglings and oak saplings entwined, manifesting as ethereal beings that swirl near him.",
+        "artifacts": "He holds a budding staff crowned with a sun, representing a foremost beginning.",
+        "voice": "His voice rings with a clear and ringing tone.",
+        "movement": "He advances with a vigorous stride, leaving warmth in his wake.",
+        "environment": "Wherever he goes, what is small and humble swells with potential—tiny flames brighten, seedlings straighten—as though heralding the rise of something great."
+      }
+    },
+    {
+      "name": "GEMNIMB",
+      "visual_description": {
+        "clothing": "He is clad in aquamarine gossamer gown decorated with pearlescent sheen.",
+        "aura": "His aura has a fleeting quality, beautiful and poignant like a blossom that will soon fall.",
+        "physical_features": "He appears gentle and graceful, with eyes that glow with inner light, and translucent fins like wings fan out behind him.",
+        "familiars": "He is accompanied by ephemeral butterflies, manifesting as ethereal beings that dance near him.",
+        "artifacts": "He carries a withering garland of petals, representing a season’s brevity.",
+        "voice": "His voice whispers with soothing and fluid tones.",
+        "movement": "He glides with undulating grace, as though underwater.",
+        "environment": "In his presence, people cherish the moment a little more; the air carries the wistful sweetness of something lovely that will not last."
+      }
+    },
+    {
+      "name": "ADVORPT",
+      "visual_description": {
+        "clothing": "She is robed in aquamarine fluid cloak decorated with waterfall-like drapes.",
+        "aura": "Her aura is silent and watchful, as subtle as a shadow at noon yet ever-present.",
+        "physical_features": "She appears gentle and graceful, with eyes that reflect deep compassion, and translucent fins like wings fan out behind her.",
+        "familiars": "She is surrounded by spectral sentinels that make no sound, manifesting as ethereal beings that hover near her.",
+        "artifacts": "She carries a veil of midnight blue, representing silent vigilance.",
+        "voice": "Her voice has a whispery and melodic quality.",
+        "movement": "She glides smoothly and freely, as if weightless.",
+        "environment": "Wherever she goes, a hush falls; even nature itself seems to hold its breath, as though in the company of an unseen watcher."
+      }
+    },
+    {
+      "name": "DOXMAEL",
+      "visual_description": {
+        "clothing": "He is clad in foamy white fluid cloak decorated with waterfall-like drapes.",
+        "aura": "His aura brings a gentle darkness—not of evil, but of rest and renewal under night’s blanket.",
+        "physical_features": "He appears stately, with eyes that gleam with ancient wisdom, and his feathered wings stir the air.",
+        "familiars": "He is attended by midnight sparrows and fireflies, manifesting as ethereal beings that swirl near him.",
+        "artifacts": "He bears a lantern that glows like a distant star, representing establishing the night.",
+        "voice": "His voice resounds with a deep and rumbling tone.",
+        "movement": "He moves with measured, steady steps that ground him.",
+        "environment": "In his presence, day gently yields to night—lights dim to a comforting glow and a serene hush marks the establishment of evening."
+      }
+    }
+  ]
+  

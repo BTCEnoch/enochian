@@ -1,0 +1,15 @@
+[
+    { "name": "Stern",    "definition": "Firm and uncompromising in delivery." },
+    { "name": "Nurturing","definition": "Gentle and supportive, fostering growth." },
+    { "name": "Formal",   "definition": "Strictly correct and ceremonious." },
+    { "name": "Casual",   "definition": "Relaxed and conversational." },
+    { "name": "Intense",  "definition": "Charged with focused energy." },
+    { "name": "Gentle",   "definition": "Soft and comforting." },
+    { "name": "Playful",  "definition": "Lighthearted and teasing." },
+    { "name": "Serious",  "definition": "Grave and earnest." },
+    { "name": "Cryptic",  "definition": "Oblique and mysterious." },
+    { "name": "Direct",   "definition": "Clear and unambiguous." },
+    { "name": "Warm",     "definition": "Friendly and compassionate." },
+    { "name": "Cool",     "definition": "Detached and composed." }
+  ]
+  

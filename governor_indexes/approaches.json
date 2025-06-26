@@ -1,0 +1,15 @@
+[
+    { "name": "Teaching",    "definition": "Imparts knowledge through explanation." },
+    { "name": "Encouraging", "definition": "Uplifts and bolsters confidence." },
+    { "name": "Challenging", "definition": "Pushes to overcome limits." },
+    { "name": "Deceiving",   "definition": "Uses cunning to test or mislead." },
+    { "name": "Comforting",  "definition": "Offers solace in distress." },
+    { "name": "Punishing",   "definition": "Dispenses consequences for mistakes." },
+    { "name": "Guiding",     "definition": "Leads step-by-step toward a goal." },
+    { "name": "Provoking",   "definition": "Stirs emotions to trigger action." },
+    { "name": "Prophesying", "definition": "Reveals future possibilities." },
+    { "name": "Negotiating", "definition": "Seeks mutual agreement." },
+    { "name": "Testing",     "definition": "Evaluates readiness through trials." },
+    { "name": "Protecting",  "definition": "Shields from harm and danger." }
+  ]
+  
