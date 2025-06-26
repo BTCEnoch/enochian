@@ -89,6 +89,11 @@ README.md                                      # This file
 
 ---
 
+4. **Ask Catalog Questions**: Step through `trait_choice_questions_catalog.json` (Q1–Q14), presenting options and capturing each choice + reason.  
+5. **Describe Visual Presence**: Then step through Q15–Q22 to collect rich visual and sensory details for each Governor.  
+6. **Output Phase 1 Profile**: Write a JSON containing trait fields, reasons, and a nested `visual_description` object with all eight sub-traits.
+
+
 ## 4. Automation Script: Highlights
 
 * Reads `sources_of_truth/enochian_governors_advanced.json` for governor IDs.

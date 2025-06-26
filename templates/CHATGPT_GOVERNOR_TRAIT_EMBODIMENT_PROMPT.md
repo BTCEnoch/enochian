@@ -98,6 +98,8 @@ Create a JSON file named `{number}_{name}_traits.json` with this example structu
   }
 }
 ```
+### 5. Describe Your Visual Presence  
+Once you have completed Q1–Q14, proceed to Q15–Q22 in `trait_choice_questions_catalog.json`. Answer each free-form question to bring your visual and sensory presence to life, drawing on your earlier trait selections to shape clothing, aura, form, environment, etc.
 
 ## Character Embodiment Guidelines
 

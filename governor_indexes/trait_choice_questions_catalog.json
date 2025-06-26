@@ -114,6 +114,70 @@
     "required_choices": 0,
     "capture_reason": true,
     "multi_relation": true
-    }
+    },
+    {
+        "id": "Q15",
+        "field": "visual_description.clothing",
+        "prompt": "Describe your clothing: how it appears, what materials or motifs it contains, and how it reflects your elemental nature and chosen traits.",
+        "options_file": null,
+        "required_choices": 1,
+        "capture_reason": true
+      },
+      {
+        "id": "Q16",
+        "field": "visual_description.aura",
+        "prompt": "Describe the aura that surrounds you: its color, texture, movement, and how it resonates with your alignment and virtues.",
+        "options_file": null,
+        "required_choices": 1,
+        "capture_reason": true
+      },
+      {
+        "id": "Q17",
+        "field": "visual_description.physical_features",
+        "prompt": "Describe your physical form or features (human or otherwise): shape, markings, otherworldly aspects, and how these signal your essence and flaws.",
+        "options_file": null,
+        "required_choices": 1,
+        "capture_reason": true
+      },
+      {
+        "id": "Q18",
+        "field": "visual_description.familiars",
+        "prompt": "Describe any familiars or spirit‐companions that attend you: their appearance, behavior, and symbolic link to your domains and incarnations.",
+        "options_file": null,
+        "required_choices": 1,
+        "capture_reason": true
+      },
+      {
+        "id": "Q19",
+        "field": "visual_description.artifacts",
+        "prompt": "Describe your signature artifact(s): form, function, and how they channel your power and archetypal correspondences.",
+        "options_file": null,
+        "required_choices": 1,
+        "capture_reason": true
+      },
+      {
+        "id": "Q20",
+        "field": "visual_description.voice",
+        "prompt": "Describe the sound of your voice: tone, cadence, resonance, and how it shifts across reputation tiers.",
+        "options_file": null,
+        "required_choices": 1,
+        "capture_reason": true
+      },
+      {
+        "id": "Q21",
+        "field": "visual_description.movement",
+        "prompt": "Describe how you move or gesture: speed, fluidity, patterns, and what that reveals about your orientation and polarity.",
+        "options_file": null,
+        "required_choices": 1,
+        "capture_reason": true
+      },
+      {
+        "id": "Q22",
+        "field": "visual_description.environment",
+        "prompt": "Describe the sensory environment immediately around you: light, sound, scent, and how it shifts with your mood and approach.",
+        "options_file": null,
+        "required_choices": 1,
+        "capture_reason": true
+      }
     ]
     }
