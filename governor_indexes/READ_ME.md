@@ -2,6 +2,8 @@
 
 This repository brings to life the **91 Enochian Governors**—divine archetypes of cosmic forces—within an interactive, turn‑based simulation backed by immutable blockchain inscriptions. Seekers may commune, learn, and ascend through trials, with each Governor's ultimate wisdom forever preserved on Bitcoin.
 
+
+In addition to the source material, you will access the web and research the individual governor role you have embodied and source your research in the following priorities and sources.  To be able to make an educated albeit interpretive selection of answers solely from the json files found within governor_indexes as your only available choices 
 ---
 
 ## 1. Esoteric Foundations
@@ -47,7 +49,7 @@ This repository brings to life the **91 Enochian Governors**—divine archetypes
 ### 3.1 Directory Layout
 
 ```
-csv_columns/enochian_governors_advanced.json    # Master list of 91 governors
+sources_of_truth/enochian_governors_advanced.json    # Master list of 91 governors
 governor_indexes/                              # Trait index JSONs & question catalog
   alignment_motives.json
   self_regard_options.json
@@ -60,25 +62,24 @@ governor_indexes/                              # Trait index JSONs & question ca
   approaches.json
   relation_types.json
   trait_choice_question_catalog.json
-  READ_ME.md
-scripts/
-  generate_trait_profiles.py                   # API‑driven automation script
+  READ_ME.md                # API‑driven automation script
+
 governor_profiles/                             # Output: 91 trait profiles JSON
 README.md                                      # This file
 ```
 
 ### 3.2 Index Files & Counts
 
-* **alignment\_motives.json** (9) — moral/ethical cores
-* **self\_regard\_options.json** (20) — self‑view archetypes
-* **role\_archetypes.json** (20) — engagement roles
-* **polarity\_cd.json** (3) — constructive ↔ balanced ↔ destructive
-* **orientation\_io.json** (3) — inward ↔ balanced ↔ outward
-* **virtues\_pool.json** (40) — positive strengths
-* **flaws\_pool.json** (40) — shadow traits
+* **alignment_motives.json** (9) — moral/ethical cores
+* **self_regard_options.json** (20) — self‑view archetypes
+* **role_archetypes.json** (20) — engagement roles
+* **polarity_cd.json** (3) — constructive ↔ balanced ↔ destructive
+* **orientation_io.json** (3) — inward ↔ balanced ↔ outward
+* **virtues_pool.json** (40) — positive strengths
+* **flaws_pool.json** (40) — shadow traits
 * **tones.json** (12) — vocal tone choices
 * **approaches.json** (12) — engagement approaches
-* **relation\_types.json** (4) — Ally, Rival, Protege, Mortal Order
+* **relation_types.json** (4) — Ally, Rival, Protege, Mortal Order
 
 ### 3.3 Trait Choice Interview Flow
 
@@ -90,14 +91,14 @@ README.md                                      # This file
 
 ## 4. Automation Script: Highlights
 
-* Reads `csv_columns/enochian_governors_advanced.json` for governor IDs.
+* Reads `sources_of_truth/enochian_governors_advanced.json` for governor IDs.
 * For each Governor:
 
   1. Send system prompt (loads indexes, follows catalog).
   2. Send user prompt (provides known traits/essence context).
   3. Receive and parse JSON response of trait choices.
   4. Save to `governor_profiles/NUMBER_NAME.json`.
-* Uses **OpenAI API**—model `gpt-4` (or `gpt-3.5-turbo`) with `temperature=0` for consistency.
+* Uses model `gpt-o4-mini` with `temperature=0` for consistency.
 * Validates JSON parsing, logs any errors, and retries or skips failures.
 
 ---
