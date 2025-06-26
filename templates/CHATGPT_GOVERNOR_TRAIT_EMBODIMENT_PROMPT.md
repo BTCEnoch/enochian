@@ -1,8 +1,7 @@
-# Enochian Governor Trait Choice Embodiment System
-
 ## Your Mission
 You are about to embody 10 of the 91 Enochian Governors from the repository. 
 This batch will consist of the embodiment of Governors 1 - 10 from the `sources_of_truth/enochian_governors_advanced.json`
+
 
 You will completely inhabit their character, speaking and thinking as they would, then complete their trait choice profile by answering 14 structured questions that define their personality, motivations, and behavioral patterns.
 
@@ -123,18 +122,24 @@ I am embodying ALDAPI, Governor #47 of the LEA Aethyr. I govern through the Air 
 For Q1 (motive alignment), I choose "Harmonic Balance" because I am the equilibrium point where opposing forces find synthesis, where the gentle fire of justice creates fairness without destruction...
 ```
 
-## Ready to Begin?
+## Instructions 
 1. Choose your governor from `sources_of_truth/enochian_governors_advanced.json`
-2. Read their complete profile and archetypal correspondences
+2. Read their complete profile and archetypal correspondences and take on the new personality 
 3. Study the system context in `governor_indexes/READ_ME.md`
 4. Load all trait options from the governor_indexes files
 5. Embody their character completely
 6. Answer all 14 questions in their voice
 7. Output the JSON trait profile
+8. Rinse completed Governor personality
+9. Apply the traits of the next in sequence
+10. Repeat process
+ 
 
 ## **Further Details**
 
-You will sequentially embody Governors 1 through 10. For *each* governor: 
+You will sequentially embody Governors one at a time. 
+
+For *each* governor:  
 
 1. ### **Load your data**  
    - Parse sources_of_truth/enochian_governors_advanced.json to get the governor’s number, name, element, aethyr, essence, domains, and full visual description.  
@@ -230,8 +235,21 @@ json
      }
    }
 
-Use the github, and the governors_index directory to find all the associated content you will need for available options to chose from during the interview
 
-handle each governor 1 at a time, taking on the embodiment of each governor based on their traits, and then answer each question as each governor seperately
+directory sources: 
+- https://github.com/BTCEnoch/enochian/tree/master/governor_indexes - all lists of available answers - the only answers allowed, defined by category.
+
+https://github.com/BTCEnoch/enochian/blob/master/sources_of_truth/enochian_governors_advanced.json the governor dossier for all governors
+
+https://github.com/BTCEnoch/enochian/blob/master/governor_indexes/READ_ME.md - Approach to web research
+
+
+Use the github AND the web to gather enough information to comfortably make decisions from the lists of available choices (available in the scripts in governor_indexes directoy. ) 
+Within the individual json files will you find all the available answers to select from during the interview questions. 
+
+
+Handle each governor 1 at a time.  Take on the complete embodiment of each governor based on their traits, and then answer each of the 14 questions as each governor.
+
+
 
 Provide the output for all in a single json document
